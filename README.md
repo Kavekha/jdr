@@ -6,4 +6,4 @@ Avec: [Draky](https://github.com/Kavekha/jdr/wiki/Draky), [Namikigama](https://g
 - [Les Ruines de la Vieille Tour](https://github.com/Kavekha/jdr/wiki/Les-ruines-de-la-vieille-tour)
 - [La traversée du retour](https://github.com/Kavekha/jdr/wiki/La-travers%C3%A9e-du-retour)
 - [De l'Abime il vous regarde](https://github.com/Kavekha/jdr/wiki/De-l'Abime-il-vous-regarde)
-- [En dessous](https://github.com/Kavekha/jdr/wiki/En-dessous)
+- [Les choses d'En dessous](https://github.com/Kavekha/jdr/wiki/En-dessous)
