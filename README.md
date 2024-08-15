@@ -8,3 +8,4 @@ Invités: [Jager](https://github.com/Kavekha/jdr/wiki/Jager), [Shizumi](https://
 - [La traversée du retour](https://github.com/Kavekha/jdr/wiki/La-travers%C3%A9e-du-retour)
 - [De l'Abime il vous regarde](https://github.com/Kavekha/jdr/wiki/De-l'Abime-il-vous-regarde)
 - [Les choses d'En dessous](https://github.com/Kavekha/jdr/wiki/Les-Choses-d'en-dessous)
+- [Le Signe du Ver](https://github.com/Kavekha/jdr/wiki/Le-Signe-du-Ver)
