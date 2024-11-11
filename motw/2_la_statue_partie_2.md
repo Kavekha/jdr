@@ -1,5 +1,6 @@
 # LA STATUE - Partie 2
 Avec : Insohous, Jacques, Dès'
+Joué le : 11/11/2024.
 
 ## Intro
 Sophie sort du parc et cherche un Serpent pour achever sa transformation.
