@@ -1,5 +1,6 @@
 # LA STATUE - Partie 1
 Avec : Insohous, Jacques, Dès'
+Joué le : 11/11/2024.
 
 ## Intro
 Une jeune fille est transformée en statue de pierre au milieu du parc de Champigny.
