@@ -58,6 +58,7 @@ Sophie sort du parc et cherche un Serpent pour achever sa transformation.
 - Insohous a une dette envers l'Esprit Serpent.
 - Les cameras ont filmés le cambriolage.
 - La police les recherche.
+- Un individu du passé de Dès va réapparaitre dans sa vie.
 
 # Univers
 - L'Esprit Serpent et les gorgones sont en guerre.
