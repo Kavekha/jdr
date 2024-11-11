@@ -67,20 +67,20 @@ Sophie sort du parc et cherche un Serpent pour achever sa transformation.
 
 # Personnages
 ## Dès (Desespoir) - Vaurienne
-Veine: 2/7 consommés.
-Dégats: 4/7 subits.
-Experience: 3/5.
-Améliorations: 1 (Retrouver un paquer de fric)
+- Veine: 2/7 consommés.
+- Dégats: 4/7 subits.
+- Experience: 3/5.
+- Améliorations: 1 (Retrouver un paquer de fric)
 
 ## Jacques - L'Ordinaire.
-Veine: 3/7 consommés.
-Dégats: 7/7 subits.
-Experience: 1/5.
-Améliorations: 1 (Gagner +1 Coriace)
+- Veine: 3/7 consommés.
+- Dégats: 7/7 subits.
+- Experience: 1/5.
+- Améliorations: 1 (Gagner +1 Coriace)
 
 ## Insohous - Le Monstre (Zombie)
-Veine: 2/7 consommés.
-Dégats: 2/7 subits.
-Experience: 4/5
-Améliorations: 1 (Manoeuvre de Monstre: Immateriel)
+- Veine: 2/7 consommés.
+- Dégats: 2/7 subits.
+- Experience: 4/5
+- Améliorations: 1 (Manoeuvre de Monstre: Immateriel)
 
