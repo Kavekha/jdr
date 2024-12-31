@@ -10,11 +10,17 @@
   - Halph, ancienne partenaire trahie pendant un coup.
 - Insohous a été transformée en zombie à cause d'une potion que lui a fait boire Dès' pour la sauver. D'où venait cette potion?
 
-## IDEES
+## IDEES (thématique greque)
 - Chimère
+- Esprit Serpent
+- Cerbère
+- Minotaure
+- Harpie
+- Hadès
+
+### Autres idées
 - Dragon vampire
 - Vampire
 - Dragon
 - Loup Garou
 - Fantome
-- Esprit Serpent
