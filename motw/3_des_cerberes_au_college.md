@@ -71,7 +71,7 @@ En cours de sport, Insohous vient récupérer des ballons dans la cave. En ouvra
 - On connait l'existence d'un Geant.
 
 # Univers
-- Les Cerbères peuvent se transformer en humains. Ces humains sont au nombre de trois, se tenant les mains. Deux filles et un garcon.
+- Les Cerbères peuvent se transformer en humains. Ces humains sont au nombre de trois, se tenant les mains. 
 - La tête du milieu est celle qui dirige le corps.
 
 # Personnages
@@ -83,7 +83,7 @@ En cours de sport, Insohous vient récupérer des ballons dans la cave. En ouvra
 
 ## Jacques - L'Ordinaire.
 - Veine: 3/7 consommés.
-- Dégats: 7/7 subits.
+- Dégats: 0/7 subits.
 - Experience: 0/5.
 - Améliorations: 2 (+1 Coriace, +1 Futé)
 
