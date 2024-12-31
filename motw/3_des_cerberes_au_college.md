@@ -38,8 +38,25 @@ En cours de sport, Insohous vient récupérer des ballons dans la cave. En ouvra
 - Ils le rammènent au Géant : il ne reste plus qu'un cerbère en liberté.
 
 ## Le dernier cerbère.
+- Le Geant informe le trio qu'un Cerbère peut se transformer en humains: un garçon au milieu de deux filles se tenant les mains.
+- Le trio retourne au collège.
+- En interrogeant le directeur, il leur indique avoir vu un trio au gymnase de boxe.
+- Sur place, le trio voit le Cerbère menaçant deux profs et cinq élèves.
+- La tête principale du Cerbère terrifie Jacques qui se mets à fuir.
+- Le même regard laisse de marbre Insohous.
+- Dès tire au fusil d'assaut dans les yeux de la tête centrale du Cerbère, qui explosent, mais les deux têtes la mordent douloureusement.
+- Insohous essait de lui ordonner de se coucher, mais le Cerbère n'obeit pas et se tourne vers elle.
+- Le Cerbère mord brutalement Insohous.
+- Dès' assomme l'une des têtes, puis la seconde.
 
-
+## La Bombe
+- Derrière le Cerbère se trouve la bombe qu'il a posé sous forme humaine.
+- Dès' veut l'eteindre, car elle s'y connait pour eteindre les trucs electroniques comme les alarmes.
+- Pas de bol, c'est une bombe artisanale et elle ne voit pas ce qu'elle pourrait faire.
+- Insohous prends la bombe et court vers le tunnel souterrain creusé par les Cerbères.
+- Elle devient immaterielle au moment où la Bombe explose : le collège n'est pas atteint.
+- Le Cerbère est reconduit au Géant.
+- Jacques conduit Dès à l'hopital pour la faire soigner.
 
 # Horloge:
 - Jour: Un Cerbre au Gymnase.
