@@ -8,6 +8,7 @@
   - Jetro: Criminel veut anéantir.
   - A profité de Chloé un monstre avec pouvoirs speciaux
   - Halph, ancienne partenaire trahie pendant un coup.
+- Insohous a été transformée en zombie à cause d'une potion que lui a fait boire Dès' pour la sauver. D'où venait cette potion?
 
 ## IDEES
 - Chimère
