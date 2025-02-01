@@ -1,0 +1,128 @@
+Carrel, Chevalier Occulte lvl 7, Humain.
+	>
+	>
+	>
+	=>
+	()
+		Traits de personnalité Je suis hanté par les souvenirs de la guerre. Je ne peux pas sortir les images de violence de ma tête.
+		Idéaux Puissance. Dans la vie comme à la guerre, le plus fort gagne (Mauvais).
+		Liens Mon honneur est ma vie.
+		Défauts J'ai peu de respect pour celui qui n'est pas un réel guerrier.
+		stats:
+			For +5 / JS 8
+			Dex +2
+			Con +2 / JS 5
+			Int +1
+			Athletisme 8, Histoire 4, Intimidation 3, Intuition 3.
+		Combat:
+			pv 60
+			CA 17 (15 + 2 Dex)
+			Init 2
+			Epee 2 mains+1. +9 Toucher (2d6 +6 Tranchant)
+			Arbalete legere +5 Toucher (1d8 +2)
+		Capacité 
+			Second Souffle 1d10 +7. 1/repos.
+			Relancer les 1,2 sur les attaques à 2 mains.
+			Fougue (+1 Action)
+			Attaque supplementaire.
+			Lien avec arme: fait revenir son arme en action bonus.
+			Magie de Guerre: Si Sort niv0, bonus pour faire une attaque malgré tout.
+		Sorts
+			DD Save: 12
+			Attaque sort: 4
+			Emplacement 4/2
+		Sorts Connus 
+			Aspersion Acide (0): Action. 18m. 1,5m autour. JS Dex ou 2d6 dmg.
+			Protection contre Arme(0): Action. 1 round. Resistance Physique.
+			Graisse(1):Action. 18m. Graisse au sol 3x3. Terrain difficile.
+				Si entre dedans ou tjrs dedans à la fin du tour: JS Dex ou Par Terre. 
+			Projectile Magique(1): Action. 36m. 3 x 1d4 +1 dmg.
+			Repli expeditif(1): Bonus. Concentration. "Foncer!". Disponible à chaque tour pour 1 Bonus.
+			Simulacre de vie(1): Action. 1h. 1d4 + 4 pv max.
+			Fleche Acide(2): Action. 27m. Attaque Sort. Si Ne touche pas: 1/2 des dmg. Si touche: 4d4 + 2d4 au tour suivant.
+		Stratégie
+			Ouverture, en melee: 
+				1. Action: Aspersion d'acide 2d6.
+				2. Attaque +9, 2d6 +6 dmg.
+				3. Fougue.
+				4. Attaque x2 +9, 2d6 +6 dmg.
+			A distance.
+				1. Action: Fleche Acide 4d4 (prochain round 2d4)
+				2. Fougue
+				3. Aspersion Acide : 2d6 
+				4. Attaque distance (bonus) +5 (1d8 +2)
+			En difficulté 
+				1. Simulacre de vie 
+				2. Second Souffle 
+				3. Replis expeditif + Action Foncer (9 x 3).
+			
+
+Kaz, Chevalier Occulte lvl 3, Gnome Foret .
+	>
+	>
+	>
+	=>
+	()
+		stats:
+			JS For +2
+			Dex +3 
+			Con +2 / JS Con +4
+			Int +2
+			Athletisme 2, Intimidation 2, Intuition 2, Perception 2.
+		combat
+			28 pv. 
+			Init +3 
+			CA 15 (12 + 3)
+			Epée Courte +5 (1d6 +3)
+			Arbalete Poing +7 (1d6 +3)
+		Sorts 
+			DD 12 
+			Attaque Sort 4 
+			Emplacement 2 
+		Sorts connus: 
+			Illusion mineure(0) - 1 action. Dure 1 min. Image / son. 
+			Message(0) - 1 action. 36 m. 
+			AppelFamilier(1) - Rituel 1h. Lezard.
+			Repli Expeditif(1) - Bonus. Concentration. Permets de Foncer. Utilisable par la suite sur action bonus.
+			Saut(1) - Action. Contact. Permets de sauter x3.
+		Capacités 
+			Second Souffle 1d10 +3 pv (bonus)
+			Fougue 
+			Lien avec Arme 
+
+Kin, Chevalier Occulte lvl 3, Gnome Roches 
+		>
+	>
+	>
+	=>
+	()
+		stats:
+			For +2 / JS +4
+			Dex +1
+			Con +3 / JS +5
+			Int +2 
+			Cha -1 
+			Atheltisme 4, Intimidation 1, Survie 2.
+		Combat 
+			Pv 31 
+			CA 18 (16 +2)
+			Init +1 
+			Epee longue +4 (1d8 +2)
+			Arbalete poing  +3 (1d6 +1)
+		Sorts 
+			DD 12 
+			Attaque Sort +4 
+			Emplacements 2.
+		Sorts connus 
+			Protection Contre Arme(0) - 1 action. Perso. 1 Round. Resistance physique.
+			Trait de feu (0) - 1 action. 36 m. 1d10 dmg Feu.
+			Bouclier(1) - Reaction. 1 round. +5 CA. Protection Projectile Magique.
+			Projectile Magique(1) - Action. 3 x 1d4 +1 dmg force.
+			Simulacre Vie(1) - Action. 1d4 +4 pv temporaire.
+		Capacités
+			Second Souffle 1d10+3 
+			Protection : Reaction pour mettre un DES sur un Enemi attaquant un allié proche.
+			Fougue 
+			Lien avec une arme.
+			
+			

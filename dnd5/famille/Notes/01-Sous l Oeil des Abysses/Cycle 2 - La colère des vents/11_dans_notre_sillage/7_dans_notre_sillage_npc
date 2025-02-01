@@ -1,0 +1,59 @@
+NPC =======================
+
+Medelmerick: 
+	Humain, contrebandier. A travailler avec Jethro par le passé.
+	(secret: Ancien esclave du Prince Marchand Akebhé (Elementaire Eau), en fuite).
+	> Cicatrices diverses.
+	- Ne pas être capturé par les hommes d'Akebhé.
+	- Conduire le groupe où il le souhaite pour retourner à BriseWyrm.
+	- Livrer ses biens.
+
+Ethia Fizzleupon (Marin):
+	Jeune Gnomette veut devenir une magicienne. Quelques tours. Originaire de BriseWyrm.
+	(Secret:A la recherche d'argent. Beaucoup.)
+	> Un petit nez rose, des yeux malicieux, un chignon au dessus de la tête.
+	- Voyager dans le bassin (Liste de lieux à voir).
+	- Revenir avec plein de présents pour frimer à Brisewyrm.
+
+Flano, juste Flano (Marin):
+	Jeune humain.
+	(Secret:Fils de Medelmerick, découvert lorsqu'il a fuit l'esclavage)
+	> Une belle musculature, mais maladroit et le regard un peu triste ou vague.
+	- Quitter Pydemian et trouver un nouvel endroit où s'installer.
+	- Devenir medecin. 
+
+Elem mineur de l'air:Nom inconnu, Murmure?.	
+	(Secret:Reincarnation de l'un des enfants de l'Entité Sehim)
+	> Un petit nuage aux gros yeux, prenant une forme vaguement humanoide avec des cornes.
+	- Trouver de l'aide pour assister la famille elem d'airs qui l'a acceuilli à Ilzagal.
+	- S'integrer à sa nouvelle famille.
+	- Découvrir son ancienne famille, ou le monde. Partir à l'aventure, quoi.
+	
+	
+Ennemis possibles ===============
+
+Baron Sahuagin Kagato (FP 5)
+	En charge de la région de Pydemian. En lien avec le Culte de l'Oeil via une petite île proche.
+	(Secret:Il n'en peut plus des humains, il ne partage pas l'interet de l'Oeil pour eux.)
+	> Corps de poisson, quatre bras.
+	- Récuperer le Disque pour l'Oeil des Abysses.
+	- Chatier le groupe pour la destruction du Venerable, leur premier allié.
+	
+Pretresse Sahuagin Rokubi (FP 1)
+	Porte parole de l'Oeil pour la communauté Sahuagin de la région Pydemian.
+	(Secret: Curieuse de la Surface, pour la conquerir pour l'Oeil).
+	- Récuperer le Disque pour l'Oeil des Abysses.
+	- Chatier le groupe pour la destruction du Venerable, leur premier allié.
+	- Reussir sa mission pour le Baron.
+	=======
+	Sorts: 3/2
+	Flammes[0]: Action. JS Dex ou 1d8 dmg.
+	Benediction[1]: Action, concentration. +1d4 pour une cible pour Attaque & JS.
+	Blessure[1]: Attaque pour toucher. 3d10 Necro.
+	Eclair Tracant[1]: Attaque distance. 4d6 Radiants. AV contre la cible pour prochaine attaque.
+	Mot Guerison[1]: Bonus. 1d4 + 2
+
+Klevan le ForgeGuerre / Forgelié
+	Une vision du cauchemar de la personne maudite par l'Epée de Sabellad.
+	(Secret: Ce cauchemar est issu du Disque & de "l'image" enfouie dans l'épée).
+	- Capturer Sabelad et le faire executer publiquement.

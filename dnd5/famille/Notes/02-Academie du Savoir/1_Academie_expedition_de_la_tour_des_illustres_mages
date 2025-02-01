@@ -1,0 +1,71 @@
+# Vallée des Illustres Magiciens
+
+## Graine 
+"Un Maitre Magicien associé à son urne funeraire souhaite être conduit à la Gloriette des Illustres Magiciens de son pays."
+
+## Bucher funeraire
+- Il y a quelques jours... Bucher funeraire de Kalepo Lapiswick. Chacun se souvient de lui. Soudain son fantome apparait et demande a "ses meilleurs eleves" de le reconduire chez lui, à ILZAGAL, dans la Gloriette des Illustres Magiciens.
+
+## Village 
+- Arrivée au village Gnome en bateau, Gildrit. Pommier. Une fête est organisée pour Kalepo. Son meilleur elève lui rapportera le grand prix n'est ce pas?
+- Un gnome Augal Sabblebing revient de la Gloriette où il a déposé il y a quelques jours Pavi CobbleBonk, une druidesse celebre pour ses formes animales, qui a fait une mauvaise rencontre avec un Aigle Geant. Enterrée avec sa plante.
+- Après la fête, voyage au travers les buttes en direction de la Gloriette.
+==> Baume de Keoghtom : Pot de Verre, 5 doses sentant l'aloes. 500g. Soigne de 2d8 + 2, guerrie maladie et poison.
+==> Globe Flottant: Mot de commande pour Lumière ou lumiere du jour.
+!! Si sommeil : DC 13 Sagesse pour pas perdre 1 sagesse.
+
+## Traversée foret 
+- A l'orée des bois, la maisonnette du gardien: Zakin Raclisp. Là depuis 30 ans, previent de partir, mais oublie l'avoir dit.
+- Le chemin dans la foret: belle herbe, chants d'oiseau dans les arbres, beaux champignons violets brillants.
+- Arrivée prêt de la Gloriette: plus de chants d'oiseau. Ils sont allignés mais ne bougent pas. Attaque des Champignons. Arrivée en masse.
+
+## Gloriette 
+- Gloriette aux murs blancs, entourés de feuilles dorées. Porte blindée.
+- Floor 1: Entrée: Des vignes partout.
+- Floor 2 : Memorium: Statuettes des Illustres. Air proche d'un après la pluie.
+	- Spores dans les airs. Risque de s'endormir DC 13 Constit. Perte de memoire.
+	- Les vignes violettes commencent à relacher des Fongus.
+==> Pierre porte Bonheur, +1 Jet de Caract & Save.
+
+## Floor 3 : Les Tombes.
+- Parmi les urnes et les cerceuils dans les alcoves poussiereuses, toit doré en pointe.
+- Toujours des vignes violacées. Elles semblent sortir d'un cerceuil. Elles appuient contre le sol et les murs.
+- Quand on s'approche: voix de Pavi CobbleBonk: "J'ai dormi en t'attendant, Kalepo!!!" => l'Excroissance Mortuaire apparait.
+
+## Combat: 
+- Invoque Fongus à chaque tour, devant lui. L'Excroissance se cache derriere.
+- Peut monter les murs si necessaire pour lancer des épines.
+- Murmures avec des voix differentes:
+	(Pavi) "Mon bon copain, viens me rejoindre pour l'eternité!"
+	(Zakin) "J'ai vu quelque chose de terrible dans la Gloriette... mais j'ai oublié quoi."
+- A sa mort, l'Excroissance crit : "Vivante j'ai été votre peste, et morte je serais votre tombe!"
+- Les vignes se retirent, affaiblissant la gloriette qui commence à s'effondrer.
+- Maitre Kalepo demande à ce qu'on le laisse ici.
+- Il leur dit d'aller chez lui, la clé sous le tapis (incroyable!).
+==> Yeux Grossissants  (AV sur Investigation)
+==> Poudre à Eternuer (JS de CONS sinon eternuements incontrollables.) Usage unique.
+==> Pot d'Eveil. Plante un arbuste. 30j plus tard, un tit arbuste evéillé. Amical.
+==> Poussiere de disparition. Invisibilité pour 2d4 min. Usage unique.
+
+## EXCROISSANCE MORTUAIRE 
+	CA 12
+	76 hp 
+	Vitesse 4.
+	+3 -1 +3 -1 +2
+	Invoque 1d4 Fungus par tour.
+	2 attaques:
+		Epines, ranged. +5 toucher. 1d8 +3.
+		Tentacule: melee +5 toucher (3m). 2d8 +3. 
+			JS Sagesse DC 13 pour ne pas perdre 1d4 sagesse.
+			Creature controlée si 0 sagesse.
+	
+## Fungus 
+	CA 5 
+	Hit 18 
+	Vitesse 1 
+	-4, -5, 0, -5, -4, -5
+	Vue aveugle.
+	Attaques multiples (1D4):
+		Pourriture : +2 toucher. 2 cases de portée. 1d8 necrotique.
+
+

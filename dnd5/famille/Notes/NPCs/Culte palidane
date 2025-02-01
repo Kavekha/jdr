@@ -1,0 +1,67 @@
+Isolde, Paladine de Padilane, Humaine.
+	>
+	>
+	>
+	=>
+	()
+		stats:
+			For +4
+			Con +2
+			Sag -1 / JS +2
+			Cha +3 / JS +6
+			Athletisme 7, Intimidation 6
+			Intuition 2, Religion 3.
+		Combat:
+			pv 60
+			CA 21 [18 + 2 (bouclier) + 1 Def]
+			Init 0
+			Epee Longue+1 +7(8) (1d8+4(5))
+			Javeline +7 (1d6 +4)
+		Capacité 
+			Impo des Mains (35 pv)
+			Defense +1 CA
+			Chatiment Divin (-1 Sort, +2d8 dmg Radiant)
+			Attaque supplementaire
+			+3 JS 
+			Voeu d'Hostilité (AV sur Attaque contre une cible) 1/ Repos 
+			Attaque opportunité suivi par Deplacement 1/2 Vitesse (immune opportunité)
+		Sorts
+			DD Save: 14
+			Attaque sort: 6
+			Emplacement 4/3
+		Sorts Connus 
+			Bouclier Foi (1): Bonus, 18m, Concentration. => +2 CA.
+			Chatiment Calcinant (1): Bonus. Prochain touché. Concentration. => 1d6 dmg + Enflammé.
+				A chaque tour: JS Constit ou 1d6 dmg. Si reussite: fin de l'effet.
+			Fléau (1): Action. Concentration. JS Charisme pour 3 cibles (choix). Si echec: -1d4 sur Attaque et JS. 
+			Injonction (1): Action, 188m, 1 round. JS Sagesse pour ne pas obeir au prochain tour.
+			Marque Chasseur (1): Bonus, Concentration. 1d6 dmg pour dmg sur la cible.
+			Soins (1): Action, contact. 1d8 x(NivSort) + Mod Cha. 
+			Destrier (2): 10 min.
+			Chatiment Revelateur (2): Bonus. Prochain touché. Concentration. 2d6 Radiant. Lumière anti invisibilité pour 1 Min ou Concentration.
+			Foulée Brumeuse (2): Bonus. Téléporte à 9m.
+			Immobilisation Personne (2): Action. 18m. Paralysie. JS Sagesse / tour pendant 1 min ou fin concentration.
+		Stratégie
+			Contre une cible claire et unique.
+				1. Bonus: Voeu d'Hostilité sur la cible. [0/1]
+				2. Action: Attaque #1 & #2 avec AV. (+8 toucher avec Epee Magique, 1d8 +5 dmg)
+					3. => pour la première qui touche: Chatiment Divin lvl 2 [2/3] => +3d8 dmg.
+				4. Bonus: Marque du Chasseur.
+					5. Attaques #1 & #2 avec AV (+8 toucher, 1d8 + 1d6 Marque + 5dmg)
+					6. => Pour la premiere qui touche: Chatiment Divin. +2d8 +1d8 (si lvl 2)
+			Plusieurs cibles:
+				1. Immobilisation de Personne sur 3 cibles.
+				2. Injonction 
+				3. Maintenir Fleau.
+			Contre un Assassin:
+				1. Utilise Chatiment Revelateur au lieu de Voeu / Marque
+			En difficulté:
+				1. Imposition des Mains en action: (35 pv environ)
+				2. Bouclier de la Foi en bonus: +2 CA
+				3. Soins en action, lvl 1 : 1d8 + 3.
+			
+	
+			
+				
+							
+			

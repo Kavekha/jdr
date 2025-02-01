@@ -1,0 +1,267 @@
+Chapitre 5 : Le Signe du Ver - Session 3.
+-----------------------------------------
+# PlotHook
+> Origine des murs d'epine, se mettre à l'abri.
+
+# review char / motivations
+> Sauver les Drakeides
+> Retourner à la Basse Ville.
+> S'assurer securité de la famille
+> Echapper aux poursuivants envoyés par Carel.
+> Proteger la Basse Ville.
+> Mettre Mitsuha à l'abri et apprendre les motivations du Roi Sorcier.
+
+# what the villains are doing
+> Carrel retourne à Norbandre avec le Drakeide et Kaz. Il compte sur Kin pour capturer Mitsuha et le Drakeide restant (Draky).
+> Kin et le rodeur Lezard Vaex poursuivent les aventuriers. Recherche les Drakeides. 
+> Les Shamans du Devoreur veulent pieger la ville en quartiers de murs d'epines pour les massacrer plus facileement.
+> Les Tambours de Vaarl guident le Grand Ver en direction du Palais pour le faire tomber.
+> Hagren le Brulé massacre les populations.
+> Chef de Prison envoie un gars avec le duo Kin / Vaex. 
+
+# What npc are doing 
+> Isolde protège le Palais.
+> Oriastr & Jeffrey organisent la défense de la Basse Ville.
+> Marigold et les chasseurs d'ecume protègent la Cote. 
+
+# strong start 
+- Fuite vers la muraille pour le monte-charge, poursuivi par des gardes de la prison et le groupe de Kin & Vaex.
+- Le Grand Ver apparait devant le palais, tremblement, sol avec des failles, épines commencent à apparaitre.
+
+# potential scenes
+- Course poursuite Kin / Vaex. 
+- Echange avec Mitsuha & sujet Roi Sorcier.
+- Echange avec Jeffrey
+- Franchir le Mur d'épines
+- Parcourir le tunnel vers Shaman du Mur d'Epines.
+- Affrontements avec Hagren 
+- Affrontements avec Kin / Vaex.
+- Assaut Hobgobelin / Troll.
+
+# secrets & clues 
+> Mitsuha sous haute tension prends une forme draconique avancée, sous le controle de l'Ame brisée du dragon Anamitrax.
+> Maitre Sindri Garrick garde Namikigama à l'oeil. Il sait qui est le Reflet vu dans les cauchemars.
+> Oriastr prévoit de donner sa place à Jeffrey, alors qu'elle reviendrait à BriseWyrm.
+> Le Roi Sorcier, via Vaex, semble avoir des liens avec des hommes lezards.
+> Les Chasseurs d'Ecume sont alliés à Pallagorn.
+> Hagren a survécu grace à des petits vers regenerants.
+> Mitsuha se souvient d'un enlevement quand elle etait enfant, et du liquide, et de Fresnek. 
+> La fuite de Mitsuha a été soutenue par un groupe qui l'a conduit à Pydemian.
+> Kin le Gnome appartient au groupe Mercenaire de Carel, au service de l'ancien empire Drakeide.
+> Il ne reste de l'Empire Drakeide qu'une Cité Etat de Draek'mer, sous controle du Pantheon de la Civilisation.
+
+# fantastic locations
+- Basse Ville, sous murs d'epines.
+- Tunnels souterrains, salle de rituel improvisée.
+
+# important npcs
+- Kin le Gnome aux cheveux Verts
+	stats 
+		+2 str, +2 dex, +3 int.
+		25 HP, CA 18. Init +2
+		DD Save Sort 13
+		+5 Cast 
+	Combat: 
+		Epee +4 (1d8 +2)
+		Arbalete legere +6 (1d8 +2) 
+	Sorts (3)
+		Illusion mineure: 9m.
+		Lumière (sur un ennemi pour le suivre)
+		Trait de feu +5 (1d10)
+		Bouclier (Reaction) +5 CA.
+		Projectile magique (1d4+1) x3 
+		Vague tonnante: 4,5(3)m devant. JS Cons pour 1/2 ou 2d8 & repoussé de 3m.
+	Capacités
+		Second Souffle (1d10 +3)
+		Fougue (1 Action)
+		Lien avec arme.	
+- Vaex le Traqueur.
+	Stats
+		+4 for, +2 dex, +2 sag.
+		36 HP, CA 15, Init +2
+		Epee courte +6 (1d6 +4) / Dague +6 (1d4 +4) 
+		Arc +6 (1d8 +4)
+	Sorts (3)
+		Alarme (1,5km)
+		Soin (1d8 +2) contact
+		Marque du Chasseur: 27m. +1d6 dmg. AV sur Survie & Perception pour la cible. 1h.
+	Capacités
+		Si cible blessée, +1d8 dmg.
+		Morsure (1d6) en action.
+- Shaeleg la Shaman Orc[5].
+	Stats
+		52 HP, CA 14 Init +2
+		DD Save Sort 15 
+		+7 cast 
+		Cha +4
+	Combat
+		Dague +5 (1d4 +2)
+		Fouet Epineux +7 (2d6) : tire la cible de 3m.
+	Casting Niv 0 
+		Bouffée Poison: JS Const ou 2d12.
+		Décharge Occulte: Attaque +7 (1d10 +4) * 2
+		Eruption lames: 1,5m rayon. JS Dex ou 2d6 dmg.
+		Illusion mineure: Investigation DD15 si examen.
+		Moquerie Cruelle: JS Sagesse ou 2d4 dmg + DESAV prochain jet d'attaque.
+	Spells Niv 4 (2)
+		Represaille Infernale: Reaction. 3d10.
+		Tentacules: 3m rayon. JS Force pour 1/2 ou bien 4d6 & Reaction impossible.
+		Image Mirroir: CA 12. Si 3 images: 6+ touche Image. Si 2 : 8+, Si 1 : 11+
+		Forme Gazeuse: Vol vitesse 3m (2). 
+			Resist Physique
+			AV Force, Dex, Cons.
+			Pour fuir.
+		 
+- Hagren le Brulé, Gnoll.
+	49 HP, CA 15, Init 2.
+	Double attaque + Incitation.
+		Coutille x2 - 3m : +5 (1d10 +3)
+		Un gnoll utilise sa Reaction pour attaque.
+	
+- Jeffrey, Second de la Guilde Voleurs.
+
+- Mitsuha, drakeide geante en fuite.
+	22 HP, CA 12, init +2.
+	
+- Snog, le gobelin deserteur.
+
+# relevant monsters
+- Gnolls 
+- Hobgobelins 
+- Gobelins 
+- Orcs 
+
+# treasure & magic items
+- Tresor 1
+    80 po
+    7 pierres précieuses de 50 po (Héliotrope, Pierre de lune, Cornaline, Zircon, Citrine, Quartz, Cornaline)
+    Épée vengeresse (+1, impossible de s'en séparer. DESAV pour autres armes. Sagesse 15 pour ne pas attaquer la cible vous ayant attaqué.
+    Arme +1
+- Tresor 2
+	2300 pc, 300 pa, 20 po
+    5 objets d'art de 25 po (Aiguière en argent, Calice en cuivre orné de filigranes d'argent, Petit miroir entouré d'un cadre en bois peint, Médaillon en or contenant un portrait peint, Petit bracelet en or)
+	Bouclier sentinelle (AV sur Init & Perception)
+    Baguette de projectiles magiques (7)
+- Tresor 3
+	Potions de guerison x3
+	Potion de Force Geant Colline (+5)
+
+
+# Conclusion 
+- La bataille se poursuit, que font les personnages?
+- L'Armée du Dévoreur est repoussée.
+- Fin de la bataille en off, via rumeurs dans les jours qui suivent.
+
+
+
+> ISOLDE  [Blesse le Ver, pertes importantes]
+	1		Tuée au combat contre le Ver
+	2-20 	Grievement blessée contre le Ver
+	21-50	Bléssée contre le Ver
+	51-80	Repousse le Ver avec de grandes pertes dans son armée.
+	81-95	Blesse le Ver, pertes importantes dans son armée.
+	96-99	Blesse grièvement le Ver, pertes partielles dans son armée.
+	100		Intervention divine pour blesser grievement le Ver, peu de perte.
+	
+> LE VER [Grievement blessé, se cache sous la ville pour y mourir probablement]
+	1-2		Tué au combat par les armées de Pydemian d'Isolde.
+	3-6		Tué au combat par les armées de Pydemian d'Isolde & Garde du Prince.
+	7-15	Tué au combat par toutes les organisations de Pydemian.
+	16-30	Grievement blessé, traine dans les rues, le moral largement réduit chez les troupes du Devoreur.
+	31-60	Grievement blessé par les armées, a fuit sous terre y mourir probablement. Moral largement réduit.
+	61-80	Blessé par les armées, s'eloigne sous terre. Armée du Devoreur pert en moral.
+	81-90	Le Ver est blessé, mais a le temps de detruire le palais partiellement. Il fuit, blessé.
+	91-95	Le Ver détruit le Palais et une partie de la Prison. Il fuit, blessé.
+	96-98	Le Ver detruit le Palais, la Prison et une partie de la haute ville. Se refugie sous terre pour se reposer.
+	99-100	Le Ver detruit une large partie de la Haute Ville et se réfugie sous la terre pour se reposer. La menace demeure.
+	
+> CEDORIC [Blessé pendant la bataille, en fuite]
+	1-5		Tué par le Ver.
+	6-15	Tué par les armées du Devoreur, Gnolls.
+	16-30	Grievement blessé dans la bataille.
+	31-50	Blessé pendant la bataille, en fuite.
+	51-80	En fuite.
+	81-90	S'est caché.
+	91-98	Mene un bataillon, qui se fait à demi-massacré.
+	99-100	Petit fait heroique.
+
+> MORELM [Bravoure au combat]
+	1-5		Tué dans la bataille.
+	6-15	Grievement blessé dans la bataille.
+	16-30	Blessé dans la bataille du palais.
+	31-60	Blessé dans la bataille à l'entrée du palais.
+	61-85	Blessé dans la bataille de la Haute Ville.
+	86-95	Bravoure au combat.
+	96-99	Acte heroique parmi d'autres.
+	100		Grand acte d'heroisme.
+	
+> CHLOE [Grievement blessée pendant la bataille]
+	1 		Tuée dans la bataille.
+	2-3		Grievement blessée dans la bataille.
+	4-6		Blessée dans la bataille.
+	7-10	Trouve refuge en haute ville, blessée.
+	11-20	Trouve refuge en haute ville, et survie.
+	21-40	Trouve refuge en haute ville.
+	41-60 	Trouve refuge chez une ancienne connaissance, sans pluss.
+	61-80	Trouve refuge chez une ancienne connaissance, qu'elle assiste dans un combat.
+	81-90	Trouve refuge chez une ancienne connaissance, qu'elle sauve.
+	91-95	Intervient pour proteger un bourgeois.
+	96-98	Intervient pour proteger un grand bourgeois.
+	99-100	Intervient et sauve heroiquement un grand bourgeois.
+	
+> KIN & VAEX [Acte de bravoure]
+	1 		Tués dans la Basse Ville.
+	2-3		Kin ou Vaex tué, l'autre grievement blessé.
+	4-6		Grievement blessés.
+	7-10	L'un est grievement blessé, l'autre blessé.
+	11-20	Blessés tous les deux.
+	21-40	L'un est blessé, l'autre indemne.
+	41-70	Survivent.
+	71-90	Acte de bravoure en basse ville pour Kin.
+	91-95	Acte de bravoure des deux en Basse Ville.
+	96-100	Acte heroique.
+
+> CHASSEURS D'ECUME [Pertes faibles]
+	1		Navires brisés, en fuite.
+	2-5		Perte de plusieurs navires, Marigold grievement blessée. Trahi par Pydemian.
+	6-15	Perte de plusieurs navires. Indemnité reclamée et refusée.
+	16-30	Perte de plusieurs navires. Indemnité en negociation.
+	31-60	Pertes faibles.
+	61-90	A repoussé une attaque surprise.
+	91-99	Grande victoire.
+	100		Grand acte heroique.
+	
+> MOWAN [Legerement blessé, perte d'1/4 du groupe. Reste en Haute ville]
+	1		Tué, perte complete de son groupe.
+	2-4		Grievement blessé, perte complete de son groupe.
+	5-10	Grievement blessé, perte de moitié de son groupe.
+	11-20	Blessé, perte de moitié de son groupe.
+	21-40	Blessé, perte d'un tiers de son groupe.
+	41-70	Legerement blessé, perte d'un quart de son groupe. Peut rester en Haute Ville.
+	71-90	Perte d'un quart de son groupe.
+	91-98	Preserve son quartier et son groupe.
+	99-100	Heros local de son quartier. Augmentation de son groupe.
+
+> ORIASTR [A su proteger Basse Ville, membres augmentent]
+	1 		Tuée, affaiblissement de moitié de sa guilde.
+	2-3		Tuée, affaiblissement d'un tiers de sa guilde.
+	4-6		Grievement blessée, 1/3 de sa guilde brisée.
+	7-10	Grievement blessée, 1/4 de sa guilde brisée.
+	11-20	Blessée, 1/4 de sa guilde brisée.
+	21-40	Blessée, guilde intacte globalement.
+	41-60	Guilde intacte globalement.
+	61-80	Guilde a protégé correctement la basse ville.
+	81-95	A su mener la protection de la basse ville, membres augmentent.
+	96-100	Acte heroique.
+
+> JEFFREY [legerement blessé]
+	1		Tué.
+	2-5		Mourrant.
+	6-10	Grievement blessé.
+	11-20	Mutilation.
+	21-40	Blessé.
+	41-70	Legerement blessé.
+	71-85	A survécu.
+	86-95	Acte de bravoure.
+	96-100	Acte heroique.
+	

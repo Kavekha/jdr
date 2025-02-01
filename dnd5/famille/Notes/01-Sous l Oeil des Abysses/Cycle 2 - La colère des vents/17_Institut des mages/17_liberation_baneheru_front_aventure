@@ -1,0 +1,89 @@
+17. La Liberation de BANEHERU.
+
+# Acteurs
+	PANABEN, archimage de Ilzagal, Directeur de l'Institut des Magies.
+	MEKKADIL, moine disciple de YOSCORIN et protecteur de BANEHERU.
+	ANTHEO IPSCEN, le gnome le plus riche de l'île.
+	MUTTBUCKLE, maire théorique de Ilzagal.
+	BANEHERU, le Grand Esprit de l'air capturé dans une pierre et divisé en millier de vents.
+	VIADESKELH, Seigneur Ogre nouvellement allié des gnomes.
+	KUMAGUN, l'ingenieur gnome du renouveau, concepteur du Navire du Futur.
+	JAPALKA, Ambassadeur de Aujir Tural à Ilzagal, conspirateur au service du Prince AKEBHE.
+	THEAVIE, Cheffe des Bonhommes, héroine au Griffon.
+	VOROKIA, l'aventureuse et catastrophique jeune gnome!
+	WARIANNAR, Harpie Tueuse en charge de détruire BANEHERU.
+	ZALIS, Reine des Harpies, Pretresse de la Grande Nuée, Vrock.
+	ARCHIFAE, génereuse dame plein de savoirs, attristée par le sort de BANEHERU.
+	
+# Enjeux 
+	Sophie parviendra-t-elle a répondre au desir de la Genereuse Dame en sauvant BANEHERU de son sort?
+	Parviendront-ils à sauver BANEHERU avant qu'il ne soit consommer par les inventions de KUMAGUN?
+	Libérer BANEHERU réparera-t-il le ciel?
+	Repareront-ils le ciel avant que ne passe la Grande Nuée?
+	Le NAVIRE du FUTUR de KUMAGUN marchera-t-il?
+	Le richissime ANTHEO IPSCEN leur fera-t-il abandonné en les noyant d'argent?
+	Quel sera la réaction d'un BANEHERU libéré contre ceux qui l'ont trahi?
+	L'alliance entre VIADESKELH et PANABEN tiendra-t-elle face à l'arrogance des gnomes?
+	Les Harpies parviendront-elles à leur fin en détruisant BANEHERU et ouvrant définitivement la Brêche?
+	Quel sort attend la jeune VOROKIA?
+	
+# Danger: L'Institut des Magies 
+	Un domaine représentatif de l'arrogance gnome avec le désir de controler les vents et les Mers.
+	type: Organisation ambitieuse (cabale)
+	but: Se développer, controler la puissance du vent et les mers.
+	sombres présages:
+		- Utiliser l'energie des "petits morceaux" de BANEHERU sur le Bateau pour démontrer la puissance de l'Institut.
+		- Utiliser l'energie du gros morceau de BANEHERU au sommet de la tour pour démontrer la toute puissance.
+		- Exploiter cette energie pour ouvrir et fermer des Brêches.
+		- Exploiter cette energie pour repousser ses adversaires et les detruire.
+		- Controle total des vents.
+	Catastrophe: Chaos Rampant. Les Vents sont désormais sous controle de la Tour des Mages.
+	Actions: 
+		x Capturer quelqu'un par des mercenaires. 
+		x Attaquer quelqu'un directement 
+		> Payer quelqu'un d'important ou l'inviter à rejoindre le groupe.
+		> Influencer les lois de Ilzagal et du Bassin.
+		> Etablir une nouvelle règle dans l'organisation.
+		> Revendiquer un territoire ou des ressources.
+		x Négocier un Accord.
+		Surveiller un ennemi potentiel.		
+		
+# Danger: La Grande Nuée 
+	ZALIS veut ouvrir le passage à cette armée de Vrocks pour s'installer et conquerir Ilzagal.
+	type: Horde 
+	but: Conquerir la région en déchirant le Ciel pour faire venir la Grande Nuée du Plan Elementaire.
+	Sombres présages: 
+		- La tour circulaire de l'institut est encerclée par le Vol de ZALIS.
+		- VOROKIA est libérée et charmée pour récuperer la Pierre de BANEHERU et la détruire.
+		- La Pierre est détruite et le Ciel se déchire partout au dessus de Ilzagal.
+		- La Grande Nuée arrive.
+	Catastrophe: Tyrannie. La région est dévastée par les Harpies et la Grande Nuée, avant de partir pour une autre région.
+	Actions:
+		> Attaque surprise sur un lieu de civilisation
+		Se disputer et se séparer
+		Changer brusquement de direction 
+		> Submerger les plus faibles
+		> Accomplir une démonstration de force 
+		x Abandonner un ancien Nid, en trouver un nouveau.
+		Croitre en taille.
+		> Désigner un Champion.
+		> Déclarer la guerre et partir en campagne aussitot sans hésitation ni concertation.
+
+# Danger: Les Comploteurs d'Aujir Tural.
+	Un groupe mené par l'Ambassadeur JAPALKA pour prendre controle de Ilzagal pour le Prince AKEBHE.
+	type: Gouvernement colonialiste
+	but: Infiltrer & controler.
+	Sombres présages:
+		- JAPALKA, invité par ANTHEO, rencontre THEAVIE, MUTTBUCKLE et KUMAGUN.
+		- JAPALKA, invité par ANTHEO, rencontre PANABEN mais pas le résultat attendu.
+		- Un incident arrive à PANABEN, il est grièvement blessé.
+	Catastrophe:  Chaos Rampant. Les Vents sont désormais sous controle de la Tour des Mages et indirectement de AKEBHE.
+	Actions: 
+		Capturer quelqu'un par des mercenaires. 
+		> Attaquer quelqu'un directement 
+		> Payer quelqu'un d'important ou l'inviter à rejoindre le groupe.
+		Influencer les lois de Ilzagal et du Bassin.
+		> Etablir une nouvelle règle dans l'organisation.
+		Revendiquer un territoire ou des ressources.
+		> Négocier un Accord.
+		> Surveiller un ennemi potentiel.	
