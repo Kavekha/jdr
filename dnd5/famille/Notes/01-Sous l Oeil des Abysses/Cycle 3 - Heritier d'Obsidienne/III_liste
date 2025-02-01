@@ -1,0 +1,221 @@
+* Sophie: Les faes disparues. [a]
+* Sophie: Loulou l'occultiste et la Genereuse Dame. [a]
+* Sophie: Le Monde de l'Autre Coté / Bastion de la Dame. [a]
+* Sophie: Les Recherches Drakeides & l'Experience. [a][c]
+* Sophie: Le remplacement des cultes d'Antan. [c]
+* Sophie & Draky: Le Portail vers les Autres Mondes. 
+* Sophie & Draky: Les Passeurs de Drakeides. [b][c]
+* Sophie & Draky: Les Laboratoires de FRESREK.
+* Draky: Le Village Drakeide détruit & les esclaves. [c]
+* Draky: Le Village Drakeide caché.[c]
+* Draky: L'Armée des Rebus. [c]
+* Draky: Monique & le Marécage: le Prince Batracien et l'Oeil des Abysses. [a]
+* Draky: La Tribu des Lezards & Ourostag.[c]
+* Draky: Le Grand Rituel. [a][c]
+* Jethro & Draky: L'Agent Drakeide. [c]
+* Jethro & Draky: Mercenaires de la Vouivre.
+* Jethro & Draky: Les Griffes Rouges.[c]
+* Jethro: La Milice. [b]
+* Jethro: Les Rebelles et le Roi. [b]
+* Jethro: Le Tribu du Grand Dragon. [c]
+* Jethro: Mettre en place la Guilde. [b]
+* Jethro: Les Nobles et le prochaine ordre. [b]
+* Jethro: Les Pions d'Akebhe. [b]
+
+
+A: AU COEUR DE LA POURRITURE 
+	Où l'on découvre les conséquences des préparatifs de FRESREK sur les mondes.
+	Motivations: 
+		- Pour Sophie: cela concerne Loulou, les faes, les recherches et la Genereuse Dame.
+		- Pour Draky: cela concerne le Marécage et l'enquête de Saark.
+		- Pour Jethro: Des facilités pour circuler dans la région via les "Portes féeriques"?
+	Acteurs:
+		- La Genereuse Dame.
+		- Loulou.
+		- Monique.
+		- Saark.
+		- Corbeaux.
+		- Agent de Fresrek.
+		- Les Batraciens et leur Nouveau Dieu.
+	Enjeux:
+		- Est-ce que le Domaine Faerique peut être sauvé?
+		- Comment empecher la propagation du marécage?
+		- Est-ce que Loulou trahira?
+		- Peut-on sauver les Portes Feeriques facilitant la circulation dans le monde?
+	Danger: Le Coeur du Marécage 
+		type: Lieu maudit: croitre
+		but: Absorber l'energie vitale.
+		sombres présages:
+			- La forêt pourri peu à peu.
+			- Les arbres et les batiments coulent dans la pourriture liquide.
+			- Les créatures s'épuisent et se métamorphosent.
+		catastrophe: destruction de la forêt, il ne reste qu'un liquide pourrissant.
+		pouvoirs: Se répandre, attirer à lui, croitre en intensité, cacher quelque chose, brouillet et obscurcir.
+	Danger: Le Nouveau Dieu Batracien.
+		type: force planaire - ouvrir l'accès au domaine de l'Oeil des Abysses.
+		but: S'imposer dans la région, devenir le nouveau dieu de l'endroit.
+		sombres présages:
+			- Les Batraciens prennent le controle de la région.
+			- Le Temple est consacré.
+			- Rituel est mis en place.
+		catastrophe: Tyranie - Le Dieu Marais impose son Monde sur la Region.
+		pouvoirs: Attaquer directement, inspirer des rêves, infliger une malédiction.
+	Danger: Les Chasseurs de Faes 
+		type: Ennemi occulte: s'accaparer le pouvoir magique.
+		but: Prendre l'energie nécessaire pour la rituel de Fresrek.
+		sombres présages:
+			- Les Faes n'ecoutent plus et n'apparaissent plus.
+			- Les sources faeriques s'affaiblissent et les protections s'eteignent.
+			- La magie s'affaiblit grandement, les faes s'eteignent.
+		catastrophe: Le lien avec le Monde Faerique est brisé, Fresrek recoit plein pouvoir faerique pour son rituel.
+		pouvoirs: Apprendre des connaissances interdites, espionner qq un, exiger un sacrifice, tenter avec des promesses (loulou).
+
+
+B: LA COURONNE DES OMBRES 
+	Où les factions se battent pour le controle de la cité.
+	Motivations:
+		- Pour Jethro: Mettre en place la Guilde et controler la cité.
+		- Pour Draky: Affaiblir le Roi Sorcier, aider les Drakeides.
+		- Pour Sophie: Affaiblir le Roi Sorcier, aider les Drakeides.
+	Acteurs: 
+		- La Milice de la Vouivre et son chef direct.
+		- Celui qui voulait controler les Voleurs et devient un Rival.
+		- Le Noble derrière les Voleurs.
+		- Mesveri, les Pirates & manigances
+		- Vision l'Espion d'Akebhe.
+	Enjeux: 
+		- Qui prendra le contrôle de la cité?
+		- Comment les dynamiques de population seront-elles changées?
+		- Comment réagira le Roi Sorcier à la perte de son pouvoir et de son influence?
+		- Quels sont les secrets derrière chaque faction?
+	Danger: La Milice.
+		type: Gouvernement corrompu (Maintient du statu quo)
+		but: Maintenir le controle sur les habitants et groupes de la cité, protegeant les interets du Roi.
+		sombres présages: 
+			- Les opposants évidents sont arrétés et emprisonnés.			
+			- Les factions neutres ou semi-rebelles sont mises au pas.
+			- Les protecteurs Drakeides sont capturés et emportés.
+		catastrophe: tyranie - aucune rebellion n'est possible.
+		pouvoirs: enlèvements, revendiquer territoire, influencer une institution puissante, attaquer directement.
+	Danger: Les Rivaux.
+		type: guilde de voleurs (Dérober par subterfuge)
+		but: Imposer un empire criminel à l'echelle de la cité.
+		sombres présages: 
+			- Les marchands paient les taxes et personne ne partage d'information.
+			- La milice est corrompu, la basse-ville est totalement sous controle.
+			- Les chefs s'embourgeoisent et sont au service du Roi Sorcier et associés.
+		catastrophe: Malheur : Aucun espoir pour les pauvres.
+		pouvoirs: attaquer directement, acheter quelqu'un d'important, revendiquer un territoire.
+	Danger: Les Nobliaux.
+		type: Cabale: Se developper, prendre de l'influence.
+		but: Maintenir leur position aristocrate, avec ou sans le Roi Sorcier.
+		sombres présages:
+			- Prennent le controle des marchés et autres lieux importants civils.
+			- Laissent les politiques externes menacer et mettre en difficulté le Roi Sorcier.
+			- Obtenir légitimité aux yeux du Roi Sorcier.
+		catastrophe: Usurpation: reprise du pouvoir au Roi Sorcier.
+		pouvoirs: Acheter des gens, influencer une institution, négocier un accord.
+	Danger: Nid d'espions.
+		type: Culte - infiltrer.
+		but: Semer le chaos, affaiblir les factions en présente, les rendre vulnerables.
+		sombres présages:
+			- De nombreux murmures et surveillances, on ne sait pourquoi. Paranoia.
+			- Des sabotages ont lieu, mettant en difficulté les groupes opposés.
+			- Des actes de rebelion ont lieu dans les differents groupes.
+		catastrophe: Guerre civile et massacres.
+		pouvoirs: Acheter des gens, influencer une institution puissante, surveiller.
+	
+
+C: L'OMBRE DU GRAND DRAGON. 
+	Où derrière le Roi Sorcier se trouve un grand dragon et ses grands projets.
+	Motivations:
+		- Pour Jethro: Découvrir les menaces à venir.
+		- Pour Draky: Découvrir la vraie menace.
+		- Pour Sophie: Percer les motivations de FRESREK.
+	Acteurs: 
+		- Ourostag, fils du grand dragon.
+		- Roi Lezard 
+		- Enqueteur Drakeide fantome
+		- Chef Griffe Rouge 
+		- Drakeide rebelle.
+		- Skaldus le prisonnier.
+	Enjeux: 
+		- Le village caché des Drakeides sera-t-il découvert?
+		- La Famille de Draky est-elle là bas?
+		- Qui est derrière le Roi Sorcier?
+		- Le Fantome Drakeide se liberera-t-il de sa Peine et de son Enquete?
+	Danger: L'Armée du Roi Lezard et le Tribu du Grand Dragon.
+		type: Barbares (Soumettre les ennemis)
+		but: Maintenir le Roi Sorcier au pouvoir le temps du rituel pour le compte de leur dieu Dragon.
+		sombres présages:
+			- Les Batraciens et les rebelles Lezard fidèles de l'Oeil sont écrasés.
+			- Les villages sont pillés pour assurer le Tribu du Grand Dragon. 
+			- Les humains sont mis en esclavages et partagés entre Ourostag et le Grand Dragon.
+		catastrophe: Tyranie: Servitude.
+		pouvoirs: Attaquer bastion de civilisation, demonstration de force, croitre par la conquete.
+	Danger: Les Griffes Rouges et la Traque des Drakeides.
+		type: Dieu (Rassembler des fidèles)
+		but: Reprendre tous les Drakeides pour le rituel et ressuciter Anaphira.
+		sombres présages:
+			- Les Passeurs sont capturés et leurs secrets vont être dévoilés.
+			- Le Village Drakeide est révélé et ses habitants capturés.
+			- Les Drakeides noirs sont absorbés pour le rituel du Roi Sorcier.
+		catastrophe: Chaos Rampant (Elevation du Roi Sorcier, Eveil d'Anaphira).
+		pouvoirs: Enlevement, attaque directe, Revendiquer des ressources.
+	Danger: L'Armée des Rebus. 
+		type: Créatures souterraines (Defendre le repaire des intrus)
+		but: Protéger le lieu du rituel. 
+		sombres présages:
+			- Des créatures dragoniques difformes sont retrouvés, vivantes ou mortes.
+			- La Place de Pouvoir est construite par les Rebus.
+			- Les Rebus s'effondrent avec l'Ascension du Roi Sorcier.
+		catastrophe: Destruction, fin de leur existence et de leur essence.
+		pouvoirs: Succomber au desordre interne, Changer de direction, Submerger les plus faibles.
+		
+
+D: REBELLES ET ROYAUTE	
+	Où l'aristocratie espère fait revenir Norbrande III après son exil.
+	Motivations:
+		- Pour Jethro: 
+		- Pour Draky:
+		- Pour Sophie:
+	Acteurs: 
+		- Le Roi Norbrande
+		- Son Conseiller
+		- Un Noble partagé en,tre les deux camps 
+		- Un Rebelle Prete Nom vendu aux nobles.
+		- Un Rebelle sincère.
+	Enjeux: 
+		- Où le roi est-il enfermé et peut-on le ramener?
+		- Est-ce que remettre le Roi sur le Trone changera la situation?
+		- Qui parmi les Rebelles est en faveur du roi ou du peuple?
+		- A quel moment les bourgeois s'allieront ensemble contre les Vrais Rebelles?
+	Danger: 
+		type:
+		but: 
+		sombres présages:
+			- 
+		catastrophe: 
+		pouvoirs: 		
+		
+		
+E: L'ASCENSION DE L'HERITIER
+	Où le Roi Sorcier mets en oeuvre son plan.
+	Motivations:
+		- Pour Jethro: 
+		- Pour Draky:
+		- Pour Sophie:
+	Acteurs: 
+		- 
+	Enjeux: 
+
+	Danger: 
+		type:
+		but: 
+		sombres présages:
+			- 
+		catastrophe: 
+		pouvoirs: 	
+		
+		
+		

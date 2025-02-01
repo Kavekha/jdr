@@ -1,0 +1,186 @@
+=== GUILDE DES VOLEURS ====
+
+* Termes 
+	Colporteur (contrebandier)
+	Fureteur (Eclaireur, infiltré, voleur)
+	Gros bras (Tueur, brute, manoeuvre)
+	Magouilleur (Escrocs, espions, mondains)
+	Nomades (Marins, charetiers, vagabonds)
+	Specialistes (Erudits, techniciens, occultistes, chimistes)
+
+* Activité principale pour gagner de l'Argent.
+* Types de bande
+	Assassins - tueurs à gage, accidents, disparitions, meurtres, demandes de rançons.
+	Cultistes - Acquisition d'artefacts, delivrent des augures, consécrations & sacrifices 
+	Bravos - Gros bras & voyous, batailles, executent des extorsions, sabotages, vols avec violence.
+	Colporteurs - Pourvoyeurs de vice, produits illegaux, organisent des marchés noirs, demonstration de force & sabotages.
+	Contrebandiers - Transporte marchandises de contrebande. Livraisons clandestines, controle de territoire, organisent des expeditions hors de la ville.
+	Ombres - Voleurs & espions. Executent Cambriolages, menent des opérations d'espionnage, organisent des braquages & sabotages.
+
+* REPAIRE 
+	grotte a demi submergée 
+	tour de guet abandonnée 
+	Arriere salle d'une echoppe 
+	Petite maison abandonnée 
+	Cahute en tôle sur un toit 
+	Wagon / bateau désaffecté.
+	
+* Réputation initiale
+	Ambitieux, brutaux, etranges, futés, honorables, intrepides, professionnels, subtils.
+* Terrain de chasse 
+	Appartient sans doute à quelqu'un. Comment a-t-il été revendiqué?
+		Dédommagement financier.
+		Signe de respect (+1 reput)
+		De force (-1 Reput).
+	Un terrain est un domaine de predilection
+* Coffres: Or disponible.
+* Rang
+	Limite la taille de la bande en termes de membres.
+* Renom 
+* Assise: stable 
+
+* ACTION
+	* Récuperation d'information 
+		BONUS sur leur terrain.
+	* Action Temps mort 
+		(Une supplementaire sur leur terrain.)
+		- Découvrir une opportunité
+		- Obtenir une ressource
+		- Trouver une cible ou un client 
+	* Acquerir un territoire 
+	* Obtenir un contact.
+		En lien avec une faction similaire (+1 Relation) ou alors faction hostile (-1 Relation)
+	* Améliorer les relations avec un contact en lui rendant un service.
+	
+* AMELIORATIONS
+	* Peniche amenagée: 
+		- Emplacement à quaie sur voie d'eau.
+		- Petite cabane pour y stocker materiel.
+		- Rajouter un blindage.
+		- Aggrandir la soute.
+	* Repaire caché:
+		- Lieu secret maquillé pour passer pourordinaire.
+		- Si découvert, utiliser 2 activités + Somme pour demenager et le cacher de nouveau.
+	* Quartier d'habitation:
+		- Les membres peuvent désormais loger sur place. Sans cela, doivent dormir ailleurs et sont vulnerables aux attaques ennemies.
+	* Qualité 
+		- Amélioration de l'equipement pouvant être obtenu.
+		- Ingredients esoteriques.
+		- Fournitures de subterfuge.
+		- Outils de bricolages.
+		- Armes.
+		- Faux papiers.
+	* Repaire sécurisé 
+		- Alarmes, pieges et verroux pour décourager les intrusions.
+		- Mesures esoteriques contre la magie.
+	* Maitrise 
+		- Augmenter le niveau max des membres dans un domaine d'action à 4 (au lieu de 3)
+	* Entrainement 
+		- Progresser 2 fois plus vite lors d'un entrainement de temps mort.
+	* Chambre forte 
+		- Stocker un maximum de 8 au lieu de 4.
+		- Stocker un maximum de 16.
+		- Cellule de confinement / prison.
+	* Atelier pour bricolage & alchimie 
+	* Bibliotheque de livres, documents et cartes.
+	
+COHORTE (Npc)
+	Avantages:
+		Independance: Essaie de prendre de bonnes décisions et prises d'initiatives en l'absence d'odre.
+		Loyal : Ne peut être soudoyé ou retourné contre la bande.
+		Tenace: Ne peut pas etre détourné de sa tâche.
+		Terrifiante: Fait peur par son aspect et sa reputation.
+	Defauts:
+		Fougueuse: ivre, débauchée, braillarde.
+		Feroce: violente et cruelle 
+		Honorable: respecte des valeurs ethiques qu'elle ne trahira pas.
+		Peu fiable:  Pas toujours disponible, sur autre chose ou s'adonne à son vice.
+	Blessures:
+		Affaiblie : Réduction de l'effet de ses actions.
+		Handicapée: Réduction de la qualité de ses actions.
+		Brisée: Ne peut rien faire jusqu'à retablissement.
+		Detruite: Eliminée.
+	Guerison
+		Pendant les temps morts ils se soignent.
+
+ASSASSINS: 
+	Terrains:
+		Accident : himicide sans indice
+		Disparition : enlevement sans trace 
+		Meurtre: Assassinat pour envoyer un message.
+		Rancon: Kidnapping avec paiement en echange de l'otage.
+	Ameliorations
+		Contact dans la prison: aide aux actions concernant la prison.
+		Archives de la ville pour mieux planifier les infiltrations.
+		Fausses identités pour provoquer confusion.
+		Couverture legale pour detourner l'attention des gardes.
+		Emissaire auprès de la haute société pour mieux négocier avec les riches.
+		Intermediaire: acceder à des contacts supplementaires.
+		Infirmerie: mieux soigner les gars.
+		Informateurs: yeux & oreilles dans la rue pour récuperer des rumeurs.
+		Racket de protection: obtenir de l'or en echange de protection.
+		Mécène: Reduction des couts de developpement grace à son aide.
+GROS BRAS:
+	Terrains: 
+		Bataille
+		Extorsion: menace d'avoir recours à la violence si pas payé.
+		Sabotage: detruire le bien d'un adversaire.
+		Braquage: attaque à main armée rapide et violente.
+	Améliorations 
+		Barraquement: Pluss de places pour les membres.
+		Manteau bleu confédéré: paiement de gardes corrompus dans le quartier.
+		Intimidation des manteau bleu: Les gardes ne veulent pas d'ennuis avec vous.
+		Fourgue: Récuperer au mieux la valeur d'objets volés.
+		Citoyens terrorisés: augmentation de l'argent donné lors de bataille ou extorsion car trop peur de vous.
+		Entrepots: Espace de stockage de marchandises supplementaires.
+CULTISTE 
+	Terrains: 
+		Acquisition: se procurer un artefacte et faire communier.
+		Augure: Attirer l'attention & conseil du dieu 
+		Consécration: sanctifier un lieu pour son dieu 
+		Sacrifice: Detruire ce qui a de la valeur ou est bon pour la gloire du dieu.
+	Ameliorations 
+		Sanctuaire: rituels & pratiques occultes.
+		Portail antique: se rendre magiquement dans un lieu sombre.
+		Obelisque antique : facilite les rituels.
+		Ancienne tour: faciliter la mise en contact avec entités.
+		Lieu d'offrande: un endroit où la population paye une offrande pour ne pas etre sacrifié.
+		Puits spirite: attire les esprits et les pieges pour les rituels.
+COLPORTEUR 
+	Terrains: 
+		Vente: importante transaction avec acheteur de marchandise illegale.
+		Approvisionnement: Effectuer une transaction pour aquerir un nouveau produit ou fournisseur.
+		Demonstration de force: faire un exemple d'un ennemi pour dominer son territoire.
+		Mondanité: Ameliorer relations avec un client ou fournisseur lors d'un eveneemnt social.
+	Ameliorations: 
+		Marché etranger: une partie de votre marchandise trouve preneur en dehors de la ville.
+		Poste d'observation: surveille le quartier.
+		Endroit luxueux: Impressionne les riches et les attire.
+OMBRE 
+	Terrains: 
+		Cambriolage: vol par effraction ou intrusion.
+		Espionnage: Obtenir une information secrete par moyens discrets ou clandestins.
+		Vol: larcin par la force ou la menace.
+		Sabotage: Blesser un adversaire en detruisant quelque chose.
+	Ameliorations 
+		Carte & passe partout des souterrains.
+	Point de livraison secret: pour faciliter les transactions clandestines.
+	Salle d'interrogatoire: Facilite les interrogatoires.
+	Passages secrets: connaissance des passages secretes de la region.
+	Taverne: propager des rumeurs et en obtenir.
+CONTREBANDIER 
+	Terrain: 
+		Esoterique / etrange: materiel de culte, essence spirite, fantomes.
+		Armes: Armes reservées à l'armée, explosif.
+		Contrebande: Objet de luxes, drogues, oeuvres d'ar sensurée.
+		Passagers: Transport de personnes ou betails en secret.
+	Ameliorations: 
+		Camouflage: Vehicules dissimulés ou passent comme sans interet.
+		Barge: deplacer le repaire facilement.
+	Flotte: les membres disposent de moyens de circuler facileemnt.
+	Routes secretes: connait des moyens de circuler hors de la ville facilement.
+	
+		
+
+			
+	

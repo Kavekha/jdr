@@ -1,0 +1,418 @@
+Chapitre 7: DANS NOTRE SILLAGE 
+===============================================
+# Graine d'aventure 
+"Naviguer les mers avec l'Oeil des Abysses en ennemi apporte parfois de dangereux visiteurs."
+
+## Plot Hook
+	Le Disque et son importance pour l'Oeil.
+	Devoir gérer la menace de l'Oeil lors de leur navigation.
+	Confirmer le choix de Norbrande.
+
+## Review char motivations
+	Gerer la malédiction de Namikigama.
+	Rejoindre Norbrande sans encombre.
+	Garder le Disque Flottant, empècher le culte de l'OEIL de l'obtenir.
+	Arriver sains et saufs.
+
+## Ce que font les vilains.
+	FLAVIAN et AKEBHE negocient leur accord.
+	> MORELM informe BARON du vol du Disque Flottant et les voleurs. 
+	PRESAGE prépare ses espions à Norbrande.
+
+## Ce que font les NPC 
+	MESVERI se rends à MARIGOLD pour l'informer de l'accord entre les Prince Marchands..
+	SINDRI GARRICK cherche à retrouver Namikigama. Il se rends vers Norbrande.
+	ISOLDE en conflit avec FLAVIAN autour de l'officialisation du culte.
+
+# Strong start
+- Sequence cauchemar lié au Disque et à l'Epée Vengeresse.
+	- Présenté comme une "réalité"?
+- Echange avec Medelmerick et confirmation de la destination.
+- Poursuivi par Sahuagins.
+
+## secrets & clues 
+> Medelmerick est un ancien esclave d'Akebhé, qui est parvenu à s'enfuir.
+> Flano est son fils, qu'il a découvert après sa fuite.
+> Medelmerick a une cargaison venue de Pydemian qu'il peut vendre à Ilzagal ou Norbrande. C'est le paiement de ORIASTR.
+> Mitsuha sous haute tension prends une forme draconique avancée, sous le controle de l'Ame brisée du dragon Annaphira.
+> Les Chasseurs d'Ecume sont adversaires des Prince Marchands et notamment Akhebé.
+> Ilzagal est le lieu de naissance du second de MARIGOLD, Khukan Muwworth.
+> Le Culte de l'OEIL veut récuperer le Disque Flottant.
+> Les Sahuagins travaillent pour le Culte de l'OEIL.
+> Le Baron et plusieurs Sahuagins meprisent les humains, même ceux du Culte.
+> Les Sahuagins sont l'évolution des humains benis par l'OEIL. Le Destin de Pydemian?
+> Les Chevaucheurs d'Ecume sont pleinement au service de Pallagorn.
+> Le Disque permets d'acceder à la prison de l'Entité Elementaire des Eaux.
+
+## Scenes potentielles
+- Rêves interactifs?
+- Donc: Discussion dans le bateau rêve / destination.
+- Then: le voyage se poursuit: Temps mort pour fabriquer des trucs.
+- Donc: Discussion avec les marins 
+- Donc: Decouverte de la traque par Sahuagins
+- Donc: Confrontation avec le Baron autour du Disque
+- But: Des sahuagins sabotent le bateau pendant ce temps.
+- Donc: Bateau en galère, obligé de se rendre vers Ilzagal ou Attendre un bateau.
+- Donc: Ilzagal: Intervention de Mephiste d'appel à l'aide.
+- Donc: Attendre: Bateau pirate.
+
+## Fantastic locations 
+> La mer, sous un climat particulier (Tempete? Grands Vents?)
+> Sous l'eau, une vision de la cité sous marine des Sahuagins.
+
+
+NPC =======================
+
+Medelmerick: 
+	Humain, contrebandier. A travailler avec Jethro par le passé.
+	(secret: Ancien esclave du Prince Marchand Akebhé (Elementaire Eau), en fuite).
+	> Cicatrices diverses.
+	- Ne pas être capturé par les hommes d'Akebhé.
+	- Conduire le groupe où il le souhaite pour retourner à BriseWyrm.
+	- Livrer ses biens.
+
+Ethia Fizzleupon (Marin):
+	Jeune Gnomette veut devenir une magicienne. Quelques tours. Originaire de BriseWyrm.
+	(Secret:A la recherche d'argent. Beaucoup.)
+	> Un petit nez rose, des yeux malicieux, un chignon au dessus de la tête.
+	- Voyager dans le bassin (Liste de lieux à voir).
+	- Revenir avec plein de présents pour frimer à Brisewyrm.
+
+Flano, juste Flano (Marin):
+	Jeune humain.
+	(Secret:Fils de Medelmerick, découvert lorsqu'il a fuit l'esclavage)
+	> Une belle musculature, mais maladroit et le regard un peu triste ou vague.
+	- Quitter Pydemian et trouver un nouvel endroit où s'installer.
+	- Artisan forgeron. 
+
+Elem mineur de l'air:Nom inconnu, Murmure?.	
+	(Secret:Reincarnation de l'un des enfants de l'Entité Sehim)
+	> Un petit nuage aux gros yeux, prenant une forme vaguement humanoide avec des cornes.
+	- Trouver de l'aide pour assister la famille elem d'airs qui l'a acceuilli à Ilzagal.
+	- S'integrer à sa nouvelle famille.
+	- Découvrir son ancienne famille, ou le monde. Partir à l'aventure, quoi.
+	
+	
+Ennemis possibles ===============
+
+Baron Sahuagin Kagato (FP 5)
+	En charge de la région de Pydemian. En lien avec le Culte de l'Oeil via une petite île proche.
+	(Secret:Il n'en peut plus des humains, il ne partage pas l'interet de l'Oeil pour eux.)
+	> Corps de poisson, quatre bras.
+	- Récuperer le Disque pour l'Oeil des Abysses.
+	- Chatier le groupe pour la destruction du Venerable, leur premier allié.
+	
+Pretresse Sahuagin Rokubi (FP 1)
+	Porte parole de l'Oeil pour la communauté Sahuagin de la région Pydemian.
+	(Secret: Curieuse de la Surface, pour la conquerir pour l'Oeil).
+	- Récuperer le Disque pour l'Oeil des Abysses.
+	- Chatier le groupe pour la destruction du Venerable, leur premier allié.
+	- Reussir sa mission pour le Baron.
+	=======
+	Sorts: 3/2
+	Flammes[0]: Action. JS Dex ou 1d8 dmg.
+	Benediction[1]: Action, concentration. +1d4 pour une cible pour Attaque & JS.
+	Blessure[1]: Attaque pour toucher. 3d10 Necro.
+	Eclair Tracant[1]: Attaque distance. 4d6 Radiants. AV contre la cible pour prochaine attaque.
+	Mot Guerison[1]: Bonus. 1d4 + 2
+
+Klevan le ForgeGuerre / Forgelié
+	Une vision du cauchemar de la personne maudite par l'Epée de Sabellad.
+	(Secret: Ce cauchemar est issu du Disque & de "l'image" enfouie dans l'épée).
+	- Capturer Sabelad et le faire executer publiquement.
+
+Introduction ===========================
+- Barque de Medelmerick vers le bateau. 
+- Reçus par Flano et Ethia Fizzleupon.
+- Bateau parti dans la nuit vers le sud ouest.
+- Explications Medelmerick: 
+	* Présentation de l'equipage.
+	* Il faudra 7 jours de voyage.
+	* Présentation du bateau : soute.
+	* Il vendra sa cargaison là où il sera.
+	* Il aimerait revennir à BriseWyrm pour Oriastr.
+	
+Cauchemars =============================
+- Tour de garde?
+- Flano vient les fouiller s'il en a l'opportunité.
+- Potentielle discussion avec Mitsuha avant qu'elle ne s'endorme.
+- Cauchemars: 
+	Jethro: 	Moquerie des Princes Marchands contre lui.
+	Draky: 		Des dizaines de cuves au liquide vert entre les mains de Fresrek.
+	Namikigama: Furie d'abord, puis en conflit avec Klevan le ForgeGuerre / Forgelié et l'épée maudite de Sabelad.
+- JS Cons 12 pour supporter le cauchemar et éviter la fatigue.
+
+Description du Bateau ==================
+- Une sorte de peniche, avec une soute. 
+- On dort à l'interieur, dans des hamacs, au milieu de la cargaison. 
+- Des cordes partout, pour retenir les voiles et la cargaison.
+- Le bateau est propulsé grace à une Pierre des Vents, magique, créée à BriseWyrm, d'une valeur de 1000 po.
+
+
+La cargaison ===========================
+- Il s'agit d'une dizaine de coffres et sacs.
+- Ils contiennent de l'alcool de champignons & divers objets d'art manifestement récupérés en haute ville.
+- La valeur de la cargaison est estimée à 400 po. Cela paie les risques et 20j de voyage. 
+
+Rumeurs ================================
+(Les informations viennent des marchands recents arrivés après la fin du siège)
+- Un Gnome venu d'Ilzagal avant le départ rigolait en parlant d'un dragon du Roi Sorcier. Il a failli s'etouffer.
+- Les pirates de Marigold ont été apperçus vers l'ile des Guerisseurs, entre Pydemian et Norbrande.
+- Les pirates semblent prévoir un assaut contre Akebhé.
+- Les pirates semblent vouloir s'en prendre à Pydemian car l'accord n'aurait pas été respecté.
+- On dit que Norbrande rassemble un groupe armé pour soutenir Pydemian contre le Devoreur.
+- Des navires d'Akebhé ont été vu le long des cotes, on craint des captures d'esclaves.
+- Des marins ont eu affaire à des vents etranges à Ilzagal. Ca semble assez fréquent ces derniers temps.
+- On a vu des bateaux de l'Academie se rendre à BriseWyrm recemment.
+- Ilzagal a fété le retour de Khukan Muwworth, le bras droit de Marigold. 
+- Ilzagal fait la fête depuis des jours! Ca donne envie d'y aller!
+- La garde de Pydemian semblait chercher une espionne elfe qui se serait enfuit de la prison pendant la bataille du siège.
+- Il a été entendu que les gars de Akebhé voulaient récupérer un prisonnier du nom de Sabellad.
+
+Echanges avec les autres ===============
+(Un marin se repose, les deux autres travaillent. Quart de 8h).
+* Flano & Ethia
+	Les deux parlent ensemble d'aventure dans le bassin.
+	Ils en ont marre tous les deux de faire Pydemian - BriseWyrm.
+	Ethia aimerait visiter Ilzagal et découvrir les mages et s'y améliorer. On les y traite bien.
+	Flano aimerait visiter l'Ile des Guerisseurs. Il a vu trop de maladie enfant, il y a 10 ans.
+	Ils craignent les pirates et Akebhé.
+	Ethia se demande pourquoi Medelmerick deteste autant Akebhé. Flano parle d'esclavage.
+* Medelmerick & Flano 
+	Medelmerick veut tout expliquer ou montrer à Flano, qui s'agace.
+	Rien ne semble bon pour Medelmerick quand Flano fait quelque chose.
+	Quand Flano parle d'aventure, Medelmerick parle de sécurité.
+	Flano parle de l'Ile des Guerisseurs: Medelmerick trouve qu'il est trop tot.
+	Flano et Medelmerick parlent de leur mère / femme ou d'une femme non identifiée (Dialla).
+	Grand silence géné entre les deux. Soupir de Flano.
+* Medelmerick & Ethia.
+	Ethia utilise sa Main du Mage pour faire son travail, ca agace Medelmerick.
+	Ethia chante à tue-tête, ça agace Medelmerick.
+	Ethia danse dans le vent, devant la pierre, ça agace Medelmerick.
+	Ethia rapièce une voile en lachant des jurons, ça agace Medelmerick.
+	Ethia ressert les cordes, ca agace Medelmerick qui les refait en grognant.
+	Ethia parle de Ilzagal, de Norbrande, de l'Academie, et ça agace Medelmerick.
+* Flano seul.
+	Medelmerick est son père, qu'il a rencontré pour la première fois il y a 2 ans lors de la revolte.
+	Il a vécu avec sa mère, en faisant des petits boulots au port.
+	Il était content de découvrir le monde, jusqu'à ce que ça se résume à Pydemian - BriseWyrm.
+	Il n'a jamais pu aller au dela du port des invités de BriseWyrm.
+	Il veut devenir soigneur, car mauvais souvenir d'un Mal quand il etait jeune.
+* Ethia 
+	Elle est certaine d'être une future grande mage.
+	Elle a plein de famille à BriseWyrm.
+	Les gnomes de BriseWyrm sont aussi porteur d'une Graine du Pommier, comme Ilzagal.
+	Elle a rejoint Medelmerick il y a un an, pour l'aventure.
+	Elle a découvert sa magie lors d'une tempète prêt d'Ilzagal, et veut faire autre chose maintenant.
+* Medelmerick 
+	Il ne sait pas comment gérer son fils qu'il connait peu.
+	C'est un ancien esclave d'Akebhé.
+	Il l'est devenu suite à un conflit avec Akebhé, quand il était marchand pour lui.
+	Il a travaillé à Pydemian pour Akebhé quelques temps.
+	Il se lasse de Pydemian et BriseWyrm, mais c'est le chemin le plus sécuritaire pour son fils.
+	Lui, il aimerait aller vers l'Ouest, loin d'Aujir Tural (Akebhé), mais c'est un long et dangereux trajet. Peut être les Iles des Prince Marchands.
+	
+Temps morts ============================
+* Apprendre
+	* Charpenterie: Force DC 30 pour gagner 1/4 Tranche ou -5 DC par jour.
+	* Cuisine: Sagesse DC 20 pour gagner 1/4 Tranche ou -10 DC par jour.
+	* Bricolage: Dexterité DC 30
+	* Cordonnerie: Dexterité DC 30 
+	* Tisserand: Dexterité DC 30
+	* Cartographie: Sagesse DC 30
+	* Navigation: Sagesse DC 20 
+	* Musique : Charisme DC 30
+	* Jeu : Sagesse DC 20
+* Compétences 
+	* Forger un document: Dexterité Recopier 10, Imiter 15, dupliquer Sceau 20
+	* Herbalisme: Potion Soin DC 15, 25 po.
+	* Ouvrir les coffres : DC 15.
+* Recruter
+	* Ethia DC 20
+	* Flano DC 20 
+	* Medelmerick DC 15
+
+Course poursuite =======================
+Si un danger a été repéré, comme les Sahuagins ou un bateau hostile, il est possible de fuir.
+Pour cela, il faut réussir plusieurs exploits par des jets de compétence.
+Seuls les compétences maitrisées peuvent être jouées.
+Il faut justifier l'utilisation. 
+
+Attaque Sahuagin =======================
+Un groupe de 3 Sahuagins sont chargés de percer la coque pour faire couler le bateau.
+	Cela peut reveiller la personne dans la soute.
+Le groupe Sahuagin essaie de s'attaquer à la Pierre des Vents.
+La Pretresse et le Baron viennent sur le ponton pour réclamer le Disque.
+Le Baron parle sa langue, la Pretresse traduit mal.
+Conditions de victoire:
+	- Obtenir le Disque.
+	- Negocier Disque & abandon des poursuites.
+	- Detruire la Pierre des Vents qui dirige le bateau.
+	- Le bateau coule bien, ils pourront le récupérer après noyade.
+	- Adversaires assommés: capturés & apportés dans les bas fonds ou bien à Morelm.
+Conditions de défaite:
+	- Une partie du groupe tué.
+	- Baron blessé.
+	- Pretresse tuée.
+En difficulté:
+	Si Draky ou elle-même en danger, risque que Mitsuha accélère sa transformation.
+	* CA 17 - 33 pv 
+	* Morsure +4 (1d10 +2 + 1d4 Acide)
+	* Souffle Acide (Dex DD11, 1/2 ou 5d8 Acide)
+	Un jet doit être fait pour qu'elle garde le controle.
+	
+Tresors ===================================
+#1 Pallier 1:
+	90po
+	7 x pierres precieuses (50 po)
+	Arme +1
+	Bottes elfiques
+#2 Pallier 1:
+	50po
+	10 x pierres precieuses (10 po)
+	Parchemin sort lvl 1
+	4x Potion Guerison
+#3 Pallier 1:
+	40 po 
+	3 x objets art (25 po)
+	Anneau d'evasion 
+#4 Pallier 2:
+	2300 po 
+	5 x objet art (250 po)
+	Potion souffle de feu 
+	3x Parchemin sorts lvl 3
+	1x Guerison Majeure 
+
+Mitsuha ============================
+Si Mitsuha s'est transformée pendant le combat, elle s'effondre.
+Son corps a subit des changements:
+	* Ecailles plus épaisses
+	* Des bouts d'ailes se sont arrachées de son dos, lambeaux de chair.
+	* Une crête a poussé sur sa tête 
+	* Ses cornes se sont allongées.
+	* Elle a grandit. Son poids et sa taille l'empèchent de se lever facilement.
+Elle est épuisée et terrifiée. Elle a du mal à penser. A peur de mettre tout le monde en danger.
+
+
+Bateau coule / plus de pierres ===========================
+Le bateau coule:
+	Le nombre de réussites à obtenir dépends de la gravité.
+	Cela se fait contre la montée des eaux si le bateau coule.
+Plus de pierre: 
+	Il faut poursuivre le trajet avec des rames:
+	Le temps est multiplié par 3 et de la grosse fatigue.
+	Cela rends vulnerable aux pirates et bateaux d'Akebhé.
+Destinations possibles:
+	Ilzagal, 10h / 30h allé, idem au retour.
+	Ile des Guerisseurs: 2j / 6j, mais pas une grosse perte sur le trajet.
+	Norbrande: 5j / 15j, et grosse vulnerabilité niveau rencontre.
+	
+Raisons du choix =======================
+Ilzagal (Magiciens, bateau)
+	- Malédiction de Nami 
+	- Sort de discretion autour du Disque.
+	- Mephite Air 
+	- Mitsuha si elle est inconsciente / transformée.
+	- Réparer le bateau.
+	- Vendre la cargaison. 
+	- Se faire des contacts.
+Ile des Guerisseurs (Pirates & Divinités independantes)
+	- Malédiction de Nami 
+	- Soigner Mitsuha.
+	- Rencontrer les pirates, notamment Marigold.
+	- Informer contre l'Oeil?
+	- Réparer le bateau.
+	- Vendre la cargaison. 
+	- Se faire des contacts.
+
+Rencontres sur la mer ==================
+* Sous l'eau 
+	0	Vision de la cité sous marine.
+	5	Nuées de poissons.
+	30	Courants etranges.
+	50 	Patrouille Sahuagin 
+	70	Truites têtes vides (P, 30kg), en nuée [CA10, 7 pv, +4 (1d4 +2)].
+	75	Requin chasseur (G) [CA 12, 45 pv, +6 (2d8 +4)]
+	80	Requin Recif (M) [CA 12, 22 pv, +4 (1d8 +2)]
+	85	Raie Manta (G) [CA 12, 16 pv, Tete +3 (1d6 +1)]
+	90	Pieuvre (P) [CA 12, 3 pv, Tentacule +4 (1), Nuage + Foncer]
+	98	Merrow (G) [CA 13, 45 pv, x2, GRiffe +6 (2d4 + 4), Morsure +6 (1d8 +4), Harpon +6 (2d6 +4)]
+	100	Epaulard (TG) [CA 12, 90pv, Morsure +6 (5d6 +4)]
+	
+* La Mer, en general.
+	0	Serpent géant (G) [CA 14, 11 pv, +6 (1d4 +4) + Poison DD11 (3d6)]
+	5	bateau marchand vers Pydemian 
+	15	bateau marchand vers Ilzagal 
+	25	Bateau marchand vers Norbrande 
+	35	Bateau marchand vers Ile Guerisseurs 
+	45	Bateau marchand vers Territoire Aujir Tural (Akebhé).
+	55	Bateau pirate 
+	60	Bateau pirate en recherche d'une proie.
+	65	Bateau pécheurs.
+	75	Contrebandier.
+	80	Bateau de pretres.
+	85	Bateau Academie 
+	90	Bateau Panthéon Porteurs Civilisation
+	95	Epave flottante
+	97	Patrouille Sahuagin.
+	98	Combat maritime Akebhé / Pirate 
+	99	Combat maritime Pirate / Marchand 
+	100	Combat maritime Akebhé / Marchand 
+	
+	
+Timeline ===============================
+Jour 21 
+	==> Depart de Pydemian.
+	> MORELM se rends à l'Ile Sahuaguin pour y rencontrer le BARON et l'informer du possible Disque Flottant.
+Jour 22
+	==> Au large de Ilzagal en fin de journée.
+	>> Le BARON Sahuaguin envoie ses troupes à la recherche du bateau des Heros et le retrouve probablement. Une attaque a lieu pour récuperer le Disque Flottant.
+	> MESVERI rejoint un navire qui le conduira à MARIGOLD [10%]
+Jour 23 
+	MORELM attends le retour de BARON et du Disque Flottant.
+Jour 24 
+	>> BARON revient et lui montre le Disque Flottant obtenu. Il envoie MORELM negocier avec FLAVIAN la suite de l'affaire.
+	SINDRI GARRICK prends un bateau pour NORBRANDE.
+Jour 25
+	==> Prêt de l'Ile des Guerisseurs.
+	MORELM revient se mettre au service de FLAVIAN et discute du Disque Flottant.
+	> MESVERI rejoint MARIGOLD à l'Ile des Guerisseurs et l'informe de l'alliance entre Pydemian et Akebhé. [10%]
+	> ORIASTR arrive à BriseWyrm.
+	VISION quitte Pydemian et part pour Norbrande.
+Jour 26 
+	FLAVIAN rencontre le BARON pour négocier le Disque Flottant mais refuse le prix demandé.
+	Départ d'AKEBHE de Pydemian pour revenir à Aujir Tural.
+	PRESAGE fait affrêter un bateau pour l'Academie, afin d'enquêter sur le culte de l'OEIL.
+Jour 27
+	BARON se rends au PRINCE Sahuagin pour lui montrer le Disque. Arrivée dans 4j.
+	Depart d'un groupe de pirates de MARIGOLD (Khukan Muwworth) pour intercepter les navires entre Pydemian et domaine d'Akebhe.
+	MARIGOLD envoie un agent à Norbrande. [5%]
+	MESVERI se rends à Ilzagal pour activer son réseau d'espions. 
+Jour 28
+	==> Arrivée à Norbrande.
+	Bataille entre des bateaux de MARIGOLD et AKEBHE. Résultat inconnu. [5%]
+	
+Arrivés à destination ==================
+* Ilzagal (Aux alentours de Jour 23)
+	- Alors qu'ils approchent, Namikigama est chatouillé par Murmure/Méphite, qui lui parle de ses problèmes.
+	- Si de jour: ils croisent des pécheurs, voient l'activité au chantier, des pulsations d'air venues de la montagne.
+	- De nuit: des lumières partout, car il y a une sorte de fêtes ou cérémonie.
+* Ile des Guerisseurs (Entre le Jour 25 et 28)
+	- Alors qu'ils arrivent, ils voient des bateaux patrouilles, marchands et pirates se croiser.
+	- Namikigama apperçoit une sorte de boule de cristal dans lequel Chatouille/Murmure est enfermé.
+	- De jour comme de nuit, il y a des celebrations religieuses partout.
+* Norbrande (Entre le Jour 28 et 35)
+	- L'eau devient de plus en plus sale, la vegetation de la cote va se noyer dedans. Des moustiques, partout. Grosse chaleur.
+	- Des Vouivres guettent les arrivées des bateaux.
+	- L'un d'entre eux est peut être même détruit (pirate?).
+
+Ce qui est arrivée à Mephite ===========
+* Ilzagal 
+	Il a rejoint une "communauté" de "comme lui" (Juste des vents) à Ilzagal.
+	Quelque chose a été volé et les vents se sont enfuis et provoquent le desastre.
+	Il craint pour "ses amis".
+* Ile des Guerisseurs 
+	Il a été capturé par un jeune pirate à Ilzagal.
+	C'est un "nouveau pirate", il espere impressionner Khukan Muwworth, le second de MARIGOLD.
+
+

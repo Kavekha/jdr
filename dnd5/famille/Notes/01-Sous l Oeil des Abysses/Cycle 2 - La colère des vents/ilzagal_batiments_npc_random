@@ -1,0 +1,70 @@
+== BATIMENTS (d100)
+0-20 	Residence
+21-25	Boulanger 
+26-30	Taverne 
+31-35	Boucher 
+36-40	Marché 
+41-43	Forgeron 
+44-46	Charron (Bois & Metal)
+47-49	Bains publics 
+50-52	Tisseur 
+53-55	Cordonnier 
+56-58	Teinturier 
+59-61	Vendeur de poisson 
+62-64	Potier
+65-67	Vendeur de cordes & filets 
+68-70	Etables 
+71-72	Tailleur de pierre 
+73-74	Meunier 
+75-76	Chirurgien 
+77-78	Menusier & arcs.
+79-80	Tanneur 
+81-82	Scribe / Notaire
+83-84	Charpentier 
+85-86	Souffleur de verre 
+87-88	Bricoleur 
+89		Erudit 
+90		Alchimiste
+91		Theatre & comediens 
+92		Peintre / Sculpeteur 
+93		Joallier 
+94-95	Vendeur d'épices 
+96		Cartographe 
+97		Parfumeur 
+98		Petite chapelle 
+99		Distillerie 
+00		Usurier 
+
+
+== ETAT GENERAL  (d8)
+1-5 	Intact 
+6		A brulé ou a été abimé par l'eau.
+7		Vide 
+8		Fortifiée 
+
+
+==	NPC (d20)
+1-4		Fermier 
+5-7		Serviteur 
+8-9		Pecheur 
+10-11	Vendeur des rues 
+12-13	Mendiant 
+14		Marin 
+15		Soldat 
+16 		Espion 
+17		Assassin 
+18		Voleur 
+19		Courtier 
+20		Avocat 
+
+
+== CRISE NPC (d12)
+1-4		Tout va bien 
+5		Biens envolés 
+6		Trempés par la pluie / tombé dans l'eau 
+7		Blessé, quelque chose lui est tombé dessus 
+8		Piégé sous des décombres qui lui sont tombés dessus par le vent.
+9		Escorté 
+10		sous un souffle de vent colerique 
+11-12	Relancer 2 fois.
+

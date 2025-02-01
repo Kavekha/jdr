@@ -1,0 +1,173 @@
+1. PHARE du CHANTIER ---> 2, 3.
+2. CHANTIERS MARITIMES  ----> 1, 3, 4, 5.
+3. QUARTIER des EPAVES ---> 5, 26.
+4. TAVERNE des NAUFRAGES  ---> 2, 4.
+5. PETIT MARCHE des PAUVRES ---> 3, 4, 6, 26
+6. PONT des SOUCIS  ---> 5, 9
+7. ENTREPOTS, géré par la Compagnie X  ---> 8, 9, 29
+8. PORT DES AMIS  ---> 7
+9. GRAND MARCHE ---> 6, 7, 10, 11, 13, 21
+10. TAVERNE des INVITES  ---> 9, 11
+11. BASTION de la GARDE GNOME Y   ---> 9, 10, 12
+12. GRAND PONT  ---> 11
+13. TEMPLES  ---> 9, 14, 15, 29
+14. GRAND POMMIER  ---> 13
+15. BOIS du POMMIER   ---> 13, 16, 21
+16. CHANTIER des NOUVEAUX BATEAUX   ---> 15, 27
+17. MAIRIE   ---> 18, 21, 22, 28, 29
+18. TOUR DE LA MAGIE  ---> 17
+
+19. PORT DES PECHEURS   ---> 22
+20. TAVERNE DES OUBLIES  ---> 22
+21. GRAND JARDIN  ---> 9, 15, 17
+22. QUARTIER des PECHEURS  ---> 17, 19, 20, 23
+23. PHARE du POISSON  ---> 22
+
+24. PHARE de l'ACCUEIL  
+25. PHARE des NOUVEAUX-NES 
+
+26. Echoppe du BIDULE MAGIQUE ---> 5
+27. MUSEE DU GRAND VOYAGE ---> 16
+28. MAISON PYLWIKKEN  ---> 13, 17, 29
+29. AMBASSADES --> 7, 13, 17, 28
+
+
+=======
+
+1. PHARE DU CHANTIER
+	Tour en pierres grises, mal entretenue, avalée par les algues.
+	Des Verres oranges transforment la lumière pour signaler le Chantier.
+
+2. CHANTIERS MARITIMES
+	Des dizaines de bateaux de differentes tailles, hors de l'eau.
+	Des gnomes travaillent avec des Halfelins et des demi-orcs pour nettoyer et réparer.
+
+3. QUARTIER des EPAVES
+	De nombreux bateaux abandonnés sur la cote, au milieu du sable.
+	Des gnomes, halfelins et demi-orcs y vivent.
+
+4. TAVERNE des NAUFRAGES 
+	Faites de bric et brac, morceaux de bateaux les uns sur les autres.
+	Pas mal d'infirmes, d'ouvriers fatigués, et voleurs etc.
+	
+5. PETIT MARCHE des PAUVRES 
+	Des camelotiers sont là pour proposer des petits trucs récupérés ici et là.
+	Des gamins redirigent vers des échoppes alentours, notamment le BIDULE MAGIQUE. 
+	
+6. PONT des SOUCIS 
+	Un pont de pierre a demi-effondré.
+	Réparé par des planches issus de pontons de bateaux.
+	Des mendiants et autres sont là.
+	Des gardes Gnomes surveillent l'endroit et filtrent la venue des gens dans la ville.
+
+7. ENTREPOTS de la COMPAGNIE X 
+	De nombreux entrepots, la plupart en bois comme une grande partie de la ville.
+	Certains sont en pierre et bien gardés.
+	
+8. PORT des AMIS 
+	Les pontons sont en très bon etat, en pierre pour la plupart.
+	Chaque bateau est extremement bien gardé. 
+	Ils viennent de Pydemian et au dela.
+
+9. LE GRAND MARCHE 
+	Ici chaque tente est bien organisé.
+	Des enfants viennent harcleer les gens, mais uniquement à des endroits précis.
+	On y vend des etoffes et autres elements de qualité. Meme des potions et des parchemins.
+	La garde y est très présente et hostile contre qui leur semble louche ou trop armé.
+
+10. TAVERNE des INVITES 
+	Une enorme taverne sur plusieurs maisons.
+	Gardée par des mercenaires, un petit village dans la ville.
+	Très cher, avec des appartements pour qui le souhaite.
+	Les mercenaires des visiteurs logent dans des dortoirs.
+
+11. BASTION de la GARDE 
+	Un grand batiment de pierres.
+	Des montures, des places d'entrainement, des dortoirs. 
+	Des cages pour emprisonner les contrevenants.
+
+12. GRAND PONT 
+	Un pont en très bon etat, très large, qui part vers l'Ile en elle-même.
+
+13. LES TEMPLES 
+	Plein de temples construits les uns sur les autres.
+	Au milieu des racines et des marches du Grand Pommier. 
+	On y trouve:
+		- Le Diplomate Artedar [Majeur]
+		- Le Joueur Yrtuir [Mineur]
+		- Le Foyer Tyroga [Majeur]
+		- Le Chercheur Kalynr [Mineur]
+		- Lunepale l'Aventurière [Majeur]
+		- Sylph Chante Tue-Tête [Majeur]
+		- Hansë la Mendiante [Mineur]
+		- Liloe la Grand Mère [Mineur]
+		- Pallagorn la Pécheuse [Majeur]
+		- Kumynr le Magicien [Mineur]
+		- Theodos Epée de Bois (Enfants) [Mineur]
+	
+14. GRAND POMMIER 
+	Un Pommier gigantesque qui recouvre tous les temples et s'etends au dela.
+	Son ombre ne va jamais sur la ville, mais sur le chemin vers la montagne derrière lui.
+	Un petit lieu où vivent les druides.
+	
+15. BOIS DU POMMIER 
+	Du sol sortent des racines qui constituent le bois du Pommier.
+	Des créatures y vivent.
+	Le role principal du bois est de servir pour la création de nouveaux bateaux ou de prototypes.
+	
+16. CHANTIER DES NOUVEAUX-NES 
+	De nombreux bateaux en construction, par des gnomes.
+	Plusieurs savants experimentent avec des bateaux prototypes.
+	On y trouve des Pierres des Vents.
+	L'endroit est très protégé.
+
+17. LA MAIRIE 
+	Construite dans une petite colline.
+	Devant la mairie passe une grande rue pour transporter la nourriture jusqu'aux entrepots.
+	C'est ici aussi que se reunissent les habitants pour parler politique.
+	
+18. TOUR DE LA MAGIE 
+	Une grande tour, élevé au fur et à mesure du temps.
+	
+19. PORT DU POISSON 
+	Des pontons de bois, où trainent des viscères de poissons divers.
+	L'odeur est épouvantable.
+	
+20. TAVERNE des OUBLIES 
+	Fait de bois, de filets, de squelettes de poissons geants.
+	Ici viennent principalement des pecheurs, mais aussi des voyageurs discrets.
+
+21. GRAND JARDIN 
+	Un grand jardin bien entretenu. 
+	C'est ici qu'on lieu les fêtes generalement.
+	
+22. QUARTIER DU POISSON 
+	Ici on recrute au jour le jour des pecheurs.
+	
+23. PHARE DU POISSON 
+	La tour est faites en bois pourri. Le bois est remplacé ici et là, avec des appuis.
+	Des Verres bleus transforment la lumière pour signaler le quartier.
+
+24. PHARE DE L'ACCUEIL 
+	Au milieu de la mer, à l'entrée des ports. 
+	Bien entretenu, la lumière y est jaune et puissante.
+	
+25. PHARE DES NOUVEAUX-NES.
+	bien entretenu et au milieu de la mer lui aussi. 
+	La lumière est verte mais discrète. 
+	Des bateaux de gardes s'y tiennent prêts à intervenir.
+
+26. ECHOPPE DU BIDULE MAGIQUE. 
+	Entre des maisons se trouvent une petite bicoque.
+	Elle est tenue par un vieux gnome accompagné d'un jeune gnome.
+	On y vends des objets magiques très chers.
+
+27. MUSEE DU GRAND VOYAGE 
+	On y raconte à la fois l'histoire fantasmé d'Ilzagal.
+	On raconte aussi le départ des familles des Graindes du Pommier.
+	
+28. MAISON PYLWIKKEN
+	Une maisonnée gnome bien entretenu, avec de l'argent et de la magie.
+	C'est ici qu'est né Orryn.
+	Dans sa chambre, plein de statuettes de dragons.
+	

@@ -1,0 +1,102 @@
+# Campagne Academie du Savoir.
+
+# Graine:
+"Où les aventuriers sont envoyés à la recherche d'un sarcophage caché en haute montagne, et où un archimage rival veut les saboter."
+
+## Introduction
+- L'Academie du Savoir est une grande tour au centre de la ville civilisé de la region.
+- Tout mage ou savant digne de ce nom étudie, se forme ou enseigne là bas.
+- L'Academie est sous le patronage des dieux Kumynr et Kalynr.
+- Les aventuriers ont tous un lien avec l'Academie.
+- Ce n'est pas leur première expedition ensemble.
+- Ils ont reçus cette mission de Salim Ogano, l'archimage au pseudodragon Jakakryss, en echange de promesse de financement de leur propre expedition.
+
+
+## Résumé
+- Mission donnée par Salim Ogano, à l'Academie du Savoir: Récuperer le Crane d'un ancien mage dans son tombeau.
+- Descendre dans la vallée: entraide, corde, menace animale. On distingue un groupe rival.
+- Rencontre avec un hermite, appelé à acquerir les pouvoirs de l'ancien mage.
+- Trouver l'entrée du tombeau. 
+- Visite du tombeau, affrontement avec les Horreurs Crochues.
+- Rencontre avec le Crane & discussion sur ses objectifs & ceux de Salim Ogano.
+	- Confier le Crane à l'hermite.
+	- Le conduire au rendez-vous.
+- Pousuivi par les rivaux.
+- Confrontation finale au sommet.
+- Retour à l'Academie & confrontation avec Salim.
+
+
+## NPC 
+	- Salim Ogano: l'archimage Invocateur lvl 10, avec familier Jakakryss.
+		(Secret: Salim est le familier du pseudodragon Jakakryss).
+		> Peau matte, petite barbiche. Longs cheveux sombres fins, coulant le long de son corps. 
+		- Recuperer le sarcophage au fond de la montagne de glace grace à l'objet de teleportation.
+		- Ne pas avoir à financer l'expedition du groupe si possible.
+		- Percer le savoir du sarcophage.
+	- Greshma : Archimage illusion lvl 10. Demon.
+		(Secret: Voleur de savoir pour le compte d'une Creature Dieu).
+		> Peau rouge sombre, corne brisée.
+		- Faire échouer l'expedition pour que le secret du sarcophage reste intact.
+		- Ne pas se faire voler sa place au Conseil de l'Academie par Salim Ogano.
+	- Le Passeur Succath
+		(secret: travaille pour Lismeriu?)
+		Homme vetu en faucheur.
+		Conduit le Bateau Flottant, elementaire d'air.
+		Donne une piece du Passeur, maudite.
+	- Arngus l'Hermite.
+		(secret: Gardien du savoir du Crane)
+		- Attends le Signe de se rendre au Tombeau?
+	- Le Crane de Lismeriu Rielathid.
+		"Ancienne liche des temps anciens, detentrice d'un secret. Ancienne Mage de l'Academie)
+		- Enfermée dans le Sarcophage.
+	
+
+
+# Les trois chemins 
+- La traversée des montagnes, avec un passage compliqué, et la confrontation avec les rivaux.
+- L'exploration du tombeau et la découverte du sarcophage.
+- Fuite via le transport volant et retour à l'Academie.
+
+# Stats
+	Horreur Crochue (Taille G)
+		15 CA 
+		75 pv 
+		+4, +0, +2, -2, +1, -2 
+		Vision aveugle 18, vision dans le noir 36.
+		Echolocalisation: voit dans le noir sauf si assourdie.
+		AV aux jets de perception Son.
+		Deux attaques au crochet:
+			+6 Toucher, 3m allonge. 2d6 +4 dmg.
+	Affligé miserable (P)
+		15 CA
+		10 pv 
+		-2, +1, -1, -3, -2, -3 
+		Resistance physique si dans l'obscurité.
+		Vision dans le noir. 
+			Morsure +0, 1d6 -2 dmg.
+	Aigle Geant 
+		13 CA 
+		26 pv 
+		+3, +3, +1, -1, +2, +0
+		Attaques multiples.
+			Bec: +5, 1d6 +3
+			Serres: +5, 2d6 +3
+			
+# Tresors 
+	#1
+		Amulette Anti Detection 
+		Gantelet Puissance Ogre (19 str)
+	#2
+		Arme +1  x2
+		Cape d'obscurité (DES pour Perception Contre, AV pour Discretion)
+	#3
+		Potions guerrison
+		Parchemins 
+		
+	
+
+
+	
+
+
+		

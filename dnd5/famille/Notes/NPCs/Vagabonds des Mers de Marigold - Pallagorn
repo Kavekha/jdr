@@ -1,0 +1,232 @@
+AUTRE NOM POSSIBLE : "Les Mouettes" (mignon, gnome!)
+
+Lenis, guerrier pirate Demi Elfe.
+> Un foulard bleu sur la tête, un grand manteau bleu. 
+> Une oreille coupée, la peau mate, legerement brulée par le soleil.
+> Sûr de lui, dans l'attente d'une erreur de l'autre, prêt à la provoquer.
+=> "Tu es à deux pas de faire une grosse erreur. Un pas. Ca y est, c'est fait!"
+(Antagoniste idealiste : ne veut pas aller trop loin, susceptible de trahir son groupe s'il l'imagine "mauvais")
+	stats
+		For +3 Save +5
+		Dex / Init +2
+		Con +2 Save +4
+		Cha +1
+		Athletisme 5, Intimidation 3, perception 2, Tromperie 3, Survie 2, Religion 2.
+	Combat
+		28 PV
+		CA 16 (maille)
+		Epee longue +5 (1d8+3 tranchant)
+		Arbalete legere +4 (1d8 +2)
+	Capacité Maitre d'arme
+		4 d8 de Superiorité.
+		-Attaque menaçante (+D sur dmg, JS sagesse ou frayeur)
+		-Croc-en-jambe (D sur Attaque pour JS Force ou mettre à terre)
+		-Riposte (Reaction en cas d'esquive, Attaque + D, et si reussite: meme D pour le dmg).
+	Capacités
+		Second Souffle (1d10 +3)
+		Combat à deux armes (Modificateur sur seconde arme)
+		Fougue (1 action en +)
+	Tactique
+		Si distance: Arbalete 
+		Si a portée: 
+			1. Attaque principale (+5, 1d8+3 dmg)
+				Si touche:
+					2. D pour Croc En Jamble (Reste 3). JS de force.
+						Echec Cible: A Terre.
+							3. Attaque bonus AVANTAGE (+5, 1d8+3 + 1d8)
+						Reussite Cible => Etape 4.
+				Sinon: 
+					3. Attaque bonus (+5, 1d8 +3)
+			4. Fougue (Nouvelle action)
+			5. Attaque principale (+5)
+				Si touche:
+					6. D pour Attaque Menacante (Reste 2). JS de Sagesse
+						Echec cible: Frayeur => DESAV sur le guerrier, Ne peut suivre la cible.
+						Inflige 1d8 + 3 + 1d8 dmg)
+				Sinon:
+					Inflige dmg 1d8 + 3
+		Si attaque echoue contre lui:
+			D pour Reaction de Riposte (Reste 1). 
+				Attaque en +5 + 1d8 
+				Si touche: 1d8 + 1d8 + 3 dmg.
+
+
+Tauligun, Magicien Gnome Colline 
+> Chapeau de paille trois fois trop grand, une barbe partant dans tous les sens.
+> De grandes bottes, une chemise, une echarpe autour de la taille. Couleur bleue.
+> Colereux, impatient, tout le monde l'enerve et prends son temps.
+=> "Tu nous fais perdre notre temps, reste dans le plan et fait ce que tu dois faire, idiot."
+(Le Sociopathe: hostile au groupe, mais fini par abimer son propre groupe jusqu'à se faire jeter.)
+	Stats 
+		For -1 
+		Dex +2 
+		Con +3 
+		Int +3 / JS +5
+		Sag 0 / JS +2 
+	Combat 
+		23 pv 
+		Init +2 
+		CA 12
+		Baton +1 (1d6 -1)
+	Sorts 
+		+5 Attaque Sort 
+		DD Sauvegarde 13
+		Lancer 4 / 2 sorts 
+	Sorts connus
+		Protection contre Armes (Action, Resistance Physique)
+		Trait de Feu (Action, Attaque, 1d10 dmg)
+		Rayon de Givre (Action,Attaque, 1d8 dmg, -3m vitesse)
+		Bouclier (Reaction si touché, +5 CA et Immune Projectile)
+		Projectile Magique (Action, 3x 1d4 +1)
+		Trait Ensorcelé (Action, Attaque, 1d12 foudre / Round pour Action supp. Concentration)
+		(Niv 2) Sommeil  (Action, 5d8)
+		(Niv 2) Rayon Ardent (Action, Attaque x3, 2d6 par Rayon)
+	Strategie 
+		Si ciblé => Protection contre Armes. (Niv 0)
+		Si touché => Bouclier en Réaction! (Niv1)
+		Ouverture =>
+			1. Balance le Sommeil pour ecarter une cible (5d8) (Niv2)
+			2. Rayon Ardent (3 x attaque, 2d6 par rayon) (Niv2)
+			3. Si pas ciblé:
+				Trait ensorcelé (Jusqu'à ce qu'il soit ciblé): 1d12 Foudre / round.
+				Projectile magique 
+		Fuite si plus de sorts / Juste la Reaction Niv 1.
+
+
+Kinan Pretresse Tempete Pallagorn Humaine
+> Visage voilé, on ne voit que des yeux bleus gris. Elle a du bleu à levres.
+> Une grande toge bleu claire, avec le symbole de Pallagorn: Un trident planté sur un Kraken, dans une goutte d'eau. En dessous, une goutte de sang rouge.
+> Appaisée, diplomatique, prête à echanger. Prends soin de chacun.
+> Si conduite à l'enervement, sa colère est soudaine et froid, se termine très vite.
+=> "Il est possible d'obtenir chacun satisfaction, retrouvons notre calme."
+(Tentatrice: Travaille pour son groupe, mais aide car pense que le groupe en face pourrait la rejoindre)
+	Stats 
+		For +2 
+		Con +2
+		Sag +3	/ JS +5
+		Cha -1 / JS +1
+		Intuition 5, Medecine 5, Religion 2
+	Combat 
+		Pv 24 
+		CA 16 (bouclier)
+		Masse d'arme +4 (1d6 +2)
+		Arbalete Legere +2 (1d8)
+	Sorts 
+		Attaque +5 
+		DD Save 13 
+		Preparation 6, emplacements 4/2 
+		Flamme (0) : Action, JS Dex ou 1d8 dmg Radiant.
+		Lumiere (0) : Action 
+		Stabilisation (0) : Action 
+		Blessure (1) : Action, Toucher, 3d10 dmg Necro.
+		Eclair Tracant (1) : Action, Attaque, 4d6 dmg. AV pour prochaine attaque d'ici tour suivant.
+		Injonction (1) : Action, JS Sagesse pour resister. Ordre: Fuis, Tombe, etc.
+		Mot Guerison (1): Bonus, 1d4 + Mod.
+		Soins(1): Action, toucher, 1d8 + Mod. 
+		Vague Tonnante(1): JS Const pour 1/2 dmg. Sinon 2d8 Tonnerre + Repoussé 3m.
+		Arme Spirituelle(2): Action bonus, créé une arme.
+			Toucher +5, 1d8 dmg + 3. 6m de deplacement.
+		Bourrasque(2): Action. JS Force sinon recul de 4,5m. Deplacement coute double. Bonus pour changer le sens du vent.
+		Fracassement(2): JS Cons pour 1/2 dmg. Sinon 3d8 dmg Tonnerre.
+		Lien Protection (2): Action. Dure 1h. Bracelets.
+			+1 CA, +1 JS. Resistance à tout. La cible recoit les dmg. Le Pretre les meme dmg. (En gros dmg partagé)
+			Peut être rompu pour 1 Action. 
+	Capacités 
+		Fureur de l'ouragan (Reaction si touché par attaque => JS Dex pour 1/2. 2d8 dmg Foudre  (3 / J) 
+		Fureur destructrice[conduit]: Degat max sur Eclair. 1/j 
+	Stratégie 
+		Solo: 
+			Si attaqué: Fureur Ouragan: Reaction. JS Dex pour 1/2. 2d8. (3 usage)
+			Si blessé: Soins ou Mot Guerison. 
+			Pour fuir: Injonction.
+			Ouverture:
+				1. Lance Arme Spirituelle + Attaque immediate. (bonus)
+				2. Lance Flamme dans la foulée (Action) : 1d8 dmg sauf si JS Dex. 
+			En baston:
+				Eclair Tracant Attaque pour 4d6 dmg. AV pour son arme Spirituelle.
+				Arme Spirituelle (Bonus)
+			Si trop de monde autour:
+				Fraccassement + Fureur Destructrice: JS Cons pour 1/2. 3d8 dmg (24 si Fureur). Niv 2.
+		En equipe:
+			Lance Lien Protection sur Mage ou Guerrier (4/1 sort dispo)
+			Injonction pour ecarter une cible. 
+			Arme Spirituelle si possible.
+			Soins etc.
+		
+		
+		
+Mesveri Wanov, Humain Barde du Savoir (lvl 7)
+> Cheveux blonds bouclés dont une mèche bleue, yeux bleues, peau matte & bronzé. 
+> Une tenue civile, un manteau. Un medaillon avec un symbole de requin.
+> Rit facilement, très flatteur, poli. Prends les choses un peu à la rigolade en apparence, mais planifie beaucoup de choses.
+=> "Vous rendez les choses bien compliqués! Il suffit de faire ci et ça, et voila! Haha !"
+(Antagoniste idealiste: Determiné, competent. N'agit en faveur des opposants que si ordonné ou si circonstances speciales)
+	Stats 
+		Dex +3	/ JS +6
+		Con +2
+		Cha +4	/ JS +7
+		Acrobatie 6, Athletisme 3, Histoire 6, Intimidation 7
+		Investigation 3, Persuasion 7, Representation 10, Tromperie 7
+		Autres +1
+	Combat 
+		pv 52
+		Init +4
+		CA 14 
+		Rapière +6 (1d8 +3)
+		Dague +6 (1d4 +3)
+	Capacité 
+		Inspiration bardique 1d8 (x4, 1/j): Bonus, +1D pour Attaque,JS ou Carac. 4/j.
+		Mots Cinglants: Reaction. -1D pour un jet enemi.
+	Sorts 
+		DD 15
+		Attaque Sort +7
+		4/3/3/1 
+		Protection Contre Arme (0) : Action, Resistance Physique jusqu'au prochain tour.
+		Deguisement (1): Action. Jet Intel(Investigation) vs DD pour passer outre.
+		Murmure dissonant (1): Action. 3d6 dmg. JS pour la moitié. Si echec: Reaction pour fuir à Vitesse restante.
+		Soins (1): Action. Contact. 1d8 + Mod.
+		Fracassement(2): Action, Sphere 3m rayon. 3d8 dmg Tonnerre. JS de CONS pour 1/2.
+		Invisibilité(2): Action
+		Voir Invisibilité(2): Action. 
+		Appel Foudre (3): Action, 3d10 dmg Foudre. JS Dex pour 1/2. Si exterieur: +1d10. Action pour relancer au tour suivant. Concentration.
+		Clairvoyance(3)
+		Eclair(3): Action. Rayon 30m. 8d6 dmg Foudre. JS DEX pour 1/2.
+		Mort Simulé(3): Action. Semble mort. Resistance aux dmg.
+		Motif hypnotique(3): Action. Concentration. JS Sagesse sinon charme: ne peut agir, vitesse 0. Jusqu'à fin du sort (1 min). Concentration.
+		Porte Dimensionnelle(4): Action. Teleportation à 150m.
+	Personnalité
+		Traits de personnalité Je connais une histoire en rapport avec chaque situation.
+		Idéaux Tradition. Les histoires, les légendes et les chansons du passé ne devraient jamais être oubliées, car elles nous apprennent qui nous sommes (Loyal).
+		Liens Je ferais n'importe quoi pour les membres de mon ancienne troupe.
+		Défauts En dépit de mes efforts, mes amis ont peu confiance en moi.
+	Stratégie: 
+		Solo:
+			Fuira si possible.
+				1. Murmure dissonnant si ennemi clairement hostile.
+				2. Invisibilité dés que possible.
+				3. Motif Hypnotique sur des "civils".
+				4. Mort simulé si en galère.
+				5. Porte Dimensionnelle pour fuir à 150m.
+			En combat 
+				1. Protection contre Arme si sait qu'il va être frappé.
+				2. Murmure dissonnant pour tenter de gagner de l'espace.
+				3. Appel de la Foudre si possible. 
+				4. Fracassement.
+				5. Rapière dans le pire des cas.
+			En equipe: 
+				1. Murmure dissonnant si ennemi clairement hostile.
+				2. Inspiration pour les copains ou contre un enemi dangereux.
+				3. Motif Hypnotique
+				4. Arbalete pour rester loin.
+				5. Soins sur les copains en difficulté.
+				
+				
+				
+		
+		
+		
+		
+
+				
+
+
