@@ -17,21 +17,31 @@ Vous pourrez changer l'un de vos Tirs des Arcanes maitrisés lors de ces nouveau
 - Vous décidez d'utiliser ce Tir seulement après avoir touché votre cible et lui avoir infligé des dégâts, à moins qu'aucune attaque ne soit nécessaire pour ce Tir.
 - Vous pouvez accomplir autant de Tirs des Arcanes que votre Modificateur INT (Minimum 1).
 - Vous regagnez vos Tirs des Arcanes après un Repos Court ou un Repos Long.
-**Dé de Tir des Arcanes** : Votre Dé de Tir des Arcanes est un 1d6.
+**Dé de Tir des Arcanes** : Votre Dé de Tir des Arcanes est un d6.
 **Difficulté de Sauvegarde** : Les Sauvegardes contre vos Tirs des Arcanes sont équivalents à 8 + Maitrise + Modificateur INT. 
 
 ## Niveau 7 : Nouveau Tir des Arcanes.
 Vous apprenez un nouveau Tir des Arcanes.  
 Vous pouvez aussi remplacer un Tir des Arcanes que vous maitrisez par un autre.  
 
+## Niveau 7 : Attaque courbée.
+Si vous échouez une attaque à distance, vous pouvez utiliser une **Action Bonus** pour accomplir aussitot une attaque supplémentaire avec la même arme contre une autre cible.   
+La cible ne doit pas non plus être totalement cachée.  
+
+## Niveau 7 : Prêt à tirer.
+Quand vous lancez l'Initiative, vous regagnez une charge de Tir des Arcanes s'il ne vous en reste plus. 
+
 ## Niveau 10 : Nouveau Tir des Arcanes.
 Vous apprenez un nouveau Tir des Arcanes.  
 Vous pouvez aussi remplacer un Tir des Arcanes que vous maitrisez par un autre.  
+**Dé de Tir des Arcanes** : Votre Dé de Tir des Arcanes devient un d8.
 
 ## Niveau 15 : Nouveau Tir des Arcanes.
 Vous apprenez un nouveau Tir des Arcanes.  
 Vous pouvez aussi remplacer un Tir des Arcanes que vous maitrisez par un autre.  
+**Dé de Tir des Arcanes** : Votre Dé de Tir des Arcanes devient un d10.
 
 ## Niveau 18 : Nouveau Tir des Arcanes.
 Vous apprenez un nouveau Tir des Arcanes.  
 Vous pouvez aussi remplacer un Tir des Arcanes que vous maitrisez par un autre.  
+**Dé de Tir des Arcanes** : Votre Dé de Tir des Arcanes devient un d12.
