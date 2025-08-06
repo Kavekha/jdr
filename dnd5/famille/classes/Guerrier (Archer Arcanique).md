@@ -45,3 +45,43 @@ Vous pouvez aussi remplacer un Tir des Arcanes que vous maitrisez par un autre.
 Vous apprenez un nouveau Tir des Arcanes.  
 Vous pouvez aussi remplacer un Tir des Arcanes que vous maitrisez par un autre.  
 **Dé de Tir des Arcanes** : Votre Dé de Tir des Arcanes devient un d12.
+
+# TIRS DES ARCANES 
+## Tir Bannisseur 
+*La magie imprégnée dans votre munition peut séquestrer temporairement votre cible dans un Demi-Plan inoffensif.*  
+L'attaque inflige *Dé de Tir des Arcanes* en dégats psychiques supplémentaires.  
+La cible doit réussir une Sauvegarde de Charisme ou être Bannie.  
+Si elle est bannie, la créature est considérée comme Incapacitée avec une vitesse de 0 jusqu'à la fin de son prochain tour.  
+Après cela, elle revient à l'endroit où elle se trouvait ou bien à un emplacement adjacent.  
+
+## Tir Séduisant
+*La magie imprégnée dans votre munition rends votre cible temporairement séduite.*  
+L'attaque inflige DEUX *Dés de Tir des Arcanes* en dégats psychiques supplémentaires.  
+La cible doit aussi réussir une Sauvegarde de Sagesse ou bien être *Charmée* jusqu'au début de votre prochain tour.  
+Pendant la durée de l'effet, la cible vous considère vous ou vos alliés dans les 9m comme le Charmeur.  
+L'état de Charmé cesse si le Charmeur attaque la cible, lui inflige des dégâts ou lui impose une Sauvegarde.
+
+## Tir Explosif
+*Vous impregnez votre munition d'une force explosive magique.*
+Immédiatement après avoir infligé des dégâts à la créature, votre cible et toute créature à 3m d'elle subissent des dégâts de Force équivalent à DEUX *Dés de Tir des Arcanes*.
+
+## Tir Affaiblissant
+*Votre munition magique aspire la force de sa victime.*
+La créature que vous venez de toucher subit des dégâts Nécrotiques équivalent à DEUX *Dés de Tir des Arcanes*.
+La cible doit aussi réussir une Sauvegarde de Constitution ou être dans l'état *Empoisonné* jusqu'à la fin de son prochain tour.  
+Si la cible empoisonnée inflige des dégâts avec une Attaque, elle doit retirer aux dégâts infligés l'équivalent de UN *Dé de Tir des Arcanes*.
+
+## Tir Saisissant
+*Votre munition magique créée des ronces saisissantes autour de votre cible.*
+La créature que vous touchez subit des dégats Tranchants supplémentaires équivalent à UN *Dé de Tir des Arcanes*.  
+Elle doit en outre réussir une Sauvegarde de Force ou être *Restreinte* jusqu'au début de votre prochain tour.  
+La cible ou un allié à portée doit utiliser une action pour retirer les ronces en réussissant un jet d'Athletisme pour retirer l'état *Restreint*.
+
+## Tir Perforant 
+*Votre munition devient d'une nature éthérée.*
+Avec une telle munition, vous ne faites pas de jet d'attaque : vous tirez droit devant vous sur 9m.  
+La munition ignore tout obstacle, traversant les objets solides jusqu'à disparaitre. 
+Chaque créature dans la ligne de tir doit réussir une Sauvegarde de Dextérité.  
+Sur un échec, les cibles prennent les dégâts de l'arme ainsi que DEUX *Dés de Tir des Arcanes* équivalent à des dégâts perforants.  
+En cas de réussite de la Sauvegarde, les cibles prennent la moitié des dégâts infligés.  
+
