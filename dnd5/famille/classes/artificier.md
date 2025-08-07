@@ -48,17 +48,21 @@ L'objet disparait si un nouvel outil est créé de cette manière.
 Vous pouvez augmenter une statistique de 2 points, jusqu'au maximum de 20.  
 Cela se produit aussi aux niveaux 8, 12, 16, 19.  
 
-## Niveau 6 : Expertise en outil.
+## Niveau 5 : Expertise en outil.
 Vous êtes désormais Expert pour l'utilisation de tout outil que vous maitrisiez jusque là.  
+
+## Niveau 6 : Capacité de Spécialiste. 
 
 ## Niveau 7 : Eclair de genie. 
 Vous êtes capable de trouver des solutions sous pression!  
 Si vous ou un allié à 9m de vous faites un jet de competence ou de sauvegarde, vous pouvez utiliser une Réaction pour augmenter le jet par votre modificateur d'INT.  
 Cette capacité peut être utilisée autant de fois par jour que le modificateur d'INT.  
 
-## Niveau 10 : Adepte de l'Objet Magique. 
+## Niveau 9 : Adepte de l'Objet Magique. 
 Vous pouvez désormais vous harmoniser avec quatre objets magiques au lieu de trois.  
-Vous prenez quatre fois moins de temps et cela vous coûte deux fois moins cher pour un objet commun ou peu commun.  
+Vous prenez quatre fois moins de temps et cela vous coûte deux fois moins cher pour un objet commun ou peu commun. 
+
+## Niveau 10 : Capacité de Spécialiste.  
 
 ## Niveau 11 : Objet Porteur de Sort. 
 Vous pouvez désormais charger un objet avec un sort de votre connaissance.  
@@ -67,14 +71,66 @@ Ce sort doit être un sort d'Artificier et être de niveau 1 et 2, invocable ave
 Avec cet objet, une personne peut utiliser une Action pour produire ce sort avec votre modificateur de Sort.  
 L'objet dispose de INT x2 charges. Preparer un autre objet ou sort annule l'objet précédent.  
 
-## Niveau 14 : Savant d'Objet Magique. 
+## Niveau 13 : Savant d'Objet Magique. 
 Vous pouvez désormais vous harmoniser avec cinq objets magiques.  
 Vous pouvez utiliser des objets magiques même s'ils sont limités à des classes, races ou niveaux.  
 
-## Niveau 18 : Maitre d'Objet Magique. 
+## Niveau 14 : ?
+
+## Niveau 15 : Capacité de Spécialiste. 
+
+## Niveau 17 : Maitre d'Objet Magique. 
 Vous pouvez désormais vous harmoniser avec six objets magiques.  
+
+## Niveau 18 : ?
+
+## Niveau 19 : Don épique.  
 
 ## Niveau 20 : Ame de l'Artificier.  
 Vous développez une connexion mystique avec vos objets magiques.  
 - +1 de Sauvegarde par objet magique à laquelle vous êtes harmonisé.
 - Si vous tombez à 0 pv, vous pouvez utiliser une Réaction pour mettre fin à l'une de vos Infusions pour rester à 1pv.  
+
+
+# Forge-Bataille
+Combinaison de protecteur et de medecin, vous êtes expert dans la protection et la réparation des gens et des biens.  
+
+## Niveau 3 : Maitrise des outils. 
+Vous gagnez la maitrise des outils de forge. Si c'est déjà le cas, vous pouvez maitriser d'autres outils d'Artisanat.
+
+## Niveau 3 : Sorts de Forge-Bataille. 
+| Niveau Artificier | Sort |
+|-|-|
+| 3 | Chatiment révelateur, Lien de protection |
+| 5 | Aura de Vie, Invocation de projectiles |
+| 7 | Aura de Pureté, Bouclier de Feu |
+| 9 | Chatiment du Bannissement, Soin de groupe |
+
+## Niveau 3 : Prêt au Combat. 
+- Vous gagnez la maitrise des armes de guerre.
+- Si vous attaquez avec une arme magique, vous pouvez utiliser votre Intelligence à la place de la Force ou la Dextérité.
+
+## Niveau 3 : Protecteur d'Acier.  
+Vous créez un Defenseur d'Acier qui vous accompagne. Il est amical avec vous et vos alliés, et obeit à vos ordres.   
+En combat, il joue juste après votre tour. Il peut se déplacer ou utiliser sa réaction comme il l'entends.  
+Par défaut il utilise son Action pour Esquiver, sauf si vous utilisez une *Action Bonus* pour lui donner un ordre.  
+Un Sort de *Reparation* permets de le soigner de 2d6 points de vie.  
+S'il est détruit, vous pouvez utiliser vos outils de forgeron pour le remettre en état contre un Sort de votre choix.  
+Cela lui prends une minute pour être restauré.  
+A la fin d'un Repos Long, vous pouvez créer un nouveau Protecteur d'Acier. L'autre périra immédiatement.  
+Le Protecteur d'Acier périt aussi si vous mourrez.  
+
+## Niveau 6 : Attaque supplémentaire.
+L'action Attaque vous permets désormais de porter deux attaques au lieu d'une.  
+
+## Niveau 10 : Choc Arcanique
+Lorsque vous frappez une cible avec une arme magique ou quand votre Protecteur d'Acier frappe un ennemi, vous pouvez provoquer une décharge arcanique avec l'un des effets suivants:
+- Infliger 2d6 de dégâts de Force supplémentaire.
+- Choisir une créature à moins de 9m de vous et visible et la soigner de 2d6 points de vie.
+Cette utilisation est limité à votre INT et une fois par tour. Un Repos Long est nécessaire pour récuperer les utilisations.
+
+## Niveau 15 : Protecteur amélioré. 
+Votre Protecteur d'Acier et votre Choc Arcanique deviennent plus puissants:
+- Les dégats ou soins du Choc Arcanique passent à 4d6.
+- Votre Protecteur d'Acier a un gain de +2 en Classe d'Armure.
+- Si votre Protecteur d'Acier utilise Déviation, son attaquant subit 1d4 + INT dégâts de Force.  
