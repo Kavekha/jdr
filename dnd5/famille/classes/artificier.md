@@ -190,7 +190,6 @@ Infiltrateur : Votre armure est dédié aux actions subtiles. Elle a les capacit
 - Pas puissants: Votre vitesse de déplacement augmente de 1,5m.
 - Champ amortissant : Vous avez un avantage sur les jets de compétence de Discrétion. Si votre armure vous imposait normalement un désavantage, celui-ci s'en retrouve donc annulé.  
 
-
 ## Niveau 6 : Attaque supplémentaire.
 L'action Attaque vous permets désormais de porter deux attaques au lieu d'une.  
 
@@ -204,3 +203,95 @@ Vous pouvez de plus impregnez deux objets de plus en même temps, mais ceux-ci d
 Votre Armure Arcanique gagne des bénéfices supplémentaires selon leur modèle.  
 - Gardien: Quand vous voyez une créature Enorme ou plus petite terminer son tour à 9m de vous, vous pouvez utiliser votre Réaction pour la forcer à faire une Sauvegarde de Force. Si elle échoue, vous la tirez magiquement de 7,5m vers vous dans un espace inoccupé. Si elle se retrouve à portée, vous pouvez lui infliger une attaque de mélée en même temps. Cette capacité peut être utilisé autant de fois que votre Bonus de Maitrise. Vous récuperez le plein usage après un Repos Long.
 - Infiltrateur : Toute créature touchée par votre Lanceur d'Eclair devient brillante jusqu'au début de votre prochain tour. La créature brillante a un désavantage pour toute attaque contre vous. De plus la prochaine attaque contre elle se fait avec un Avantage et inflige 1d6 dégâts de Foudre si elle touche.  
+
+
+# Impregnations d'Artificier
+
+## Niveau 2
+### Focaliseur arcanique amélioré
+Objet : une baguette, un bâton ou un sceptre (nécessite un lien)
+Tant qu'elle tient cet objet, une créature gagne un bonus de + 1 aux jets d'attaque avec un sort. De plus, la créature ignore les abris partiels lorsqu'elle effectue une attaque avec un sort. 
+Le bonus passe à +2 lorsque vous atteignez le niveau 10 dans cette classe.
+
+### Défense améliorée
+Objet : une armure ou un bouclier
+Une créature reçoit un bonus de +1 à sa Classe d'Armure lorsqu'elle porte l'objet imprégné (armure ou bouclier). Le bonus passe à +2 lorsque vous atteignez le niveau 10 dans cette classe.
+
+### Arme améliorée
+Objet : une arme courante ou de guerre
+Octroie un bonus de +1 aux jets d'attaque et de dégâts effectués avec cette arme magique. 
+Le bonus passe à +2 lorsque vous atteignez le niveau 10 dans cette classe.
+
+### Arme boomerang
+Objet : une arme courante ou de guerre avec la propriété lancer
+Octroie un bonus de +1 aux jets d'attaque et de dégâts effectués avec cette arme magique, qui retourne dans la main de son porteur immédiatement après avoir effectué une attaque à distance.
+
+### Serviteur homoncule
+Objet : une gemme ou un cristal d'une valeur d'au moins 100 po
+Vous découvrez d'anciennes méthodes pour créer magiquement un homoncule spécial qui vous sert. L'objet que vous imprégnez sert de cœur à la créature, autour duquel se forme instantanément le corps de la créature. Vous déterminez l'apparence de l'homoncule. Certains artificiers préféreront un oiseau d'aspect mécanique, tandis que d'autres voudront une fiole ailée ou un chaudron miniature. L'homoncule est amical envers vous et vos compagnons, et obéit à vos ordres. Référez-vous au bloc de stat du serviteur homoncule.
+En combat, l'homoncule partage votre initiative, mais prend son tour immédiatement après le vôtre. Il peut bouger et utiliser sa réaction par lui-même, mais la seule action qu'il peut entreprendre à son tour est l'action Esquiver, à moins que vous ne preniez une action bonus à votre tour pour lui ordonner d'entreprendre l'une des actions de son bloc de stat, ou bien encore une action parmi Aider, Chercher, Foncer, Se cacher et Se désengager.
+Si le sort réparation est lancé sur l'homoncule, il récupère 2d6 points de vie. S'il meurt, il disparaît, ne laissant sur place que son cœur.
+
+### Objets magiques reproductibles (Rang 1)
+|Objet magique | Lien |
+|-|-|
+| Cruche alchimique |	Non |
+|Capuchon de respiration aquatique |	Non |
+| Lunettes de nuit |	Non |
+|Corde d'escalade | 	Non |
+| Pierres de communication à distance |	Non |
+| Baguette des secrets | Non |
+
+## Niveau 6
+### Arme radiante
+Objet : une arme courante ou de guerre (nécessite un lien)
+Vous obtenez un bonus de +1 aux jets d'attaque et de dégâts effectués avec cette arme magique. Lorsqu'il la tient en main, le porteur peut prendre une action bonus pour lui faire émaner une lumière vive dans un rayon de 9 mètres et une lumière faible sur 9 mètres supplémentaires. Le porteur peut arrêter la lumière par une action bonus. L'arme possède 4 charges. Par une réaction, immédiatement après avoir été touché par une attaque, le porteur peut dépenser 1 charge et faire que l'attaquant soit aveuglé jusqu'à la fin du prochain tour de ce dernier, à moins qu'il ne réussisse un jet de sauvegarde de Constitution contre le DD de sauvegarde de vos sorts. L'arme récupère 1d4 charges dépensées chaque jour à l'aube.
+
+### Bouclier répulsif
+Objet : un bouclier (nécessite un lien)
+Une créature qui tient se bouclier gagne un bonus de + 1 à la Classe d'Armure. Le bouclier possède 4 charges. Tant qu'il le tient, le porteur peut utiliser une réaction immédiatement après avoir été touché par une attaque au corps à corps pour dépenser 1 des charges du bouclier et repousser l'attaquant jusqu'à 4,50 mètres. Le bouclier récupère quotidiennement 1d4 charges dépensées chaque jour à l'aube.
+
+## Armure résistante
+Objet : une armure (nécessite un lien)
+Une créature qui porte cette armure obtient la résistance à un des types de dégâts suivants, que vous choisissez au moment d'imprégner l'objet : acide, feu, force, foudre, froid, nécrotique, poison, psychique, radiant ou tonnerre.
+
+### Objets magiques reproductibles (Rang 2)
+|Objet magique | Lien |
+|-|-|
+|Bottes elfiques | 	Non|
+|Cape elfique 	|Oui|
+|Cape de la raie manta |	Non|
+|Gants de cambrioleur |	Non|
+|Lanterne de révélation |	Non|
+|Flûte terrifiante |	Non|
+|Anneau de marche sur l'eau |	Non|
+
+## Niveau 10 
+### Objets magiques reproductibles (Rang 3)
+|Objet magique | Lien |
+|-|-|
+|Bottes des contrées hivernales 	|Oui|
+|Bracelets d'archer 	|Oui|
+|Cape de protection |	Oui|
+|Yeux de lynx |	Oui|
+|Gantelets de puissance d'ogre |	Oui|
+|Chapeau de déguisement |	Oui|
+|Bandeau d'intelligence |	Oui|
+|Heaume de télépathie |	Oui|
+|Amulette de cicatrisation |	Oui|
+|Bottes ailées 	|Oui|
+
+## Niveau 14
+### Objets magiques reproductibles (Rang 4)
+|Objet magique | Lien |
+|-|-|
+|Amulette de santé |	Oui|
+|Ceinturon de force de géant des collines |	Oui|
+|Bottes de rapidité 	|Oui|
+|Bracelets de défense| 	Oui|
+|Cape de la chauve-souris| 	Oui|
+|Menottes dimensionnelles| 	Non|
+|Gemme de vision 	|Oui|
+|Anneau d'action libre 	|Oui|
+|Anneau de protection| 	Oui|
+|Anneau du bélier 	|Oui|
