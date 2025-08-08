@@ -12,29 +12,29 @@ Vous devez avoir en main un outil d'artisan, et vous pouvez faire l'*Action* de 
 Cette propriété dure eternellement, mais vous pouvez y mettre fin en le touchant.
 Vous pouvez avoir jusqu'à INT nombre d'objets avec une propriété similaire.
 
-## Niveau 1 : Utilisation des sorts.
+## Niveau 1 : Incantation.
 Vous devez forcement avoir un outil d'artisan pour pouvoir lancer des sortilèges. 
 Dans l'ideal, la magie de l'Artificier est d'avantage la création d'outils ou d'objets "sur le pousse" pour lancer le sort. 
 
 ## Niveau 1 : Rituel.
 Vous pouvez utiliser un sort d'Artificier comme un Rituel s'il possède l'étiquette. 
 
-## Niveau 2 : Infuser magiquement un objet. 
-Vous êtes désormais en mesure de transformer des objets en objets magiques grace à des *infusions d'Artificier*.  
+## Niveau 2 : Impregnation d'objet. 
+Vous êtes désormais en mesure de transformer des objets en objets magiques grace à des *Impregnations d'Artificier*.  
 Celles-ci sont présentées en fin de page.  
 
-### Infusions d'Artificier connues.
-Vous apprenez quatre infusions au Niveau 2, puis deux de plus aux Niveaux 6, 10, 14 et 18.  
-Vous pouvez infuser autant d'objets que la moitié de vos Infusions connues.  
-A chaque montée de Niveau d'Artificier, il vous est possible d'échanger la connaissance d'une Infusion contre une autre.  
+### Impregnation d'Artificier connues.
+Vous apprenez quatre Impregnations au Niveau 2, puis deux de plus aux Niveaux 6, 10, 14 et 18.  
+Vous pouvez infuser autant d'objets que la moitié de vos Impregnations connues.  
+A chaque montée de Niveau d'Artificier, il vous est possible d'échanger la connaissance d'une Impregnation contre une autre.  
 
 ### Infuser un objet. 
-Après un long repos vous pouvez toucher un objet non-magique et diffuser l'une de vos *Infusions d'Artificier* pour le rendre magique.  
-- Une *Infusion d'Artificier* ne marche que sur certains objets, précisés dans leur description.  
-- L'infusion reste en l'objet infiniment, mais si vous mourez elle se retire en un nombre de jours égaux à l'INT.
-- Si vous abandonnez la connaissance d'une *infusion d'Artificier*, l'objet infusée se retire aussitot.
-- Un objet ne peut pas avoir plus d'une infusion.  
-- Une infusion ne peut pas être dans plus d'un objet.
+Après un long repos vous pouvez toucher un objet non-magique et diffuser l'une de vos *Impregnations d'Artificier* pour le rendre magique.  
+- Une *Impregnation d'Artificier* ne marche que sur certains objets, précisés dans leur description.  
+- L'Impregnation reste en l'objet infiniment, mais si vous mourez elle se retire en un nombre de jours égaux à l'INT.
+- Si vous abandonnez la connaissance d'une *Impregnation d'Artificier*, l'objet infusée se retire aussitot.
+- Un objet ne peut pas avoir plus d'une Impregnation.  
+- Une Impregnation ne peut pas être dans plus d'un objet.
 - Si vous dépassez la limite du nombre d'objets, le plus ancien de ces objets perds sa magie.
 
 ## Niveau 3 : Choix de la Spécialité.
@@ -89,7 +89,7 @@ Vous pouvez désormais vous harmoniser avec six objets magiques.
 ## Niveau 20 : Ame de l'Artificier.  
 Vous développez une connexion mystique avec vos objets magiques.  
 - +1 de Sauvegarde par objet magique à laquelle vous êtes harmonisé.
-- Si vous tombez à 0 pv, vous pouvez utiliser une Réaction pour mettre fin à l'une de vos Infusions pour rester à 1pv.  
+- Si vous tombez à 0 pv, vous pouvez utiliser une Réaction pour mettre fin à l'une de vos Impregnation pour rester à 1pv.  
 
 
 # Forge-Bataille
