@@ -115,10 +115,10 @@ Vous gagnez la maitrise des outils de forge. Si c'est déjà le cas, vous pouvez
 ## Niveau 3 : Sorts de Forgeron de Guerre. 
 | Niveau Artificier | Sort |
 |-|-|
-| 3 | Chatiment révelateur, Lien de protection |
-| 5 | Aura de Vie, Invocation de projectiles |
-| 7 | Aura de Pureté, Bouclier de Feu |
-| 9 | Chatiment du Bannissement, Soin de groupe |
+| 5 | Chatiment révelateur, Lien de protection |
+| 9 | Aura de Vie, Invocation de projectiles |
+| 13 | Aura de Pureté, Bouclier de Feu |
+| 17 | Chatiment du Bannissement, Soin de groupe |
 
 ## Niveau 3 : Apte au Combat. 
 - Vous gagnez la maitrise des armes de guerre.
@@ -160,10 +160,10 @@ Vous gagnez la maitrise des outils de forge. Si c'est déjà le cas, vous pouvez
 ## Niveau 3 : Sorts de l'Armurier
 | Niveau Artificier | Sort |
 |-|-|
-| 3 | Missile Magique, Vague tonnante |
-| 5 | Image Mirroir, Fracassement |
-| 7 | Motif hypnotique, Eclair|
-| 9 | Passe-Muraille, Mur de Force |
+| 5 | Missile Magique, Vague tonnante |
+| 9 | Image Mirroir, Fracassement |
+| 13 | Motif hypnotique, Eclair|
+| 17 | Passe-Muraille, Mur de Force |
 
 ## Niveau 3 : Armure arcanique
 Votre connaissance des métaux vous permets de faire de votre armure un conduit pour votre magie.  
