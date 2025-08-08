@@ -109,7 +109,7 @@ Vous développez une connexion mystique avec vos objets magiques.
 # Forgeron de Guerre
 Combinaison de protecteur et de medecin, vous êtes expert dans la protection et la réparation des gens et des biens.  
 
-## Niveau 3 : Maitrise des outils. 
+## Niveau 3 : Maitrise de ses outils. 
 Vous gagnez la maitrise des outils de forge. Si c'est déjà le cas, vous pouvez maitriser d'autres outils d'Artisanat.
 
 ## Niveau 3 : Sorts de Forgeron de Guerre. 
@@ -148,3 +148,59 @@ Votre Defenseur d'Acier et votre Décharge Arcanique deviennent plus puissants:
 - Les dégats ou soins du Choc Arcanique passent à 4d6.
 - Votre Defenseur d'Acier a un gain de +2 en Classe d'Armure.
 - Si votre Defenseur d'Acier utilise Déviation, son attaquant subit 1d4 + INT dégâts de Force.  
+
+
+# Armurier
+Ce Spécialiste modifie les armures pour en faire presqu'une seconde peau. L'armure est améliorée pour aiguiser la magie de l'Artificier, liberer de puissantes attaques et genéré une formidable défense.  
+
+## Niveau 3 : Maitrise de ses outils. 
+Vous maitrisez les Armures Lourdes.
+Vous gagnez la maitrise des outils de forge. Si c'est déjà le cas, vous pouvez maitriser d'autres outils d'Artisanat.
+
+## Niveau 3 : Sorts de l'Armurier
+| Niveau Artificier | Sort |
+|-|-|
+| 3 | Missile Magique, Vague tonnante |
+| 5 | Image Mirroir, Fracassement |
+| 7 | Motif hypnotique, Eclair|
+| 9 | Passe-Muraille, Mur de Force |
+
+## Niveau 3 : Armure arcanique
+Votre connaissance des métaux vous permets de faire de votre armure un conduit pour votre magie.  
+Par une Action, vous pouvez transformer une armure que vous portez en armure arcanique, à la condition d'avoir des outils de forgeron en main.  
+En portant cette armure arcanique, vous gagnez les bénéfices suivants:
+- L'armure n'a plus de contrainte de force pour être portée.
+- Elle peut être utilisée pour lancer vos sorts au lieu de vos outils.
+- L'armure vous est attachée et ne peut pas être retirée contre votre volonté.
+- Elle recouvre l'ensemble de votre corps, mais vous pouvez retracter le casque ou le remettre avec une action Bonus.
+- L'Armure remplace tout membre manquant, et fonctionne comme le membre qu'elle remplace.
+- Vous pouvez enfiler ou retirer l'armure en une action. L'armure continue à être une Armure Arcanique jusqu'à ce que vous enfiliez une autre armure ou bien que vous mourriez.
+
+## Niveau 3 : Modele d'Armure
+Vous pouvez personnaliser votre armure arcanique avec l'un des deux modèles : Gardien ou Infiltrateur.  
+Chacun de ces modèles inclus une arme spéciale. Quand vous attaquez avec cette arme vous pouvez utiliser votre modificateur d'Intelligence au lieu de la Force ou la Dexterité pour les dégâts comme pour l'attaque.  
+Vous pouvez changer le modele après avoir fini un Repos Court ou un Repos Long.  
+
+Gardien: Votre armure est faites pour combattre en première ligne. Elle a les capacités suivantes:
+- Gantelets Tonnerre : Vos gantelets d'Armure comptent comme des armes de mélée courantes quand vous ne tenez rien avec, et infligent 1d8 dé dégâts de Tonnerre. La créature touchée reçoit un désavantage jusqu'au début de votre prochain tour si elle attaque quelqu'un d'autre que vous.
+- Champ défensif : Avec une Action Bonus, vous pouvez remplacer vos points de vie temporaires par un montant égal à votre niveau d'Artificier. Ces points de vie temporaires sont perdus si vous retirez votre armure. Cette capacité peut être utilisé autant de fois que votre Bonus de Maitrise, et se renouvelle avec un Repos Long.
+
+Infiltrateur : Votre armure est dédié aux actions subtiles. Elle a les capacités suivantes:
+- Lanceur d'éclair : Vous pouvez projeter un éclair depuis vos poings ou votre torse. Cela compte comme une simple attaque à distance avec une portée de 27/90m et infligeant 1d6 de dégâts de Foudre. Une fois par tour cette attaque peut infliger 1d6 supplémentaire à une cible.
+- Pas puissants: Votre vitesse de déplacement augmente de 1,5m.
+- Champ amortissant : Vous avez un avantage sur les jets de compétence de Discrétion. Si votre armure vous imposait normalement un désavantage, celui-ci s'en retrouve donc annulé.  
+
+
+## Niveau 6 : Attaque supplémentaire.
+L'action Attaque vous permets désormais de porter deux attaques au lieu d'une.  
+
+## Niveau 10 : Modifications d'Armure.  
+Vous avez appris comment utiliser vos *Impregnations d'Artificier* pour modifier votre Armure Arcanique.  
+Cette armure compte désormais comme des objets séparés pour l'usage de votre capacité d'*Imprégnation d'Objets* : le torse, les jambières, le casque et l'arme spéciale.  
+Chacune de ces pièces peut recevoir l'une de vos Imprégnations et les Imprégnations sont transférées si vous changez de modèle d'Armure.  
+Vous pouvez de plus impregnez deux objets de plus en même temps, mais ceux-ci doivent être des pièces de votre armure.  
+
+## Niveau 15 : Armure perfectionnée.
+Votre Armure Arcanique gagne des bénéfices supplémentaires selon leur modèle.  
+- Gardien: Quand vous voyez une créature Enorme ou plus petite terminer son tour à 9m de vous, vous pouvez utiliser votre Réaction pour la forcer à faire une Sauvegarde de Force. Si elle échoue, vous la tirez magiquement de 7,5m vers vous dans un espace inoccupé. Si elle se retrouve à portée, vous pouvez lui infliger une attaque de mélée en même temps. Cette capacité peut être utilisé autant de fois que votre Bonus de Maitrise. Vous récuperez le plein usage après un Repos Long.
+- Infiltrateur : Toute créature touchée par votre Lanceur d'Eclair devient brillante jusqu'au début de votre prochain tour. La créature brillante a un désavantage pour toute attaque contre vous. De plus la prochaine attaque contre elle se fait avec un Avantage et inflige 1d6 dégâts de Foudre si elle touche.  
