@@ -120,12 +120,12 @@ En tombant à 0 point de vie ou moins, le Pistolier peut dépenser l'ensemble de
 En annonçant ce tir, le Pistolier dépense autant d'Audace qu'il le souhaite. Pour chaque point dépensé les chances de raté de l'Arme augmente de 1 mais les dés de dégâts utilisés sont augmentés d'autant.  
 
 
+
 # Propriétés d'Armes à feu. 
 **Recharge** : L'arme à feu peut être utilisé autant de fois que sa valeur de Recharge avant de nécessité une Action ou une Attaque pour être rechargée.  
 **Raté** : Si votre jet d'attaque est égal ou inferieur au score de raté de votre arme, votre attaque échoue et votre arme s'enraille.  Une réparation est nécessaire avec une Difficulté de 8 + score de Raté. Un échec brise l'arme. Une arme brisée doit être réparée hors d'un combat pour 1/4 de son prix.
 **Explosif** : Sur une attaque réussie, toute personne à 1,5m doit réussir une Sauvegarde de Dextérité ou subir 1d8 dégâts de Feu.  
 **Munition** : Chaque arme nécessite sa propre munition et doit géneralement être faites par son utilisateur au coût indiqué.  
-
 
 | Arme | Coût | Munition | Dégâts | Portée | Propriétés |
 |-|-|-|-|-|-|
