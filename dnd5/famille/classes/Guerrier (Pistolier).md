@@ -1,15 +1,15 @@
-https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Pistolier.ashx
+https://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Pistolier.ashx  
 https://dnd5e.wikidot.com/fighter:gunslinger
 
 # Guerrier : Pistolier
-Certains esprits n'arrêtent pas l'inovation à l'arbalète : l'experimentatio avec des composants alchimiques et des métaux rares a permis d'ouvrir les secrets des explosifs. Ceux qui survivent ces tests d'ingenuité deviennent les premiers à créer et porter les premières armes à feux.  
+Certains esprits n'arrêtent pas l'inovation à l'arbalète : l'experimentation avec des composants alchimiques et des métaux rares a permis d'ouvrir les secrets des explosifs. Ceux qui survivent ces tests d'ingenuité deviennent les premiers à créer et porter les premières armes à feux.  
 
 ## Niveau 3 : Maitrise des Armes à Feu. 
 Vous gagnez la maitrise des armes à feu.  
 
 ## Niveau 3 : Armurier.
 Vous gagnez la maitrise des outils de forge. Cela vous permets de construire des munitions pour la moitié du coût, réparer des armes à feu endommagées et même en construire de nouvelles.  
-Les armes à feu ont leur propre propriété, consultable en bas de page.  
+Les armes à feu ont leurs propres propriétés, consultable en bas de page.  
 
 ## Niveau 3 : Audace.  
 Les Pistoliers sont célèbres grâce à leurs Exploits. Ceux-ci sont réalisables grâce à leur incroyable Audace.  
@@ -18,6 +18,10 @@ Un point d'Audace peut être récupéré des façons suivantes:
 - Une attaque critique avec une arme à feu,
 - Infliger le coup fatal à une créature suffisamment menaçante
 Un Repos Court ou Long permets de tout récupérer.
+
+## Niveau 3 : Exploits.
+Vous gagnez 2 Exploits de votre choix.  
+
 
 ## Niveau 7 : Dégaine rapide
 Vous ajoutez votre Maitrise à votre initiative à la condition que vous utilisiez une arme à feu.  
@@ -31,17 +35,33 @@ Si vous n'avez plus de points d'Audace, vous disposez des effets suivants jusqu'
 - +2 à votre Classe d'Armure,
 - +3m à la vitesse de déplacement,
 - Réussir une Sauvegarde de Dexterité annule les dégâts et la rater divise les dégâts par 2.
-- Le Seuil de Critique est réduit de 1 point (Passant de 20 à 19-20 par exemple).  
+- Le Seuil de Critique est réduit de 1 point (Passant de 20 à 19-20 par exemple).
+
+## Niveau 7 : Nouvel exploit.
+Vous gagnez un troisième exploit de votre choix. 
+
 
 ## Niveau 10 : Réparation rapide.
 Vous apprenez à tenter rapidement la réparation d'une arme à feu enraillée en utilisant une Action Bonus.  
 
+## Niveau 10 : Nouvel exploit.
+Vous gagnez un quatrième exploit de votre choix. 
+
+
 ## Niveau 15 : Recharge rapide.
 Vous pouvez recharger votre arme à feu avec une Action Bonus.  
+
+## Niveau 15 : Nouvel exploit.
+Vous gagnez un cinquième exploit de votre choix. 
+
 
 ## Niveau 18 : Intention vicieuse.
 Vos attaques critiques avec des armes à feu se produisent aussi avec un 19 Naturel.  
 En outre, une attaque critique triple les dégâts au lieu de les doubler dans le cas d'un Exploit.  
+
+## Niveau 18 : Nouvel exploit.
+Vous gagnez un sixième exploit de votre choix. 
+
 
 # EXPLOITS
 ## Bout portant
@@ -54,57 +74,65 @@ En échange de 1 point d'Audace, vous pouvez utiliser une Réaction lorsque vous
 Ce déplacement est susceptible de déclencher des attaques d'opportunité.  
 Vous devez porter une armure légère pour beneficier de cet Exploit.  
 
+## Coup de crosse
+Le Pistolier peut utiliser son arme à feu au corps à corps pour frapper son opposant en échange de 1 point d'Audace.  
+L'arme infligera 1d6 ou 1d10 dégâts contondants selon qu'elle soit respectivement à une ou deux mains.  
+Si l'attaque est réussie, le Pistolier peut tenter de mettre sa cible à terre.  
+
+## Tir utilitaire
+S'il dispose d'au moins un Point d'Audace, le Pistolier peut utiliser son arme pour faire l'une des trois actions suivantes:
+### Cauterisation
+Il tire en l'air et avec le canon brulant sur lui-même ou une cible proche mets fin à un Saignement, stabilise un mourrant ou l'eveil d'une frayeur, sommeil ou charme.  
+### Déplacer un objet abandonné.
+D'un tir, il peut déplacer un objet abandonné de taille Très Petite ou inferieure de 4,5m. Sauf si cela semble compliqué par divers facteurs, le jet est automatiquement réussi.  
+### Faire sauter la serrure. 
+Le Pistolier tire contre la serrure pour ouvrir la porte qu'elle ferme. Cela demande la réussite d'un jet contre 12-18-24 selon la qualité de la serrure et de 30 si elle est magique.  
+Un échec détruit la serrure non-magique mais la bloque.  
+
+## Cibler
+En utilisant 1 point d'Audace et en annonçant la localisation auparavant, un Pistolier peut viser un membre de sa cible comme suit:
+- Ailes : Si la cible est touchée, elle doit réussir une sauvegarde de Constitution ou bien tomber de 6m. Sa vitesse de vol est divisée par 2 jusqu'au début du prochain tour du Pistolier.
+- Bras : La cible ne subit pas de dégâts mais perds l'objet qu'elle tenait en main.
+- Jambes : La cible touchée prends les dégâts et tombe au sol.
+- tête : La cible touchée subit les dégâts normalement et est confuse jusqu'à la fin de son tour.
+- torse : le Seuil de critique est réduit de 1 point (19-20 au lieu de 20 par exemple).
+
+## Chance du Tireur
+En échange de 1 point d'Audace, le Pistolier peut retenter un jet de Compétence.  
+En échange de 2 points d'Audace, le Pistolier peut retenter une Sauvegarde.  
+Il doit dans tous les cas conserver le second résultat, même s'il est plus mauvais que le précédent.  
+
+## Tir menaçant
+En utilisant 1 point d'Audace, le Pistolier peut tirer en l'air et tenter d'effrayer tous les gens autour de lui. 
+Les créatures à 9m de lui doivent réussir une Sauvegarde de Sagesse ou subir une Frayeur jusqu'à la fin de leur prochain tour.  
+
+## Tir étourdissant
+En utilisant 2 points d'Audace, le Pistolier peut forcer la victime de l'une de ses attaques à réussir une Sauvegarde de Constitution ou être étourdie. La créature le reste jusqu'à la fin de son tour. 
+
+## Tir fatal
+Sur une attaque critique et en utilisant 3 points d'Audace, le Pistolier peut forcer la victime à faire une Sauvegarde de Constitution ou mourir sur le coup. 
+En choisissant cet Exploit, le Pistolier ne gagne aucun point d'Audace pour le Critique et le coup fatal.  
+
+## Feinter la Faucheuse.
+En tombant à 0 point de vie ou moins, le Pistolier peut dépenser l'ensemble de ses points d'Audace pour passer à 1 point de vie et rester debout.  
+
+## Tir violent
+En annonçant ce tir, le Pistolier dépense autant d'Audace qu'il le souhaite. Pour chaque point dépensé les chances de raté de l'Arme augmente de 1 mais les dés de dégâts utilisés sont augmentés d'autant.  
 
 
+# Propriétés d'Armes à feu. 
+**Recharge** : L'arme à feu peut être utilisé autant de fois que sa valeur de Recharge avant de nécessité une Action ou une Attaque pour être rechargée.  
+**Raté** : Si votre jet d'attaque est égal ou inferieur au score de raté de votre arme, votre attaque échoue et votre arme s'enraille.  Une réparation est nécessaire avec une Difficulté de 8 + score de Raté. Un échec brise l'arme. Une arme brisée doit être réparée hors d'un combat pour 1/4 de son prix.
+**Explosif** : Sur une attaque réussie, toute personne à 1,5m doit réussir une Sauvegarde de Dextérité ou subir 1d8 dégâts de Feu.  
+**Munition** : Chaque arme nécessite sa propre munition et doit géneralement être faites par son utilisateur au coût indiqué.  
 
-# TIRS DES ARCANES 
-## Tir Bannisseur 
-*La magie imprégnée dans votre munition peut séquestrer temporairement votre cible dans un Demi-Plan inoffensif.*   
-L'attaque inflige *Dé de Tir des Arcanes* en dégats psychiques supplémentaires.   
-La cible doit réussir une Sauvegarde de Charisme ou être Bannie.   
-Si elle est bannie, la créature est considérée comme Incapacitée avec une vitesse de 0 jusqu'à la fin de son prochain tour.   
-Après cela, elle revient à l'endroit où elle se trouvait ou bien à un emplacement adjacent.   
 
-## Tir Séduisant
-*La magie imprégnée dans votre munition rends votre cible temporairement séduite.*   
-L'attaque inflige DEUX *Dés de Tir des Arcanes* en dégats psychiques supplémentaires.   
-La cible doit aussi réussir une Sauvegarde de Sagesse ou bien être *Charmée* jusqu'au début de votre prochain tour.    
-Pendant la durée de l'effet, la cible vous considère vous ou vos alliés dans les 9m comme le Charmeur.   
-L'état de Charmé cesse si le Charmeur attaque la cible, lui inflige des dégâts ou lui impose une Sauvegarde.  
-
-## Tir Explosif
-*Vous impregnez votre munition d'une force explosive magique.*  
-Immédiatement après avoir infligé des dégâts à la créature, votre cible et toute créature à 3m d'elle subissent des dégâts de Force équivalent à DEUX *Dés de Tir des Arcanes*.  
-
-## Tir Affaiblissant
-*Votre munition magique aspire la force de sa victime.*  
-La créature que vous venez de toucher subit des dégâts Nécrotiques équivalent à DEUX *Dés de Tir des Arcanes*.  
-La cible doit aussi réussir une Sauvegarde de Constitution ou être dans l'état *Empoisonné* jusqu'à la fin de son prochain tour.   
-Si la cible empoisonnée inflige des dégâts avec une Attaque, elle doit retirer aux dégâts infligés l'équivalent de UN *Dé de Tir des Arcanes*.  
-
-## Tir Saisissant
-*Votre munition magique créée des ronces saisissantes autour de votre cible.*  
-La créature que vous touchez subit des dégats Tranchants supplémentaires équivalent à UN *Dé de Tir des Arcanes*.   
-Elle doit en outre réussir une Sauvegarde de Force ou être *Restreinte* jusqu'au début de votre prochain tour.    
-La cible ou un allié à portée doit utiliser une action pour retirer les ronces en réussissant un jet d'Athletisme pour retirer l'état *Restreint*.  
-
-## Tir Perforant 
-*Votre munition devient d'une nature éthérée.*  
-Avec une telle munition, vous ne faites pas de jet d'attaque : vous tirez droit devant vous sur 9m.  
-La munition ignore tout obstacle, traversant les objets solides jusqu'à disparaitre.  
-Chaque créature dans la ligne de tir doit réussir une Sauvegarde de Dextérité.  
-Sur un échec, les cibles prennent les dégâts de l'arme ainsi que DEUX *Dés de Tir des Arcanes* équivalent à des dégâts perforants.  
-En cas de réussite de la Sauvegarde, les cibles prennent la moitié des dégâts infligés.  
-
-## Tir Chercheur
-*Vous donnez à votre munition la capacité de chercher votre cible.*  
-En utilisant ce tir, vous n'avez plus besoin de lancer un Jet d'Attaque.   
-A la place, choisissez une cible que vous avez vu dans la minute qui vient de passer. La munition va s'envoler vers cette créature en esquivant tout obstacle et en ignorant toute couverture qui n'est pas totale.   
-Si la cible est dans votre portée de tir, elle doit faire une Sauvegarde de Dextérité. Si ce n'est pas le cas, la munition disparaitra après avoir fait le plus long trajet possible.   
-Sur un echec de sauvegarde, la cible subit l'attaque de l'arme ainsi que l'équivalent de DEUX *Dés de Tir des Arcanes* sous forme de dégâts de Force. Vous connaissez aussi son emplacement.  
-Sur une réussite, la cible ne subira que la moitié des dégâts.  
-
-## Tir de l'Ombre
-*Votre munition suinte d'ombres magiques.*  
-Lorsque vous touchez votre cible, celle-ci reçoit UN *dé de Tir des Arcanes* supplémentaires sous forme de dégâts psychiques.  
-De plus, elle doit réussir une Sauvegarde de Sagesse ou bien devenir *Aveugle* jusqu'à la fin de son prochain tour.  
+| Arme | Coût | Munition | Dégâts | Portée | Propriétés |
+|-|-|-|-|-|-|
+| Pistolet à main | 50 po | 2 po (20) | 1d8 Perçant | 9m / 36m | Légère, Recharge 1, Raté 2 |
+| Pistol | 150 po | 4 po (20) | 1d10 Perçant | 18m / 72m | Recharge 4, Raté 1 |
+| Mousquet | 300 po | 6 po (20) | 1d12 Perçant | 36m / 144m | Deux-Mains, Recharge 1, Raté 2 |
+| "Poivrière" | 450 po | 8 po (20) | 1d10 Perçant | 27m / 108m | Recharge 6, Raté 2 |
+| "Tromblon" | 900 po | 18 po (20) | 2d8 Perçant | 18m / 36m | Recharge 1, Raté 2 |
+| "Mauvaise Nouvelle" | Artisant (3000 po) | 10 po (5) | 2d12 Perçant | 100m / 500m | Deux-Mains, Recharge 1, Raté 3 |
+| Mortier à Main | Artisanat (200 po) | 10 po (1) | 2d8 Feu | 9m / 18m | Recharge 1, Raté 3, Explosif |
