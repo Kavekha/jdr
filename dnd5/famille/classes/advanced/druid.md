@@ -17,6 +17,13 @@
 |-|-|-|-|-|
 |1|+2| Sorts, Formation, ordre primitif, secret druidique  | 0 | 1 |
 |2|+2| Forme Sauvage, secret druidique, Compagnon Sauvage, Rituel  | 2 | 2 |
+|3|+2| Choix du Cercle, Lien avec la Nature  | 2 | 2 |
+|4|+2| Augmentation de caractéristiques  | 2 | 2 |
+|5|+3| Regain sauvage  | 2 | 3 |
+|6|+3| - | 3 | 3 |
+|7|+3| Fureur Elementaire, Savoir druidique | 3 | 3 |
+|8|+3| Augmentation de caractéristiques | 3 | 4 |
+|9|+4| Férocité ou Sérénité | 3 | 4 |
 
 ### Niveau 1 : Formation druidique
 Donne les capacités suivantes en plus des autres élements :
@@ -123,6 +130,11 @@ La connaissance du Druide du monde naturel du Druide augmente avec l'un des savo
 
 ### Niveau 9 : Nouveau Secret Druidique [Choix]
 Le Druide découvre un nouveau secret druidique. 
+
+### Niveau 9 : Férocité ou Sérénité [Choix]
+Le Druide embrasse la férocité ou la sérénité de la Nature.
+* **Embrasser la Férocité** : Sous Forme Sauvage, reçoit +2 aux Attaques. Gagne [Niveau de Druide] x 2 points de vie Temporaires lors d'une transformation.
+* **Embrasser la Sérénité** : Les jets de concentration se font avec un AVANTAGE. Avec une Action Bonus, il est possible de sacrifier une Forme Sauvage pour récupérer un Emplacement de Sort de Niveau 1 à 3, ou deux Formes Sauvages pour un Emplacement de Sort de Niveau 6 à 4. 
 
 
 ### Niveau 12 : Augmentation de Caractéristique.
