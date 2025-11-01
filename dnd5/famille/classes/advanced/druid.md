@@ -45,6 +45,7 @@ Vous vous êtes consacré à l'un des rôles sacrés.
 
 
 ### Niveau 2 : Forme sauvage
+Le Druide dispose de deux usages de Formes Sauvages. Cela passe à trois au niveau 6 et quatre au niveau 17.  
 * Une **Action** permets de se transformer en consommant une utilisation de Forme Sauvage.
 * Le Druide peut se transformer en une créature de Dangerosité 1/2, qui ne sait ni nager ni voler.
 * Les conséquences d'une transformation sont les suivantes:
@@ -74,12 +75,63 @@ Le Druide découvre un nouveau secret druidique.
 Le Druide peut utiliser une Forme Sauvage ou un Emplacement de Sort pour invoquer un Familier de nature Féerique qui restera présent jusqu'à un Repos Long.  
 
 ### Niveau 2 : Rituels
-Vous pouvez faire une invocation rituelle de sorts de druidisme que vous connaissez. 
+Le Druide peut faire une invocation rituelle de sorts de druidisme que vous connaissez. 
 
 
 ### Niveau 3 : Choix du Cercle
 Le Druide choisi son domaine d'expertise en rejoignant l'un des Cercles Druidiques.
 
+### Niveau 3 : Lien avec la Nature [Choix]
+La connexion avec la nature s'améliore et une nouvelle capacité se révèle parmi les suivantes : 
+* **Un don avec le règne animal** : Les animaux comprennent plus facilement ce que le Druide souhaite leur communiquer, et peut même plus facilement les convaincre de faire des choses pour lui : Donne un Dé D'Expertise en Dressage.
+* **Naturaliste de la première heure** : Le Druide a une vraie experience de la nature : Donne un Dé d'Expertise en Nature, et permets de considérer la Nature comme une compétence de Sagesse.
+* **Sensibilité aux lignes telluriques** : Le Druide est sensible aux lignes télluriques qui parcourent le Monde. Quand il est sur le plan Primaire, il connait les choses suivantes:
+ * Où est le Nord magnetique.
+ * La direction de la forêt, du court d'eau ou de la ville la plus proche.
+ * L'état de l'éco-système local, et si quelque chose de magie ou de non-naturel est en train de le perturber.
+* **Erudit des Voies Anciennes** : Le Druide a appris que la Magie est la source de toutes choses. Il acquiert la Maitrise de la Compétence Arcane ou un Dé d'Expertise quand il l'utilise s'il la maitrisait déjà. En outre, cette compétence est désormais considérée comme liée à la Sagesse.
 
 
+### Niveau 4 : Augmentation de Caractéristique.
+Le Druide améliore une Caractéristique de 2 point, ou deux Caracteristiques de 1 point.  
+Cette amélioration ne permets pas de depasser le score de 20.  
 
+
+### Niveau 5 : Nouveau Secret Druidique [Choix]
+Le Druide découvre un nouveau secret druidique. 
+
+### Niveau 5 : Regain Sauvage
+Une fois par Tour, le Druide peut récupérer une utilisation de Forme Sauvage en dépensant un Emplacement de Sort (Aucune action n'est requise).   
+Une fois par Repos Long, il est possible de consommer une Forme Sauvage pour obtenir un Emplacement de Sort de niveau 1.  
+
+
+### Niveau 8 : Augmentation de Caractéristique.
+Le Druide améliore une Caractéristique de 2 point, ou deux Caracteristiques de 1 point.  
+Cette amélioration ne permets pas de depasser le score de 20.  
+
+
+### Niveau 9 : Nouveau Secret Druidique [Choix]
+Le Druide découvre un nouveau secret druidique. 
+
+
+### Niveau 12 : Augmentation de Caractéristique.
+Le Druide améliore une Caractéristique de 2 point, ou deux Caracteristiques de 1 point.  
+Cette amélioration ne permets pas de depasser le score de 20.  
+
+
+### Niveau 13 : Nouveau Secret Druidique [Choix]
+Le Druide découvre un nouveau secret druidique. 
+
+
+### Niveau 16 : Augmentation de Caractéristique.
+Le Druide améliore une Caractéristique de 2 point, ou deux Caracteristiques de 1 point.  
+Cette amélioration ne permets pas de depasser le score de 20.  
+
+
+### Niveau 17 : Nouveau Secret Druidique [Choix]
+Le Druide découvre un nouveau secret druidique. 
+
+
+### Niveau 19 : Augmentation de Caractéristique.
+Le Druide améliore une Caractéristique de 2 point, ou deux Caracteristiques de 1 point.  
+Cette amélioration ne permets pas de depasser le score de 20.  
