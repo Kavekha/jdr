@@ -105,9 +105,20 @@ Une fois par Tour, le Druide peut récupérer une utilisation de Forme Sauvage e
 Une fois par Repos Long, il est possible de consommer une Forme Sauvage pour obtenir un Emplacement de Sort de niveau 1.  
 
 
+### Niveau 7 : Fureur Elementaire [Choix]
+La puissance des élements accompagne le Druide avec l'une de ces deux caractéristiques:
+* **Incantation puissante** : Ajoute le modificateur de Sagesse aux Sorts Mineurs.
+* **Frappe primitive** : Une fois par tour, l'attaque en mélée d'un Druide peut être accompagnée de 1d8 de dégats supplémentaires de type froid, feu, foudre ou tonnerre.
 ### Niveau 8 : Augmentation de Caractéristique.
 Le Druide améliore une Caractéristique de 2 point, ou deux Caracteristiques de 1 point.  
 Cette amélioration ne permets pas de depasser le score de 20.  
+
+### Niveau 7 : Savoir druidique [Choix]
+La connaissance du Druide du monde naturel du Druide augmente avec l'un des savoirs : 
+* **art esoterique** : Le Druide peut utiliser sa magie druidique sans attirer l'attention, à moins qu'un opposant ne soit druide lui-même. Ce pouvoir ne peut être utilisé qu'une seule fois entre deux Repos.
+* **Intuition des toxines** : Le druide sait reconnaitre toute faune ou flore vénimeuse ou empoisonné. Il gagne aussi l'AVANTAGE pour determiner si quelque chose est empoisonné ou pour resister à un effet de poison.
+* **Diseur de vérité** : Une fois par semaine, le Druide peut invoquer le sort "Mythes et legendes" sans aucun élement materiel ni l'utilisation d'un Emplacement de Sort.
+* **Ne pas gaspiller** : En prenant 10 minutes, le Druide peut récuperer diverses ressources sur le corps d'une bête, dragon, plante ou monstre mort depuis moins d'une heure. Ces composants peuvent être vendus pour 5 pièces d'or x Dangerosité.  
 
 
 ### Niveau 9 : Nouveau Secret Druidique [Choix]
