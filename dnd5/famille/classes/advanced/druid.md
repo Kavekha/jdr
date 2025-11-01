@@ -158,3 +158,32 @@ Le Druide découvre un nouveau secret druidique.
 ### Niveau 19 : Augmentation de Caractéristique.
 Le Druide améliore une Caractéristique de 2 point, ou deux Caracteristiques de 1 point.  
 Cette amélioration ne permets pas de depasser le score de 20.  
+
+
+# Secrets des Druides
+## Arpenteur aerien
+En prennant une minute en vol dans les airs ou en hauteur, le Druide peut se familiariser avec un territoire de 7 kilomètres autour.   
+Une fois cela fait, tout Jet de Perception ou de Survie se fait avec un Dé d'Expertise pour les prochaines 24 heures.   
+Un repos long est nécessaire pour faire cela de nouveau.  
+
+## Plongeur aquatique
+Dans les profondeurs de l'eau, le Druide sait comment controler sa respiration et se méler aux mouvements subtils de l'eau.  
+Sa vitesse de nage est équivalente à sa vitesse de course et il ajoute son modificateur de Sagesse en minutes de temps où il peut tenir sa respiration.  
+Quand il est completement sous l'eau, il peut voir dans le noir à 3m autour de lui.  
+
+## Rôdeur des cavernes
+
+## Vagabond du desert
+
+## Survivant de l'Occulte
+
+## Apothicaire herbaliste
+
+## Guide des Marécages
+
+## Maitre des forages
+
+## Grimpeur de Montagnes
+
+## Exploreur de la Toundra
+
