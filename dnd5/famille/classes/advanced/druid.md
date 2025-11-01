@@ -187,3 +187,34 @@ Quand il est completement sous l'eau, il peut voir dans le noir à 3m autour de 
 
 ## Exploreur de la Toundra
 
+
+# Cercles
+
+## Cercle de la Lune
+
+### Niveau 3 : Les Formes de la Lune
+Se transformer en animal apporte les avantages supplémentaires suivants:
+* L'animal a un niveau de Dangerosité de [Niveau de Druide] / 3, arrondi à l'inferieur.
+* L'armure minimale de la Forme est de 13 + Modificateur de Sagesse.
+* Points de vie temporaire est de [Niveau de Druide] * 3.
+
+### Niveau 3 : Sorts de la Lune
+Le Druide reçoit les sorts suivants quand il atteint les Niveaux de Druide indiqués, et ces sorts peuvent être utilisés quand transformés :
+
+| Niveau | Sorts |
+|-|-|
+| 3 	| Soins, Rayon de lune, Poussière d'Etoile |
+| 5 | Conjuration d'Animaux |
+| 7 	| Fontaine de Lune |
+| 9  | Soins de masse |
+
+### Niveau 6 : Formes de lune améliorées
+En se transformant, le Druide du Cercle de la Lune a les avantages suivants : 
+* **Radiance lunaire** : Chacune de vos attaques en Forme Sauvage inflige des dégats normaux ou Radiant, au choix.
+* **Endurance améliorée** : Le Druide ajoute son modificateur de Sagesse à sa Sauvegarde de Constitution.
+
+### Niveau 10 : Pas du Clair de Lune
+Dans un éclat de clair de lune, le Druide se téléporte à 9m par une Action Bonus et reçoit un AVANTAGE pour la prochaine attaque faites pendant son tour.   
+Cette capacité peut être utilisé autant de fois par Repos Long que le Modificateur de Sagesse le permets.   
+En utilisant un Emplacement de Sorts de Niveau 2+, il est possible de récuperer toutes les Charges de ce pouvoir sans aucun repos. 
+
