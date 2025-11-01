@@ -20,10 +20,11 @@
 |3|+2| Choix du Cercle, Lien avec la Nature  | 2 | 2 |
 |4|+2| Augmentation de caractéristiques  | 2 | 2 |
 |5|+3| Regain sauvage  | 2 | 3 |
-|6|+3| - | 3 | 3 |
+|6|+3| Capacité de Cercle | 3 | 3 |
 |7|+3| Fureur Elementaire, Savoir druidique | 3 | 3 |
 |8|+3| Augmentation de caractéristiques | 3 | 4 |
 |9|+4| Férocité ou Sérénité | 3 | 4 |
+|10|+4| Capacité de Cercle | 3 | 4 |
 
 ### Niveau 1 : Formation druidique
 Donne les capacités suivantes en plus des autres élements :
@@ -198,15 +199,26 @@ Se transformer en animal apporte les avantages supplémentaires suivants:
 * L'armure minimale de la Forme est de 13 + Modificateur de Sagesse.
 * Points de vie temporaire est de [Niveau de Druide] * 3.
 
+|Niveau | Dangerosité | Spécial |
+|-|-|-|
+| 3 | 1 | - |
+| 4 | 1 | Nage |
+| 6 | 2 | - |
+| 8 | 2 | Vol |
+| 9 | 3 | - |
+| 12 | 4 | |
+| 15 | 5 | |
+| 18 | 6 | |
+
 ### Niveau 3 : Sorts de la Lune
 Le Druide reçoit les sorts suivants quand il atteint les Niveaux de Druide indiqués, et ces sorts peuvent être utilisés quand transformés :
 
 | Niveau | Sorts |
 |-|-|
 | 3 	| Soins, Rayon de lune, Poussière d'Etoile |
-| 5 | Conjuration d'Animaux |
+| 5 | Invocation d'Animaux |
 | 7 	| Fontaine de Lune |
-| 9  | Soins de masse |
+| 9  | Soins de groupe |
 
 ### Niveau 6 : Formes de lune améliorées
 En se transformant, le Druide du Cercle de la Lune a les avantages suivants : 
@@ -217,4 +229,33 @@ En se transformant, le Druide du Cercle de la Lune a les avantages suivants :
 Dans un éclat de clair de lune, le Druide se téléporte à 9m par une Action Bonus et reçoit un AVANTAGE pour la prochaine attaque faites pendant son tour.   
 Cette capacité peut être utilisé autant de fois par Repos Long que le Modificateur de Sagesse le permets.   
 En utilisant un Emplacement de Sorts de Niveau 2+, il est possible de récuperer toutes les Charges de ce pouvoir sans aucun repos. 
+
+
+## Cercle des Profondeurs
+
+### Niveau 3 : Enfant des ténèbres
+* Le Druide peut désormais naturellement parler la Langue des Profondeurs.
+* Il peut utiliser le Sort Mineur de Lumière.
+* Gain de Vision Nocturne à 18m.
+
+### Niveau 3 : Formes Monstrueuses
+En consommant deux formes sauvages, le Druide est capable de se transformer en une Créature Monstrueuse et d'en utiliser les capacités.  
+
+### Niveau 3 : Sorts des Profondeurs
+Le Druide reçoit les sorts suivants quand il atteint les Niveaux de Druide indiqués, et ces sorts peuvent être utilisés quand transformés :
+
+| Niveau | Sorts |
+|-|-|
+| 3 	| Simulacre de Vie, Poigne terreuse, Aggrandissement / rapetissement |
+| 5 | Nuage nauseabond |
+| 7 	| Insecte géant |
+| 9  | Fléau d'insectes |
+
+### Niveau 6 : Pouvoir des profondeurs
+Lorsque transformé, le Druide gagne le pouvoir de pattes d'araignée. Cela demande de la concentration mais rien ne peut la briser.  
+Si le Druide a dormi sous la terre, il peut se reveiller sous une forme de son choix sans consommer de Forme Sauvage. 
+
+### Niveau 10 : Magie des profondeurs
+La transformation en monstre ne compte plus que une Forme Sauvage.  
+En Forme Sauvage et après une attaque, une Action Bonus peut être utilisée pour dépenser un Emplacement de Sort et ajouter 1d6 par niveau de sort aux dégats de l'attaque. L'attaque est considérée comme magique.  
 
