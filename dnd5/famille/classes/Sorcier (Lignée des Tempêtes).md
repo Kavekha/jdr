@@ -1,4 +1,5 @@
 https://www.worldanvil.com/w/le-continent-perdu-thepsyren/a/sorcellerie-des-tempetes-article  
+https://yourquestlogisfull.wordpress.com/2023/02/04/how-to-fix-the-5e-storm-sorcerer/
 
 
 # Sorcier (Lignée des Tempêtes)
