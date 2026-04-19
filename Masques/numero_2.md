@@ -32,7 +32,7 @@ Avec : Orlia et Bi'ân !
   * Il était prisonnier des Scientifiques.
 
 ### La relation de nos héroines :
-* Bi'ân n'a pas réussie à rassurer Orlia : il n'y a pas d'espoir, elle n'échapera pas à son Destin Funeste.
+* Sur le toit de l'école, Bi'ân ne parvient pas à rassurer Orlia : il n'y a pas d'espoir, elle n'échapera pas à son Destin Funeste.
 
 ### Les ennemis de l'épisode
 * Les militaires
