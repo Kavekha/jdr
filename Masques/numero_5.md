@@ -80,10 +80,9 @@ Avec : Orlia et Bi'ân !
   * Elle a un familier qui l'assiste.
 
 ### Citations
-* "Tu sens aussi mauvais que la maison de ce rat!"
-* "Je n'aime pas que tu fréquentes des garçons"
-
-* 
+* "Tu sens aussi mauvais que la maison de ce rat!" (Orlia)
+* "Je n'aime pas que tu fréquentes des garçons" (Embuscade)
+ 
 ### La relation de nos héroines :
 * Orlia et Bi'ân se sont disputées beaucoup.
 * Bi'ân a disparue.
