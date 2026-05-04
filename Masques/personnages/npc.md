@@ -81,7 +81,7 @@
 > Humilié à la télévision par Orlia, il voudra se venger!  
 > Vu dans : 5
 
-# Puissance II
+## Puissance II
 **Rampage**
 > Créature monstrueuse victime du Docteur Doofenshmitrtz et à la recherche d'un Remède pour retrouver son état normal.  
 > A attaqué Moon et ses parents lors d'un repas au restaurant.  
