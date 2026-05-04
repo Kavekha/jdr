@@ -21,7 +21,7 @@ Avec : Orlia et Bi'ân !
 
 ### Ce que l'on a appris !
 * Sur les Scientifiques et la Bombe Nucleaire : 
-  * Robert Doofenshmitz a créé Rampage et peut-être Photovore.
+  * Robert Doofenshmirtz a créé Rampage et peut-être le Blob.
 * Sur le Futur :
   * Le futur est plein d'anomalies visuelles à cause de la bombe Nucléaire, cela atteint les gens eux-mêmes.
 * Sur Tyrannus :
@@ -40,9 +40,9 @@ Avec : Orlia et Bi'ân !
   * Super Héros qui affrontent les criminels.
  
 ### Citations
-"Ils ont déclenchés la fin du Monde!!!" (Bi'ân)
-"Si vous vous attaquez au Blob, vous finirez comme ça" (Orlia)
-"C'est ce que j'appelle un arrêt-sauvetage" (Orlia)
+"Ils ont déclenchés la fin du Monde!!!" (Bi'ân)  
+"Si vous vous attaquez au Blob, vous finirez comme ça" (Orlia)  
+"C'est ce que j'appelle un arrêt-sauvetage" (Orlia)  
 
 ### La relation de nos héroines :
 * En intervenant dans le restaurant, Orlia remarque Moon en compagnie de ses vieux schnocks de parents. Elle réalisera que Moon est peut-être Bi'ân.
