@@ -1,18 +1,23 @@
 # Humains 
 ## Ados
+**Corpès**
+> Frère de Moon. Il se trouve dans le Futur et l'assiste comme il peut depuis là-bas.  
+> vu dans : 1, 2, 3, 5
+
 **George**
-> Camarade de classe de Moon et Lalia, geek de Orlia depuis le Sanctuaire qu'il a découvert avec elle.
+> Camarade de classe de Moon et Lalia, geek de Orlia depuis le Sanctuaire qu'il a découvert avec elle.  
 > vu dans : 3, 4
 
 **Jean-Claude**
-> Camarade de classe de Lalia, et bully de Moon. Lalia l'a calmé lors de leur visite du SupraLab.
-> vu dans : 2, 4
+> Camarade de classe de Lalia, et bully de Moon. Lalia l'a calmé lors de leur visite du SupraLab.  
+> vu dans : 2, 4  
 > Mentionné dans : 3
 
 **Bertrand**
 > Elève en terminal et assistant du Docteur Marcus Gregor.  
 > Il a été sauvé par Bi'Ân dans l'attaque du SupraLab, puis lorsque le Dévoreur de Garulfo visait à le tuer.  
 > Il est apparu dans une vision de Orlia comme celui qui créera l'arme nécessaire pour s'opposer au Maitre des Elements.  
+> Participe au combat contre Marcuzilla en binome avec Bi'Ân.  
 > vu dans : 4, 5
 
 **Janea Gregor**
@@ -53,6 +58,10 @@
 > Enfermé dans le Blob depuis on ne sait quand et pour une raison inconnue. Libéré par Orlia lors de la visite du SupraLab, ce qui conduisit à la destruction du bâtiment.
 > vu dans : 4
 
+**April Onil**
+> Journaliste de TV. A interviewé Bi'Ân et Orlia.  
+> Vu dans : 5
+
 # Super Individus
 ## Puissance I
 **Bête Primordial, soldat d'Elite**
@@ -65,6 +74,12 @@
 > Il aide nos Héros a fuir Rampage, et est protégé par Bi'Ân dans son combat contre Embuscade.  
 > Il demande de l'aide aux Protectrices du Futur contre Bourgeois et sa chasse aux pauvres.  
 > Vu dans : 3, 5
+
+**Bourgeois**
+> Un humain en costume blanc et armé d'une canne-épée. Chasse les Pauvres dans les quartiers abandonnés.  
+> Orphelin s'oppose à lui avec l'aide des Protectrices du Futur.  
+> Humilié à la télévision par Orlia, il voudra se venger!  
+> Vu dans : 5
 
 # Puissance II
 **Rampage**
