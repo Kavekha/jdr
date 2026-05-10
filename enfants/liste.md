@@ -7,7 +7,7 @@
 | ? 2025 | M. | Village Muraille | 5 |  Lee / Sass la Roublarde et Lan le Rodeur |Un Monstre tentaculaire sort du sol : nos héros doivent l'affronter et détruire les 4 pustules sur ses pattes terrifiantes ! |
 | 21 décembre 2025 | G. | Among Us | 1 | Des Imposteurs | Nos héros sont des imposteurs, ils doivent saboter le vaisseau ! |
 | 23 décembre 2025| M. | Dragon Ball | 1 | Magic Boo & Maitre Karine| Nos héros affrontent des Seb-Man avant de participer au Championnat ! |
-| 18 janvier 2026 | M. | Village Muraille | 5 |  Lee / Sass la Roublarde et Lan le Rodeur | Nos héros sont envoyés dans le donjon du Troll pour lui régler son compte. |
+| 18 janvier 2026 | M. | Village Muraille | 6 |  Lee / Sass la Roublarde et Lan le Rodeur | Nos héros sont envoyés dans le donjon du Troll pour lui régler son compte. |
 | 15 mars 2026 | M. | Zelda | 1 | Tictac à la Menthe la Gobeline Roublarde & Paladin Zigh le Piaf  | Deux intrépides héros se reveillent dans une grotte sans mémoire. Ils apprennent qu'ils doivent liberer le pauvre Link. |
 | 5 avril 2026 | G.| Heroic Fantasy | 1 | Kalira la Druidesse & Rowak le Halfelin | Nos héros sont envoyés en mission d'assassinat contre un Mage par le Trafiquant, mais ils sont tous les deux bêtes à manger du foin. |
 | 15 avril 2026 | M. | Zelda |2 | Tictac à la Menthe la Gobeline Roublarde & Paladin Zigh le Piaf | Nos héros arrivent au village Piaf en montures et pénètrent dans la créature Divine Vah'Medoh. |
