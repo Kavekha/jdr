@@ -43,43 +43,44 @@ Avec : Orlia et Alex !
 
 ### Ce que l'on a appris !
 * Sur le Temps : 
- * Les vagues temporelles modifient le futur sans ré-ecrire leur histoire. Cela génère des bugs.
+ * Les vagues temporelles ne changent pas les personnes qui modifient le passé.
 * Sur la Nemesis de Orlia :
-  * L'energie cosmique lui donne de la puissance.
-  * Lui retirer de l'energie cosmique peut-il la faire redevenir humain?
-* Sur Bertrand :
-  * Il ne sait pas ce qu'est devenue Bi'ân ni quelle était sa vraie identité.
-  * Il sait désormais que les Scientifiques sont possiblement responsables de la Bombe et de la destruction du Monde.
-* Sur les Scientifiques et la Bombe Nucleaire : 
-  * Jean Blinde a été capturé par Garulfo et a transformé Marcus Gregor en Godzilla.
-  * Marcus Gregor Godzilla s'est enfuit vers les montagnes, peut-être avec sa fille Janea.
-  * Le Conseil Scientifique a été accusé de la destruction du SupraLaboratoire et du Godzilla.
-  * Garulfo a pris le controle de la ville.
-* Ce que l'on sait sur Bi'ân :
-  * Embuscade est son père.
-  * Elle a disparue.
-  * Son vaisseau a été abimé et récupéré par les Bêtes de Garulfo.
+  * Est-ce une femme?
+* Sur Doofershmirtz :
+ * Il a un lien avec Alex.
+ * Il construit une arme pour voler les pouvoirs du Maitre des Elements.
 * Ce que l'on sait sur Orlia :
-  * Elle a un familier qui l'assiste.
+  * Elle vit dans une cabane que des super-héros cassent régulièrement.
+* Ce que l'on sait sur Alex :
+ * Elle peut se téléporter.
+ * C'est une pitre.
+ * Elle a eu maille à partir avec Damascus et des criminels par le passé.
+* Ce que l'on sait sur Meute Alpha :
+ * Elle sait beaucoup de choses grace aux animaux des villes.
+ * Elle a tenté de controler Orphelin, qui évite son territoire désormais.
+ * C'est une petite vieille en fauteuil roulant, qui dirige une soupe populaire dans le quartier malfamé. 
 
 ### Citations
-* "Tu sens aussi mauvais que la maison de ce rat!" (Orlia)
-* "Je n'aime pas que tu fréquentes des garçons" (Embuscade)
+* "T'es une super héroïne?" (Alex)
+* "L'autre dimension existe toujours?" (Orlia)
+* "On a fait n'importe quoi" (Orlia)
  
 ### La relation de nos héroines :
-* Orlia et Bi'ân se sont disputées beaucoup.
-* Bi'ân a disparue.
+* Orlia et Alex n'ont pas encore confiance l'une envers l'autre.
 
 ### Les ennemis de l'épisode
-* Les Bêtes
-* Le Dévoreur
+* La Professeure Spectre
+* Les Miliciens de Damascus
+* Damascus
+* Godzilla
 * Embuscade
-* Marcuzilla
-* Le Bourgeois
+
+### Questions
+* Qu'est devenue la Pierre Hors du Temps dans l'espace? Existe-t-elle toujours?
+* Qu'est-il arrivé à l'autre dimension?
+* Comment sauver Bi'An?
 
 ### La prochaine fois !
-* L'arrivée d'une nouvelle héroine !
-* L'energie cosmique sauvera le Monde dit Garulfo !
-* Bertrand construit une arme, mais dans quel but?
-
-
+* Face à face avec le Maitre des Elements !
+* Les inventions de Doofershmirtz !
+* La conclusion de l'histoire de la Condamnée !
