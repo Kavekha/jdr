@@ -6,11 +6,11 @@
 
 **George**
 > Camarade de classe de Moon et Lalia, geek de Orlia depuis le Sanctuaire qu'il a découvert avec elle.  
-> vu dans : 3, 4
+> vu dans : 3, 4, 7  
 
 **Jean-Claude**
 > Camarade de classe de Lalia, et bully de Moon. Lalia l'a calmé lors de leur visite du SupraLab.  
-> vu dans : 2, 4  
+> vu dans : 2, 4, 7    
 > Mentionné dans : 3
 
 **Bertrand**
@@ -46,7 +46,7 @@
 > Utilise une Armure Robotique, sous le nom de "Docteur Robot Nucléaire".  
 > A créé Rampage.  
 > Vu dans : 2, 4  
-> Mentionné dans : 3
+> Mentionné dans : 3, 7  
 
 **Genéral Sam Lane**
 > Chef des Militaires en charge de la protection du Conseil Scientifique et du controle de Halycon.
@@ -55,7 +55,7 @@
 
 **Irwin Crane**
 > Membre du Conseil Scientifique.
-> Enfermé dans le Blob depuis on ne sait quand et pour une raison inconnue. Libéré par Orlia lors de la visite du SupraLab, ce qui conduisit à la destruction du bâtiment.
+> Enfermé dans le Blob depuis on ne sait quand et pour une raison inconnue. Libéré par Orlia lors de la visite du SupraLab, ce qui conduisit à la destruction du bâtiment.  
 > vu dans : 4
 
 **April Onil**
@@ -73,19 +73,34 @@
 > Créature Rat-Humain. Il vit dans les égouts et veut empécher les Super Vilains de créer des Orphelins comme lui.  
 > Il aide nos Héros a fuir Rampage, et est protégé par Bi'Ân dans son combat contre Embuscade.  
 > Il demande de l'aide aux Protectrices du Futur contre Bourgeois et sa chasse aux pauvres.  
-> Vu dans : 3, 5
+> Vu dans : 3, 5, 7  
 
 **Bourgeois**
 > Un humain en costume blanc et armé d'une canne-épée. Chasse les Pauvres dans les quartiers abandonnés.  
 > Orphelin s'oppose à lui avec l'aide des Protectrices du Futur.  
 > Humilié à la télévision par Orlia, il voudra se venger!  
-> Vu dans : 5
+> Vu dans : 5  
+
+**Professeure Spectre**
+> Fantome de la professeure Rishima Doshi.  
+> Sauvée par Alex et Orlia, elle a été ressucité grace à des modifications du temps et la Pierre Hors du Temps.  
+> Vu dans : 7  
+
 
 ## Puissance II
 **Rampage**
 > Créature monstrueuse victime du Docteur Doofenshmitrtz et à la recherche d'un Remède pour retrouver son état normal.  
 > A attaqué Moon et ses parents lors d'un repas au restaurant.  
 > vu dans : 3
+
+**Docteur Os'Minog**
+> Alien tentaculaire, affronté par l'Equipe B quand ils se sont réunis pour la première fois.  
+> Mentionné dans : 6  
+
+**Damascus**
+> Petit criminel accompagné d'une armée.  
+> Ancien caïd du territoire malfammé, avant d'être chassé par Alex et Orlia à la demande de Meute Alpha.  
+> Vu dans : 7
 
 ## Puissance III
 **Le Blob**
@@ -97,7 +112,17 @@
 **Embuscade**
 > Agent de Tyrannus envoyé dans le Présent pour assurer le bon déroulement du plan de Alan Garulfo, puis pour éliminer les Protectrices du Futur.   
 > Quand il réalise que Bi'Ân est en réalité Moon, sa fille, il l'emporte avec lui dans le futur. On ne connait pas encore leur destin.  
-> vu dans : 3, 5  
+> vu dans : 3, 5, 7  
+
+**Faille**
+> Créature de pierre de 4m de haut, sous le controle de l'Entreprise Rook. Vaincu par l'Equipe B.  
+> vu dans : 6  
+
+## Puissance IV
+**Meute Alpha**
+> Vieille femme en fauteuil roulant, capable de controler les animaux des villes pour tout espionner.  
+> A la tête du quartier malfammé, d'où elle a fait chasser Damascus.  
+> vu dans : 7  
 
 ## Puissance V
 **Maitre des Elements**
@@ -105,13 +130,13 @@
 > A tué les parents de Orlia pendant sa transformation.  
 > libéré par inadvertance par les Protectrices du Futur lors d'un transfert. En libérté depuis.  
 > vu dans : 2  
-> Mentionné dans : 3, 4
+> Mentionné dans : 3, 4, 7  
 
-**Docteur Marcus Gregor / Marcuzilla **
+**Docteur Marcus Gregor / Marcuzilla**
 > Membre du Conseil Scientifique, tuteur de Bertrand au SupraLab, père de Janea Gregor.  
 > Pour la liberation de sa fille Janea prise en otage par Garulfo, Marcus Gregor accepte d'être transformé en Godzilla par Jean Blinde, prisonnier de Alan Garulfo.  
 > Il sème la terreur dans la ville mais grace aux Protectrices du Futur, il quitte le combat pour chercher sa fille et s'enfuir avec elle dans les montagnes à coté de Halycon.  
-> vu dans : 4, 5  
+> vu dans : 4, 5, 7  
 
 ## Puissance ??
 **Tyrannus**
@@ -128,8 +153,8 @@
 > Armée de Tyrannus dans le futur.   
 > En cours de construction par Alan Garulfo dans le présent : Mark I lors du premier combat contre les Protectrices du Futur.  
 > Mark II lors de leur apparition officielle auprès du public après les évènements de Marcuzilla.  
-> Vu dans : 1, 3, 5  
+> Vu dans : 1, 3, 5   
 
 **La Ligue des Justiciers**
 > Des Super Héros opposés aux SuperVillains.  
-> Mentionné : 3
+> Mentionné : 3  
