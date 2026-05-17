@@ -15,3 +15,4 @@
 | 28 avril 2026 | M. | Zelda | 4 | Tictac à la Menthe la Gobeline Roublarde & Paladin Zigh le Piaf | Nos héros pénètrent dans le camp Yga pour retrouver le Masque Tonnerre, mais refusent de le vendre. Ils partent au prochain village, le village de l'eau.|
 | 30 avril 2026 | G. | Héroic fantasy | 2 | Kalira la Druidesse & Rowak le Halfelin |Nos héros pénètrent dans le chateau des escaliers infinis pour libérer dame Isabelle de la possession du maléfique dieu le Venerable |
 | 10 mai 2026 |M. | Zelda | 5 | Tictac à la Menthe la Gobeline Roublarde & Paladin Zigh le Piaf| Nos héros cherchent les flèches electriques du Centaure et partent à l'assaut de la créature divine Elephant !|
+| 16 mai 2026 |M. | Star Wars | 1 | Klaiv et Gylinette | Nos héros se reveillent dans un vaisseau spatial sur le point d'être détruit. Leur cible Rodio le Robot a disparu et une étrange créature en est responsable. |
