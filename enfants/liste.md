@@ -17,3 +17,4 @@
 | 10 mai 2026 |M. | Zelda | 5 | Tictac à la Menthe la Gobeline Roublarde & Paladin Zigh le Piaf| Nos héros cherchent les flèches electriques du Centaure et partent à l'assaut de la créature divine Elephant !|
 | 16 mai 2026 |M. | Star Wars | 1 | Klaiv et Gylinette | Nos héros se reveillent dans un vaisseau spatial sur le point d'être détruit. Leur cible Rodio le Robot a disparu et une étrange créature en est responsable. |
 |30 mai 2026 |G.| Masques |1|Yugo et L'Ombre Vive |Au carnaval du Mardi-Gras, un homme mysterieux attaque la foule. Nos héros découvrent après affrontement que son clan est sous le coup d'une malediction infligée par les Solariens. |
+| 7 juin 2026 |M. | Zelda | 6 | Tictac Boulet de Canon à la Menthe la Gobeline Roublarde & Paladin Zigh le Piaf| Nos héros sauvent les parents de Tic-Tac sur leur trajet vers la Montagne de la Mort, où ils viennent liberer la Créature-Divine Lezard pour le Boss Goron. |
