@@ -1,20 +1,27 @@
-| Date | GM | Theme | Session | Persos | Résumé |
-|-|-|-|-|-|-|
-| ? 2024 | M. | Village Muraille | 1 | Lee / Sass la Roublarde et Lan le Rodeur | Un troll fait apparaitre un portail pour envahir le village! Nos héros s'y opposent |
-| ? 2024 |M. |Village Muraille | 2 |  Lee / Sass la Roublarde et Lan le Rodeur |Dans la forêt, accompagnés du guide Ring, nos héros vont à la chasse au dragon. |
-| ? 2025 | M. | Village Muraille | 3 |  Lee / Sass la Roublarde et Lan le Rodeur |Dans la montagne, accompagnés du guide Ring et du dragon de Lee-Sass, nos héros vont affronter un dragon de glace ! |
-| ? 2025 | M. | Village Muraille | 4 |  Lee / Sass la Roublarde et Lan le Rodeur |Nos héros pénètrent dans le village des barbares et y affrontent le chef de la Horde ! |
-| ? 2025 | M. | Village Muraille | 5 |  Lee / Sass la Roublarde et Lan le Rodeur |Un Monstre tentaculaire sort du sol : nos héros doivent l'affronter et détruire les 4 pustules sur ses pattes terrifiantes ! |
-| 21 décembre 2025 | G. | Among Us | 1 | Des Imposteurs | Nos héros sont des imposteurs, ils doivent saboter le vaisseau ! |
-| 23 décembre 2025| M. | Dragon Ball | 1 | Magic Boo & Maitre Karine| Nos héros affrontent des Seb-Man avant de participer au Championnat ! |
-| 18 janvier 2026 | M. | Village Muraille | 6 |  Lee / Sass la Roublarde et Lan le Rodeur | Nos héros sont envoyés dans le donjon du Troll pour lui régler son compte. |
-| 15 mars 2026 | M. | Zelda | 1 | Tictac à la Menthe la Gobeline Roublarde & Paladin Zigh le Piaf  | Deux intrépides héros se reveillent dans une grotte sans mémoire. Ils apprennent qu'ils doivent liberer le pauvre Link. |
-| 5 avril 2026 | G.| Heroic Fantasy | 1 | Kalira la Druidesse & Rowak le Halfelin | Nos héros sont envoyés en mission d'assassinat contre un Mage par le Trafiquant, mais ils sont tous les deux bêtes à manger du foin. |
-| 15 avril 2026 | M. | Zelda |2 | Tictac à la Menthe la Gobeline Roublarde & Paladin Zigh le Piaf | Nos héros arrivent au village Piaf en montures et pénètrent dans la créature Divine Vah'Medoh. |
-| 24 avril 2026 | M. | Zelda | 3 | Tictac à la Menthe la Gobeline Roublarde & Paladin Zigh le Piaf | Nos héros affrontent la créature d'ombre dans Vah'medoh. Ils poursuivent leur periple vers le Village Gerudo, où Zigh utilise un déguisement vendu par un Goro. Ils rencontrent la Princesse et sont envoyés au camp Yga. |
-| 28 avril 2026 | M. | Zelda | 4 | Tictac à la Menthe la Gobeline Roublarde & Paladin Zigh le Piaf | Nos héros pénètrent dans le camp Yga pour retrouver le Masque Tonnerre, mais refusent de le vendre. Ils partent au prochain village, le village de l'eau.|
-| 30 avril 2026 | G. | Héroic fantasy | 2 | Kalira la Druidesse & Rowak le Halfelin |Nos héros pénètrent dans le chateau des escaliers infinis pour libérer dame Isabelle de la possession du maléfique dieu le Venerable |
-| 10 mai 2026 |M. | Zelda | 5 | Tictac à la Menthe la Gobeline Roublarde & Paladin Zigh le Piaf| Nos héros cherchent les flèches electriques du Centaure et partent à l'assaut de la créature divine Elephant !|
-| 16 mai 2026 |M. | Star Wars | 1 | Klaiv et Gylinette | Nos héros se reveillent dans un vaisseau spatial sur le point d'être détruit. Leur cible Rodio le Robot a disparu et une étrange créature en est responsable. |
-|30 mai 2026 |G.| Masques |1|Yugo et L'Ombre Vive |Au carnaval du Mardi-Gras, un homme mysterieux attaque la foule. Nos héros découvrent après affrontement que son clan est sous le coup d'une malediction infligée par les Solariens. |
-| 7 juin 2026 |M. | Zelda | 6 | Tictac Boulet de Canon à la Menthe la Gobeline Roublarde & Paladin Zigh le Piaf| Nos héros sauvent les parents de Tic-Tac sur leur trajet vers la Montagne de la Mort, où ils viennent liberer la Créature-Divine Lezard pour le Boss Goron. |
+| Numero | Date | GM | Theme | Session | Persos | Résumé |
+|-|-|-|-|-|-|-|
+| 1 | ? 2024 | M. | Village Muraille | 1 | Lee / Sass la Roublarde et Lan le Rodeur | Un troll fait apparaitre un portail pour envahir le village! Nos héros s'y opposent |
+| 2 | ? 2024 |M. |Village Muraille | 2 |  Lee / Sass la Roublarde et Lan le Rodeur |Dans la forêt, accompagnés du guide Ring, nos héros vont à la chasse au dragon. |
+| 3 | ? 2025 | M. | Village Muraille | 3 |  Lee / Sass la Roublarde et Lan le Rodeur |Dans la montagne, accompagnés du guide Ring et du dragon de Lee-Sass, nos héros vont affronter un dragon de glace ! |
+| 4 | ? 2025 | M. | Village Muraille | 4 |  Lee / Sass la Roublarde et Lan le Rodeur |Nos héros pénètrent dans le village des barbares et y affrontent le chef de la Horde ! |
+| 5 | ? 2025 | M. | Village Muraille | 5 |  Lee / Sass la Roublarde et Lan le Rodeur |Un Monstre tentaculaire sort du sol : nos héros doivent l'affronter et détruire les 4 pustules sur ses pattes terrifiantes ! |
+| 6 | ? 2025 | G. | Missions | 1 |  Revan et ? | Le vaisseau de nos deux héros doit être réparé pour pouvoir partir. |
+| 7 | ? 2025 | G. | Missions | 2 |  Revan et ? | Nos héros doivent affronter une reine maléfique dans son chateau.|
+| 8 | ? 2025 | G. | Missions | 3 |  Revan et ? | Nos héros sont envoyés au milieu d'un camp de voleurs. |
+| 9 | ? 2025 | G. | Missions | 4 |  Link et Maldoror | Nos nouveaux héros accomplissent une mission pour des scientifiques. |
+| 10 | ? 2025 | G. | Missions | 5 |  Link et Maldoror | Nos nouveaux héros profitent de leurs vacances et sont confrontés à un charlatan voleur. |
+| 11 | ? 2025 | G. | Missions | 6 |  Link et Maldoror | Nos nouveaux héros participent à un jeu dans un village abandonné pour obtenir le gros prix! |
+| 12 | 21 décembre 2025 | G. | Among Us | 1 | Des Imposteurs | Nos héros sont des imposteurs, ils doivent saboter le vaisseau ! |
+| 13 | 23 décembre 2025| M. | Dragon Ball | 1 | Magic Boo & Maitre Karine| Nos héros affrontent des Seb-Man avant de participer au Championnat ! |
+| 14 | 18 janvier 2026 | M. | Village Muraille | 6 |  Lee / Sass la Roublarde et Lan le Rodeur | Nos héros sont envoyés dans le donjon du Troll pour lui régler son compte. |
+| 15 | 15 mars 2026 | M. | Zelda | 1 | Tictac à la Menthe la Gobeline Roublarde & Paladin Zigh le Piaf  | Deux intrépides héros se reveillent dans une grotte sans mémoire. Ils apprennent qu'ils doivent liberer le pauvre Link. |
+| 16 | 5 avril 2026 | G.| Heroic Fantasy | 1 | Kalira la Druidesse & Rowak le Halfelin | Nos héros sont envoyés en mission d'assassinat contre un Mage par le Trafiquant, mais ils sont tous les deux bêtes à manger du foin. |
+| 17 | 15 avril 2026 | M. | Zelda |2 | Tictac à la Menthe la Gobeline Roublarde & Paladin Zigh le Piaf | Nos héros arrivent au village Piaf en montures et pénètrent dans la créature Divine Vah'Medoh. |
+| 18 | 24 avril 2026 | M. | Zelda | 3 | Tictac à la Menthe la Gobeline Roublarde & Paladin Zigh le Piaf | Nos héros affrontent la créature d'ombre dans Vah'medoh. Ils poursuivent leur periple vers le Village Gerudo, où Zigh utilise un déguisement vendu par un Goro. Ils rencontrent la Princesse et sont envoyés au camp Yga. |
+| 19 | 28 avril 2026 | M. | Zelda | 4 | Tictac à la Menthe la Gobeline Roublarde & Paladin Zigh le Piaf | Nos héros pénètrent dans le camp Yga pour retrouver le Masque Tonnerre, mais refusent de le vendre. Ils partent au prochain village, le village de l'eau.|
+| 20 | 30 avril 2026 | G. | Héroic fantasy | 2 | Kalira la Druidesse & Rowak le Halfelin |Nos héros pénètrent dans le chateau des escaliers infinis pour libérer dame Isabelle de la possession du maléfique dieu le Venerable |
+| 21 | 10 mai 2026 |M. | Zelda | 5 | Tictac à la Menthe la Gobeline Roublarde & Paladin Zigh le Piaf| Nos héros cherchent les flèches electriques du Centaure et partent à l'assaut de la créature divine Elephant !|
+| 22 | 16 mai 2026 |M. | Star Wars | 1 | Klaiv et Gylinette | Nos héros se reveillent dans un vaisseau spatial sur le point d'être détruit. Leur cible Rodio le Robot a disparu et une étrange créature en est responsable. |
+| 23 |30 mai 2026 |G.| Masques |1|Yugo et L'Ombre Vive |Au carnaval du Mardi-Gras, un homme mysterieux attaque la foule. Nos héros découvrent après affrontement que son clan est sous le coup d'une malediction infligée par les Solariens. |
+| 24 | 7 juin 2026 |M. | Zelda | 6 | Tictac Boulet de Canon à la Menthe la Gobeline Roublarde & Paladin Zigh le Piaf| Nos héros sauvent les parents de Tic-Tac sur leur trajet vers la Montagne de la Mort, où ils viennent liberer la Créature-Divine Lezard pour le Boss Goron. |
+| 25 | 24 juillet 2026 |M. | Zelda | 7 | Tictac Boulet de Canon à la Menthe la Gobeline Roublarde & Paladin Zigh le Piaf| Zigh et Tictac à la Menthe rèvent d'armes légendaires piégées dans un arbre maudit. Ils vont faire face à un Dragon, liberer l'arbre magique, fêter un anniversaire et s'attaquer enfin à la dernière des créatures divines! |
