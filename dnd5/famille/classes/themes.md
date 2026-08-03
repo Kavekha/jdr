@@ -11,7 +11,12 @@
   * Paladin (Serment des Genies Nobles)
 * MysticSubclasses
   * Roublard (Voleur de Magie)
-
+* VillainousOptions
+  * Druide (Cercle des Titans)
+* VillainousOptions2
+  * Moine (Credo du Venin)
+  * Sorcier (Sorcellerie Démonique)
+  
 
 ## Esprits & Morts-vivants & Horreur
 * Updated subclasses
@@ -28,8 +33,15 @@
 * MysticSubclasses
   * Moine (Credo des Arts Mystiques)
   * Occultiste (Protecteur du Vestige)
-  
-
+* VillainousOptions
+  * Prêtre (Domaine de la Pestilence)
+* VillainousOptions2
+  * Barbare (Voie des Lamentations)
+  * Occultiste (Protecteur Primordial)
+  * Guerrier (Chevalier Infernal)
+  * Sorcier (Sorcellerie Démonique)
+ 
+ 
 ## Aventures Pulp
 * Updated subclasses
   * Moine (Credo de l'Intoxication)
@@ -51,7 +63,8 @@
   * Moine (Credo des Arts Mystiques)
   * Paladin (Serment du Garde-Sort)
   * Roublard (Voleur de Magie)
-     
+* VillainousOptions2
+  * Sorcier (Sorcellerie Démonique)     
 
 ## Evil / Anti-héros
 * Updated subclasses
@@ -71,8 +84,17 @@
   * Moine (Credo des Arts Mystiques)
   * Roublard (Voleur de Magie)
   * Occultiste (Protecteur du Vestige)
-          
-  
+* VillainousOptions
+  * Prêtre (Domaine de la Pestilence)         
+  * Druide (Cercle des Titans)
+* VillainousOptions2
+  * Barbare (Voie des Lamentations)
+  * Moine (Credo du Venin)
+  * Occultiste (Protecteur Primordial)
+  * Guerrier (Chevalier Infernal)
+  * Sorcier (Sorcellerie Démonique)
+
+
 ## Fin du Monde
 * Apocalyptic subclasses
   * Druide (Cercle de la Preservation)
@@ -91,7 +113,14 @@
 * MysticSubclasses
   * Roublard (Voleur de Magie)
   * Occultiste (Protecteur du Vestige)
-    
+* VillainousOptions
+  * Prêtre (Domaine de la Pestilence)
+  * Druide (Cercle des Titans)
+* VillainousOptions2
+  * Barbare (Voie des Lamentations)
+  * Occultiste (Protecteur Primordial)
+  * Sorcier (Sorcellerie Démonique)
+   
 
 ## Académie & Haut niveau
 * Arcane subclasses
@@ -111,3 +140,9 @@
   * Moine (Credo des Arts Mystiques)
   * Paladin (Serment du Garde-Sort)
   * Roublard (Voleur de Magie)
+* VillainousOptions
+  * Druide (Cercle des Titans)
+* VillainousOptions2
+   * Occultiste (Protecteur Primordial)
+   * Sorcier (Sorcellerie Démonique)   
+  
