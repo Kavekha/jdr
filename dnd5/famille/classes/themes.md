@@ -16,6 +16,17 @@
 * VillainousOptions2
   * Moine (Credo du Venin)
   * Sorcier (Sorcellerie Démonique)
+* Ouvrages officiels
+  * Barbare (Voie du Gardien ancestral)
+  * Barbare (Voie de la Bête)
+  * Barbare (Voie de la Fracture)
+  * Barbare (Voie de l'Esprit Primal)
+  * Barbare (Voie des Morts Courroucés)
+  * Barde (Collège de la Création)
+  * Barde (Collège de l'Eloquence)
+  * Barde (Collège des Fous)
+  * Barde (Collège des Requiems)
+  * Barde (Collège des Murmures)
   
 
 ## Esprits & Morts-vivants & Horreur
