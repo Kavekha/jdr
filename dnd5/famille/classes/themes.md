@@ -27,6 +27,15 @@
   * Barde (Collège des Fous)
   * Barde (Collège des Requiems)
   * Barde (Collège des Murmures)
+  * Prêtre (Domaine Occulte)
+  * Prêtre (Domaine de l'Inquisition)
+  * Prêtre (Domaine de la Tempête)
+  * Druide (Cercle du Sang)
+  * Druide (Cercle des Rêves)
+  * Druide (Cercle de la Mutation)
+  * Guerrier (Pavois des Combattants)
+  * Guerrier (Creuset Vivant)
+  * Guerrier (Veilleur de la Nuit)
   
 
 ## Esprits & Morts-vivants & Horreur
