@@ -10,7 +10,8 @@
 
 # Specialisation
 ## Incantateur : Soigneur
-| Niveau | Sorts | Niveau de sorts | Nombre de Sorts | Cout (optionnel |
+| Niveau | Sorts | Niveau de sorts | Nombre de Sorts | Cout (optionnel) |
+|-|-|-|-|-|
 | 1 | Soins, Mot de Guerison | 1 | 2 | 50 po |
 | 2 | Bénédiction | 1 | 3 | 200 po |
 | 3 | Bouclier de la Foi | 2 | 4 / 2 | 450 po |
