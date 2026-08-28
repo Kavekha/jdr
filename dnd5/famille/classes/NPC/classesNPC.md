@@ -1,12 +1,12 @@
 # Progression
-| Niveau | Bonus de Base | Bonus Maitrisé | PvMax | Cout (optionnel) | 
-|-|-|-|-|-|
-|1| +1 | +3 | 8 | 0 po |
-|2| +2 | +4 | 13 | 40 po | 
-|3| +2 | +5 | 18 | 180 po |
-|4| +3 | +6 | 23 | 640 po |
-|5| +3 | +7 | 28 | 1250 po |
-|6| +4 | +8 | 33 | 2160 po |
+| Niveau | Compétences maitrisées + Expert | Bonus de Base | Bonus Maitrisé | PvMax | Cout (optionnel) | 
+|-|-|-|-|-|-|
+|1| 1 | +1 | +3 | 8 | 0 po |
+|2| 2 |+2 | +4 | 13 | 40 po | 
+|3| 2 + 1 |+2 | +5 | 18 | 180 po |
+|4| 3 + 1 | +3 | +6 | 23 | 640 po |
+|5| 4 + 1 | +3 | +7 | 28 | 1250 po |
+|6| 4 + 2 | +4 | +8 | 33 | 2160 po |
 
 # Specialisation
 ## Berserker 
