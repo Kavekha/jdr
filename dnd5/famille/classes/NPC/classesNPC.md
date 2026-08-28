@@ -20,19 +20,13 @@
 | 6 | Frappe brutale : la première attaque du round inflige 1d10 dégats supplémentaires | 0 / +2 | +0 | Plusieurs critiques |
 
 
-## Incantateur : Soigneur
-| Niveau | Sorts | Niveau de sorts | Nombre de Sorts | Cout (optionnel) |
+## Voyou 
+| Pouvoir | Capacité | CA / dégats | Bonus Pv | Déclencheur |
 |-|-|-|-|-|
-| 1 | Soins, Mot de Guerison | 1 | 2 | 50 po |
-| 2 | Bénédiction | 1 | 3 | 200 po |
-| 3 | Bouclier de la Foi | 2 | 4 / 2 | 450 po |
-| 4 | Aide | 2 | 4 / 3 | 800 po |
+| 1 | Style de combat : gourdin a 2 mains gigantesque (Les 1-2 deviennent des 3) | 0 / +1 | +2 | Combat contre un incroyable ennemi |
+| 2 | Brutalité : inflige un critique sur un 19-20 | 0 / +1 | +2 | Plusieurs critiques infligés. |
+| 3 | Attaque supplémentaire | 0 / +1 | +2 | Combat héroique |
+| 4 | Détournement : bonus - force une cible a portée à utiliser sa réaction pour frapper l'air ou un allié (Sauvegarde Intel) | +2 / 0 | +1 | Combat contre deux adversaires |
+| 5 | Attaque surprise (1 / jour) : Si avantage sur ennemi ou enemi détourné ou n'ayant jamais joué, inflige 5d6 supplémentaires en passant outre ses defenses. | 0 / +2 | +1 | Prendre par surprise des ennemis et s'en sortir. |
+| 6 | Mauvaise réputation (1 / jour) : Insultes terrifiantes lors de l'attaque pour infliger la Peur aux ennemis qui ratent Sauvegarde Sagesse. DESAV pour ceux qui connaissent sa reputation. | +2 / 0 | +1 | Avoir sa tête mise à prix à 1000 po |
 
-## Expert
-| Niveau | Capacités | Cout (optionnel) |
-|-|-|-|
-| 1 | Serviable : Action bonus pour aider. | 50 po |
-| 2 | Expertise | 200 po |
-| 3 | Ruse : Action bonus pour foncer, se cacher, se désengager   | 450 po |
-| 4 | Expertise | 800 po |
-|5 | Attaque supplémentaire | 1250 po |
