@@ -8,7 +8,7 @@ https://yourquestlogisfull.wordpress.com/2023/02/04/how-to-fix-the-5e-storm-sorc
 | Niveau | Sorts |
 |-|-|
 | 3 | Bourrasque, Fracassement, Vague tonnante |
-| 5 | Appel de la Foudre, Foulée tonitruante, Vol |
+| 5 | Appel de la Foudre, Forme gazeuse, Vol |
 | 7 | Sphère de Tempète, Tempête de grêle, Convocation Elementaire d'Air |
 | 9 | Contrôle des Vents, Vague destructrice, Cône de Froid |
 
