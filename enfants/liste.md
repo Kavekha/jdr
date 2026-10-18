@@ -28,3 +28,4 @@
 | 26 | 3 aout 2026 |M. | Minecraft | 1 | ? | Nous entrons dans le monde de Minecraft et ses horreurs. |
 | 27 | 15 aout 2026 |M. | Zelda | 8 | Tictac Boulet de Canon à la Menthe la Gobeline Roublarde & Paladin Zigh le Piaf| Nos héros partent à l'assaut de la dernière créature divine! |
 | 28 | 30 septembre 2026 |M. | Zelda | 9 | Tictac Boulet de Canon à la Menthe la Gobeline Roublarde & Paladin Zigh le Piaf| FINALE ! Les quatre créatures divines affaiblissent le terrifiant Ganon : le combat final va commencer pour libérer Zelda et Link ! |
+| 29 | 18 octobre 2026 |M. | Among Us | 2 |  Red et Red Bordeaux | Dans le vaisseau, deux imposteurs massacrent l'équipage! Red et Red Bordeaux mènent l'enquête ! |
