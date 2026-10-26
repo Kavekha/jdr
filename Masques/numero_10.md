@@ -42,3 +42,6 @@ Avec : Lalya l'Araignée vénimeuse, Yuna Ribo "Shutzen" et Issa "Sparkle" !
 ### Epilogue
 * Le Chevalier est vaincu.
 * La Mentor va "poursuivre le combat" et s'envole vers l'espace.
+
+### La prochaine fois ...!
+* Le Retour de l'Espada !
